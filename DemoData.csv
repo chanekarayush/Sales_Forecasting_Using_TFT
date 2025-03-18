@@ -1,0 +1,57 @@
+﻿distributor_id,sku,category,sales,quarter,year,time_idx,movement_category,industry,avg_quarterly_sales,total_quarter_sales,prev_quarter_sales,is_diwali,is_ganesh_chaturthi,is_gudi_padwa,is_eid,is_akshay_tritiya,is_dussehra_navratri,is_onam,is_christmas
+DIST001,SKU101,Electronics,1250,1,2023,1,Fast Moving,Consumer Electronics,1250,3750,0,0,0,1,1,0,0,0,0
+DIST001,SKU101,Electronics,1450,2,2023,2,Fast Moving,Consumer Electronics,1350,4350,1250,0,0,0,1,1,0,0,0
+DIST001,SKU101,Electronics,1600,3,2023,3,Fast Moving,Consumer Electronics,1433.33,4850,1450,0,1,0,0,0,1,1,0
+DIST001,SKU101,Electronics,1850,4,2023,4,Fast Moving,Consumer Electronics,1537.50,5150,1600,1,0,0,0,0,0,0,1
+DIST001,SKU101,Electronics,1920,1,2024,5,Fast Moving,Consumer Electronics,1614.00,5370,1850,0,0,1,1,0,0,0,0
+DIST001,SKU101,Electronics,2100,2,2024,6,Fast Moving,Consumer Electronics,1695.00,5870,1920,0,0,0,1,1,0,0,0
+DIST001,SKU101,Electronics,2250,3,2024,7,Fast Moving,Consumer Electronics,1774.29,6270,2100,0,1,0,0,0,1,1,0
+DIST001,SKU101,Electronics,2400,4,2024,8,Fast Moving,Consumer Electronics,1852.50,6750,2250,1,0,0,0,0,0,0,1
+DIST001,SKU102,Home Appliances,850,1,2023,1,Medium,Consumer Electronics,850,2550,0,0,0,1,1,0,0,0,0
+DIST001,SKU102,Home Appliances,920,2,2023,2,Medium,Consumer Electronics,885,2770,850,0,0,0,1,1,0,0,0
+DIST001,SKU102,Home Appliances,980,3,2023,3,Medium,Consumer Electronics,916.67,2900,920,0,1,0,0,0,1,1,0
+DIST001,SKU102,Home Appliances,1100,4,2023,4,Medium,Consumer Electronics,962.50,3150,980,1,0,0,0,0,0,0,1
+DIST001,SKU102,Home Appliances,1150,1,2024,5,Medium,Consumer Electronics,1000.00,3350,1100,0,0,1,1,0,0,0,0
+DIST001,SKU102,Home Appliances,1210,2,2024,6,Medium,Consumer Electronics,1035.00,3460,1150,0,0,0,1,1,0,0,0
+DIST001,SKU102,Home Appliances,1280,3,2024,7,Medium,Consumer Electronics,1070.00,3590,1210,0,1,0,0,0,1,1,0
+DIST001,SKU102,Home Appliances,1350,4,2024,8,Medium,Consumer Electronics,1105.00,3730,1280,1,0,0,0,0,0,0,1
+DIST001,SKU103,Accessories,320,1,2023,1,Slow Moving,Consumer Electronics,320,960,0,0,0,1,1,0,0,0,0
+DIST001,SKU103,Accessories,350,2,2023,2,Slow Moving,Consumer Electronics,335,1005,320,0,0,0,1,1,0,0,0
+DIST001,SKU103,Accessories,330,3,2023,3,Slow Moving,Consumer Electronics,333.33,1000,350,0,1,0,0,0,1,1,0
+DIST001,SKU103,Accessories,410,4,2023,4,Slow Moving,Consumer Electronics,352.50,1090,330,1,0,0,0,0,0,0,1
+DIST001,SKU103,Accessories,390,1,2024,5,Slow Moving,Consumer Electronics,360.00,1130,410,0,0,1,1,0,0,0,0
+DIST001,SKU103,Accessories,420,2,2024,6,Slow Moving,Consumer Electronics,370.00,1220,390,0,0,0,1,1,0,0,0
+DIST001,SKU103,Accessories,400,3,2024,7,Slow Moving,Consumer Electronics,374.29,1210,420,0,1,0,0,0,1,1,0
+DIST001,SKU103,Accessories,450,4,2024,8,Slow Moving,Consumer Electronics,383.75,1260,400,1,0,0,0,0,0,0,1
+DIST001,SKU104,Smartphones,3200,1,2023,1,Fast Moving,Consumer Electronics,3200,9600,0,0,0,1,1,0,0,0,0
+DIST001,SKU104,Smartphones,3450,2,2023,2,Fast Moving,Consumer Electronics,3325,9975,3200,0,0,0,1,1,0,0,0
+DIST001,SKU104,Smartphones,3750,3,2023,3,Fast Moving,Consumer Electronics,3466.67,10400,3450,0,1,0,0,0,1,1,0
+DIST001,SKU104,Smartphones,4100,4,2023,4,Fast Moving,Consumer Electronics,3625.00,11300,3750,1,0,0,0,0,0,0,1
+DIST001,SKU104,Smartphones,4250,1,2024,5,Fast Moving,Consumer Electronics,3750.00,11600,4100,0,0,1,1,0,0,0,0
+DIST001,SKU104,Smartphones,4600,2,2024,6,Fast Moving,Consumer Electronics,3891.67,12350,4250,0,0,0,1,1,0,0,0
+DIST001,SKU104,Smartphones,4850,3,2024,7,Fast Moving,Consumer Electronics,4028.57,13000,4600,0,1,0,0,0,1,1,0
+DIST001,SKU104,Smartphones,5200,4,2024,8,Fast Moving,Consumer Electronics,4175.00,14250,4850,1,0,0,0,0,0,0,1
+DIST001,SKU105,Laptops,2800,1,2023,1,Medium,Consumer Electronics,2800,8400,0,0,0,1,1,0,0,0,0
+DIST001,SKU105,Laptops,2950,2,2023,2,Medium,Consumer Electronics,2875,8625,2800,0,0,0,1,1,0,0,0
+DIST001,SKU105,Laptops,2750,3,2023,3,Medium,Consumer Electronics,2833.33,8500,2950,0,1,0,0,0,1,1,0
+DIST001,SKU105,Laptops,3100,4,2023,4,Medium,Consumer Electronics,2900.00,8800,2750,1,0,0,0,0,0,0,1
+DIST001,SKU105,Laptops,3250,1,2024,5,Medium,Consumer Electronics,2970.00,9050,3100,0,0,1,1,0,0,0,0
+DIST001,SKU105,Laptops,3400,2,2024,6,Medium,Consumer Electronics,3041.67,9350,3250,0,0,0,1,1,0,0,0
+DIST001,SKU105,Laptops,3550,3,2024,7,Medium,Consumer Electronics,3114.29,9650,3400,0,1,0,0,0,1,1,0
+DIST001,SKU105,Laptops,3700,4,2024,8,Medium,Consumer Electronics,3187.50,9950,3550,1,0,0,0,0,0,0,1
+DIST001,SKU106,Smart Watches,780,1,2023,1,Fast Moving,Consumer Electronics,780,2340,0,0,0,1,1,0,0,0,0
+DIST001,SKU106,Smart Watches,850,2,2023,2,Fast Moving,Consumer Electronics,815,2445,780,0,0,0,1,1,0,0,0
+DIST001,SKU106,Smart Watches,920,3,2023,3,Fast Moving,Consumer Electronics,850,2550,850,0,1,0,0,0,1,1,0
+DIST001,SKU106,Smart Watches,1050,4,2023,4,Fast Moving,Consumer Electronics,900,2800,920,1,0,0,0,0,0,0,1
+DIST001,SKU106,Smart Watches,1150,1,2024,5,Fast Moving,Consumer Electronics,950,3120,1050,0,0,1,1,0,0,0,0
+DIST001,SKU106,Smart Watches,1250,2,2024,6,Fast Moving,Consumer Electronics,1000,3450,1150,0,0,0,1,1,0,0,0
+DIST001,SKU106,Smart Watches,1350,3,2024,7,Fast Moving,Consumer Electronics,1050,3750,1250,0,1,0,0,0,1,1,0
+DIST001,SKU106,Smart Watches,1450,4,2024,8,Fast Moving,Consumer Electronics,1100,4050,1350,1,0,0,0,0,0,0,1
+DIST001,SKU107,Headphones,550,1,2023,1,Slow Moving,Consumer Electronics,550,1650,0,0,0,1,1,0,0,0,0
+DIST001,SKU107,Headphones,580,2,2023,2,Slow Moving,Consumer Electronics,565,1695,550,0,0,0,1,1,0,0,0
+DIST001,SKU107,Headphones,610,3,2023,3,Slow Moving,Consumer Electronics,580,1740,580,0,1,0,0,0,1,1,0
+DIST001,SKU107,Headphones,650,4,2023,4,Slow Moving,Consumer Electronics,597.5,1890,610,1,0,0,0,0,0,0,1
+DIST001,SKU107,Headphones,690,1,2024,5,Slow Moving,Consumer Electronics,616,1980,650,0,0,1,1,0,0,0,0
+DIST001,SKU107,Headphones,710,2,2024,6,Slow Moving,Consumer Electronics,631.67,2050,690,0,0,0,1,1,0,0,0
+DIST001,SKU107,Headphones,750,3,2024,7,Slow Moving,Consumer Electronics,648.57,2150,710,0,1,0,0,0,1,1,0
+DIST001,SKU107,Headphones,790,4,2024,8,Slow Moving,Consumer Electronics,666.25,2250,750,1,0,0,0,0,0,0,1
