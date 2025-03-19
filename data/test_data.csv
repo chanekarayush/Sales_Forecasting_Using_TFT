@@ -1,0 +1,1501 @@
+distributor_id,industry,sku,category,sales,avg_quarterly_sales,movement_category,quarter,year,total_quarter_sales,prev_quarter_sales,is_diwali,is_ganesh_chaturthi,is_gudi_padwa,is_eid,is_akshay_tritiya,is_dussehra_navratri,is_onam,is_christmas,time_idx
+DIST033,E-commerce,Cat Mate Pet Fountain,Pet Supplies,5722.56,5975.71,Fast Moving,1,2023,5722.56,8185.25,0,0,1,1,0,0,0,0,24681
+DIST007,E-commerce,Asian Paints Royale Luxury Emulsion,Paint and ancillaries,11442.66,7547.97,Slow Moving,4,2024,11442.66,10992.88,1,0,0,0,0,1,0,1,5226
+DIST013,Manufacturing,Berger Easy Clean,Paint and ancillaries,9127.34,8913.79,Slow Moving,1,2022,9127.34,12032.59,0,0,1,1,0,0,0,0,9400
+DIST029,Manufacturing,Asian Paints Dynamo Adhesive,Paint and ancillaries,6157.67,5602.99,Slow Moving,4,2020,6157.67,6696.71,1,0,0,1,0,1,0,1,20478
+DIST020,Retail,Adidas Ultraboost Sneakers,Apparel,641.16,842.34,Fast Moving,2,2024,641.16,555.94,0,0,1,1,1,0,0,0,14584
+DIST001,Manufacturing,Everest Chicken Masala,Food,836.76,1251.2,Medium,4,2023,836.76,977.12,1,0,0,0,0,1,0,1,105
+DIST007,E-commerce,MAC Ruby Woo Lipstick,Beauty,4680.93,5146.8,Fast Moving,2,2023,4680.93,4949.59,0,0,1,0,1,0,0,0,5539
+DIST018,Manufacturing,Berger Easy Clean,Paint and ancillaries,8046.04,8913.79,Slow Moving,4,2023,8046.04,9038.75,1,0,0,0,0,1,0,1,12962
+DIST006,Financial Services,Asian Paints Apcolite Premium Enamel,Paint and ancillaries,7207.99,6108.35,Medium,3,2023,7207.99,10809.32,0,1,0,1,0,1,1,0,4222
+DIST036,Healthcare,Vaseline Body Lotion,Beauty,1414.76,3547.06,Slow Moving,1,2025,1414.76,2348.83,0,0,1,1,0,0,0,0,26975
+DIST045,E-commerce,Sprite 2.25L Bottle,Beverages,10735.71,7729.18,Slow Moving,3,2021,10735.71,8282.3,0,1,0,1,0,1,1,0,33282
+DIST035,Education,Britannia Good Day Cookies,Food,2777.1,4600.58,Medium,2,2023,2777.1,2265.91,0,0,1,0,1,0,0,0,25692
+DIST037,Education,Remote Control Car,Toys,2167.67,2551.44,Slow Moving,4,2022,2167.67,1845.94,1,0,0,0,0,1,0,1,27927
+DIST018,Manufacturing,Nerolac Impressions HD Paint,Paint and ancillaries,662.9,930.34,Slow Moving,4,2020,662.9,627.7,1,0,0,1,0,1,0,1,13131
+DIST002,Hospitality,Canon EOS R6 Camera,Electronics,4103.32,4083.36,Slow Moving,4,2022,4103.32,2682.3,1,0,0,0,0,1,0,1,1345
+DIST004,Healthcare,Nivea Men Face Wash,Beauty,1888.01,1370.86,Medium,4,2023,1888.01,1445.39,1,0,0,0,0,1,0,1,2693
+DIST013,Manufacturing,Play-Doh Modeling Compound,Toys,3375.46,3242.42,Slow Moving,3,2023,3375.46,2705.45,0,1,0,1,0,1,1,0,9974
+DIST037,Education,Everest Chicken Masala,Food,923.61,1251.2,Slow Moving,1,2024,923.61,1147.27,0,0,1,1,0,0,0,0,27682
+DIST010,E-commerce,Louis Vuitton Neverfull Bag,Apparel,53195.28,68246.14,Slow Moving,2,2023,53195.28,54516.54,0,0,1,0,1,0,0,0,7306
+DIST033,E-commerce,Amaron Battery 45Ah,Automotive,27321.5,15903.38,Medium,3,2025,27321.5,24614.42,0,1,0,0,0,1,1,0,23928
+DIST001,Manufacturing,Me-O Cat Food Seafood 7kg,Pet Supplies,21103.23,21784.25,Slow Moving,3,2024,21103.23,21670.01,0,1,0,0,0,1,1,0,41
+DIST031,Education,Columbia Fleece Jacket,Apparel,31098.01,35348.43,Medium,1,2024,31098.01,62659.81,0,0,1,1,0,0,0,0,22668
+DIST007,E-commerce,Carrom Board Full Size,Toys,7363.22,5188.35,Fast Moving,3,2024,7363.22,6239.63,0,1,0,0,0,1,1,0,5360
+DIST029,Manufacturing,Nerolac Impressions HD Paint,Paint and ancillaries,692.9,930.34,Medium,3,2025,692.9,880.18,0,1,0,0,0,1,1,0,20612
+DIST030,Financial Services,Nivea Men Face Wash,Beauty,1551.03,1370.86,Medium,4,2024,1551.03,1249.41,1,0,0,0,0,1,0,1,21801
+DIST031,Education,Fisher-Price Learning Toys,Toys,3199.67,4397.48,Slow Moving,1,2025,3199.67,7080.62,0,0,1,1,0,0,0,0,22878
+DIST009,Manufacturing,Wilson Tennis Racket,Sports,718.58,1333.02,Slow Moving,1,2023,718.58,1002.81,0,0,1,1,0,0,0,0,6505
+DIST014,Manufacturing,Cosco Volleyball,Sports,766.45,838.75,Medium,2,2021,766.45,1079.62,0,0,1,1,1,0,0,0,10010
+DIST029,Manufacturing,Sprite 2.25L Bottle,Beverages,4834.69,7729.18,Medium,1,2021,4834.69,7897.03,0,0,1,0,0,0,0,0,20806
+DIST009,Manufacturing,Fossil Chronograph Watch,Apparel,1425.02,1148.1,Slow Moving,2,2023,1425.02,2382.01,0,0,1,0,1,0,0,0,6575
+DIST017,Retail,Fossil Chronograph Watch,Apparel,531.05,1148.1,Medium,1,2024,531.05,970.85,0,0,1,1,0,0,0,0,12098
+DIST023,Manufacturing,Asian Paints Royale Luxury Emulsion,Paint and ancillaries,7113.31,7547.97,Slow Moving,3,2020,7113.31,10431.85,0,1,0,0,0,1,1,0,16924
+DIST010,E-commerce,Remote Control Car,Toys,1719.45,2551.44,Slow Moving,2,2021,1719.45,1538.18,0,0,1,1,1,0,0,0,7024
+DIST045,E-commerce,Asian Paints Ultima Protek Exterior,Paint and ancillaries,2042.05,1521.83,Fast Moving,2,2022,2042.05,1208.26,0,0,1,0,1,0,0,0,33904
+DIST041,E-commerce,Lakme Absolute Lipstick,Beauty,4536.18,5131.26,Slow Moving,1,2025,4536.18,7718.23,0,0,1,1,0,0,0,0,30928
+DIST034,E-commerce,Kong Classic Dog Toy,Pet Supplies,3764.0,7035.35,Fast Moving,2,2023,3764.0,3112.14,0,0,1,0,1,0,0,0,25262
+DIST026,Manufacturing,Calvin Klein Boxer Brief Set,Apparel,1725.25,1485.3,Medium,4,2020,1725.25,996.92,1,0,0,1,0,1,0,1,18492
+DIST033,E-commerce,Head & Shoulders Shampoo,Beauty,2085.27,2075.29,Slow Moving,1,2021,2085.27,3334.19,0,0,1,0,0,0,0,0,24182
+DIST008,Manufacturing,Michelin P215/65R16 Tires,Automotive,2223.57,2763.1,Medium,2,2023,2223.57,2354.12,0,0,1,0,1,0,0,0,5698
+DIST004,Healthcare,Haldiram's Bhujia,Food,37661.76,22105.21,Slow Moving,4,2020,37661.76,28564.74,1,0,0,1,0,1,0,1,2550
+DIST032,Manufacturing,Cetaphil Gentle Skin Cleanser,Health,5233.33,4301.95,Fast Moving,2,2025,5233.33,4736.49,0,0,1,1,1,0,0,0,23019
+DIST005,Financial Services,Pepsi 330ml Can Pack,Beverages,18323.52,21367.23,Fast Moving,4,2024,18323.52,15048.09,1,0,0,0,0,1,0,1,3742
+DIST044,Healthcare,Exide Battery 65Ah,Automotive,42278.29,36472.36,Medium,3,2021,42278.29,29722.35,0,1,0,1,0,1,1,0,33189
+DIST002,Hospitality,Berger Silk Luxury Emulsion,Paint and ancillaries,10376.04,6173.7,Medium,2,2021,10376.04,3745.6,0,0,1,1,1,0,0,0,760
+DIST038,Education,Mattel Barbie Dreamhouse,Toys,4763.89,12981.66,Fast Moving,1,2021,4763.89,13718.8,0,0,1,0,0,0,0,0,28033
+DIST017,Retail,DJI Mavic 3 Drone,Electronics,27621.0,22239.75,Fast Moving,3,2022,27621.0,18698.18,0,1,0,1,0,1,1,0,12753
+DIST045,E-commerce,7UP 600ml Bottle,Beverages,1138.56,1285.49,Slow Moving,4,2021,1138.56,772.04,1,0,0,0,0,1,0,1,33696
+DIST004,Healthcare,North Face Puffer Jacket,Apparel,3634.66,8039.47,Slow Moving,1,2022,3634.66,6918.32,0,0,1,1,0,0,0,0,2664
+DIST016,E-commerce,Whiskas Cat Food Tuna 7kg,Pet Supplies,1102.92,1685.14,Medium,2,2021,1102.92,742.83,0,0,1,1,1,0,0,0,11200
+DIST021,Healthcare,Coca-Cola 2L Bottle,Beverages,25538.85,22796.18,Fast Moving,4,2025,25538.85,25094.79,1,0,0,0,0,1,0,1,14956
+DIST032,Manufacturing,Xbox Series X,Toys,4540.02,9659.16,Fast Moving,2,2024,4540.02,3980.44,0,0,1,1,1,0,0,0,23307
+DIST004,Healthcare,Tata Tea Premium 1kg,Beverages,1640.21,1121.9,Fast Moving,3,2020,1640.21,1095.21,0,1,0,0,0,1,1,0,2322
+DIST019,E-commerce,Louis Vuitton Neverfull Bag,Apparel,145340.32,68246.14,Medium,4,2021,145340.32,84031.18,1,0,0,0,0,1,0,1,13838
+DIST023,Manufacturing,Berger WeatherCoat All Guard,Paint and ancillaries,8793.32,13104.57,Medium,2,2020,8793.32,4158.0,0,0,1,1,1,0,0,0,16148
+DIST006,Financial Services,Ensure Protein Powder,Health,4897.73,6692.47,Fast Moving,4,2022,4897.73,3817.41,1,0,0,0,0,1,0,1,4669
+DIST009,Manufacturing,Dr. Morepen Glucometer,Health,14884.61,14827.33,Slow Moving,1,2020,14884.61,13396.15,0,0,1,0,0,0,0,0,6862
+DIST049,Financial Services,Amaron Battery 45Ah,Automotive,13122.68,15903.38,Slow Moving,4,2021,13122.68,13096.98,1,0,0,0,0,1,0,1,36831
+DIST042,Retail,"Sony Bravia 55"" OLED TV",Electronics,2058.36,1982.55,Fast Moving,4,2020,2058.36,1374.37,1,0,0,1,0,1,0,1,32034
+DIST040,Retail,Slazenger Tennis Balls,Sports,5240.7,3804.0,Medium,2,2023,5240.7,3793.72,0,0,1,0,1,0,0,0,29592
+DIST015,Retail,Asian Paints Royale Luxury Emulsion,Paint and ancillaries,4576.2,7547.97,Slow Moving,4,2023,4576.2,4972.0,1,0,0,0,0,1,0,1,10546
+DIST018,Manufacturing,Nerolac Excel Anti-Peel Exterior,Paint and ancillaries,3439.3,3593.19,Slow Moving,3,2021,3439.3,5025.19,0,1,0,1,0,1,1,0,13088
+DIST037,Education,Philips Air Purifier 3000i,Electronics,1767.15,2898.74,Fast Moving,4,2021,1767.15,1499.88,1,0,0,0,0,1,0,1,27426
+DIST041,E-commerce,Lakme Absolute Lipstick,Beauty,6564.95,5131.26,Fast Moving,3,2023,6564.95,5229.85,0,1,0,1,0,1,1,0,30922
+DIST021,Healthcare,Sony WH-1000XM5 Headphones,Electronics,9354.72,9515.13,Medium,2,2024,9354.72,9052.3,0,0,1,1,1,0,0,0,14907
+DIST031,Education,Reynolds Trimax Pen Pack,Office Supplies,724.67,1408.82,Fast Moving,2,2024,724.67,570.13,0,0,1,1,1,0,0,0,22806
+DIST026,Manufacturing,North Face Puffer Jacket,Apparel,16933.39,8039.47,Slow Moving,4,2024,16933.39,8997.23,1,0,0,0,0,1,0,1,18349
+DIST011,Healthcare,Omron Blood Pressure Monitor,Health,2290.59,1819.22,Fast Moving,3,2022,2290.59,1969.0,0,1,0,1,0,1,1,0,7806
+DIST016,E-commerce,Pawzone Cat Scratch Post,Pet Supplies,1593.21,2378.99,Slow Moving,3,2021,1593.21,1373.53,0,1,0,1,0,1,1,0,11841
+DIST027,Wholesale,Faber-Castell Highlighters,Office Supplies,7444.97,6957.07,Medium,3,2025,7444.97,6814.29,0,1,0,0,0,1,1,0,19631
+DIST028,Financial Services,Marvel Action Figure Set,Toys,4572.44,4753.94,Slow Moving,2,2023,4572.44,3580.89,0,0,1,0,1,0,0,0,20332
+DIST006,Financial Services,Philips Air Purifier 3000i,Electronics,4361.61,2898.74,Medium,3,2022,4361.61,2373.93,0,1,0,1,0,1,1,0,4240
+DIST049,Financial Services,JK Tyre 185/65 R15,Automotive,4190.73,3179.2,Medium,2,2022,4190.73,3391.58,0,0,1,0,1,0,0,0,36809
+DIST031,Education,Fevicol Marine Waterproof,Paint and ancillaries,4457.88,3298.47,Fast Moving,2,2023,4457.88,2265.65,0,0,1,0,1,0,0,0,22387
+DIST048,Manufacturing,Savic Dog Carrier,Pet Supplies,3577.03,3801.62,Fast Moving,2,2021,3577.03,2745.96,0,0,1,1,1,0,0,0,35911
+DIST015,Retail,Pedigree Adult Dog Food 10kg,Pet Supplies,4933.59,4920.06,Fast Moving,2,2022,4933.59,4115.77,0,0,1,0,1,0,0,0,10997
+DIST032,Manufacturing,Nerf Elite Blaster,Toys,2301.08,1725.61,Slow Moving,3,2025,2301.08,1945.67,0,1,0,0,0,1,1,0,23105
+DIST024,Hospitality,Himalaya Purifying Neem Face Wash,Beauty,11451.76,9807.82,Medium,3,2022,11451.76,8894.48,0,1,0,1,0,1,1,0,17337
+DIST040,Retail,Faber Chimney Hood,Home Goods,1606.88,1179.46,Medium,4,2024,1606.88,1255.69,1,0,0,0,0,1,0,1,30011
+DIST017,Retail,Remote Control Car,Toys,2406.41,2551.44,Fast Moving,4,2020,2406.41,1838.55,1,0,0,1,0,1,0,1,12722
+DIST046,Manufacturing,Hot Wheels 5-Car Pack,Toys,5011.49,5502.54,Fast Moving,3,2022,5011.49,3251.11,0,1,0,1,0,1,1,0,34203
+DIST040,Retail,Biotique Morning Nectar Lotion,Beauty,1854.45,2458.76,Fast Moving,3,2022,1854.45,1567.46,0,1,0,1,0,1,1,0,29749
+DIST005,Financial Services,Philips Air Purifier 3000i,Electronics,1829.59,2898.74,Fast Moving,2,2020,1829.59,1315.72,0,0,1,1,1,0,0,0,3840
+DIST012,Retail,Asian Paints Premium Emulsion,Paint and ancillaries,16049.95,11871.07,Fast Moving,4,2024,16049.95,20534.7,1,0,0,0,0,1,0,1,8844
+DIST010,E-commerce,JK Tyre 185/65 R15,Automotive,3266.39,3179.2,Fast Moving,3,2025,3266.39,2084.48,0,1,0,0,0,1,1,0,6973
+DIST012,Retail,Asian Paints Dynamo Adhesive,Paint and ancillaries,4538.99,5602.99,Fast Moving,4,2023,4538.99,5519.38,1,0,0,0,0,1,0,1,8725
+DIST040,Retail,Omron Blood Pressure Monitor,Health,1630.86,1819.22,Fast Moving,2,2024,1630.86,1072.48,0,0,1,1,1,0,0,0,29870
+DIST010,E-commerce,Berger Silk Luxury Emulsion,Paint and ancillaries,3643.04,6173.7,Fast Moving,2,2020,3643.04,1509.06,0,0,1,1,1,0,0,0,7067
+DIST004,Healthcare,Uniqlo AIRism Undershirt,Apparel,7369.19,4630.7,Slow Moving,4,2024,7369.19,4479.9,1,0,0,0,0,1,0,1,2651
+DIST004,Healthcare,Cetaphil Gentle Skin Cleanser,Health,4628.48,4301.95,Slow Moving,2,2022,4628.48,3240.01,0,0,1,0,1,0,0,0,2824
+DIST046,Manufacturing,Bosch Spark Plug Set,Automotive,11489.62,5780.38,Medium,4,2025,11489.62,9961.68,1,0,0,0,0,1,0,1,34765
+DIST041,E-commerce,7UP 600ml Bottle,Beverages,1654.46,1285.49,Fast Moving,4,2020,1654.46,1637.71,1,0,0,1,0,1,0,1,30822
+DIST028,Financial Services,Reebok Dumbbells Set,Sports,2362.87,1200.72,Fast Moving,4,2021,2362.87,1709.05,1,0,0,0,0,1,0,1,19962
+DIST017,Retail,Vaseline Body Lotion,Beauty,2741.92,3547.06,Medium,2,2023,2741.92,2370.21,0,0,1,0,1,0,0,0,12232
+DIST045,E-commerce,Pigeon Favorite Electric Kettle,Home Goods,5717.33,6581.96,Slow Moving,2,2025,5717.33,4353.71,0,0,1,1,1,0,0,0,33479
+DIST029,Manufacturing,Patanjali Honey 500g,Food,18585.64,11020.67,Fast Moving,3,2022,18585.64,12214.43,0,1,0,1,0,1,1,0,20999
+DIST032,Manufacturing,Cosco Volleyball,Sports,427.87,838.75,Slow Moving,1,2020,427.87,385.08,0,0,1,0,0,0,0,0,23107
+DIST015,Retail,Speedo Swimming Goggles,Sports,3549.97,2407.12,Fast Moving,3,2023,3549.97,2544.77,0,1,0,1,0,1,1,0,10568
+DIST048,Manufacturing,Faber-Castell Highlighters,Office Supplies,3903.18,6957.07,Medium,3,2021,3903.18,3777.52,0,1,0,1,0,1,1,0,36187
+DIST041,E-commerce,Reynolds Trimax Pen Pack,Office Supplies,940.84,1408.82,Fast Moving,1,2020,940.84,846.76,0,0,1,0,0,0,0,0,30658
+DIST042,Retail,Saffola Active Oil 5L,Food,1865.79,1329.98,Slow Moving,3,2023,1865.79,1163.19,0,1,0,1,0,1,1,0,31491
+DIST005,Financial Services,Bisleri 20L Can,Beverages,4196.34,7506.31,Fast Moving,1,2024,4196.34,8423.41,0,0,1,1,0,0,0,0,3784
+DIST042,Retail,Real Mixed Fruit Juice,Beverages,5338.52,3092.51,Medium,3,2025,5338.52,3357.38,0,1,0,0,0,1,1,0,31248
+DIST038,Education,Farmina N&D Dog Food 12kg,Pet Supplies,1970.4,2546.34,Fast Moving,2,2025,1970.4,1433.56,0,0,1,1,1,0,0,0,28212
+DIST046,Manufacturing,Coca-Cola 2L Bottle,Beverages,12239.69,22796.18,Medium,1,2021,12239.69,25473.73,0,0,1,0,0,0,0,0,34335
+DIST035,Education,Dr. Fixit Raincoat Waterproofing,Paint and ancillaries,951.81,1123.28,Medium,3,2022,951.81,1082.0,0,1,0,1,0,1,1,0,25530
+DIST007,E-commerce,Supreme Plastic Chair Set,Home Goods,2522.56,2453.24,Fast Moving,3,2024,2522.56,2188.62,0,1,0,0,0,1,1,0,4744
+DIST020,Retail,Classmate Notebook Set,Office Supplies,3066.21,5049.67,Medium,4,2024,3066.21,2559.8,1,0,0,0,0,1,0,1,14633
+DIST021,Healthcare,Bombay Dyeing Bedsheet Set,Home Goods,7545.12,6567.88,Slow Moving,3,2023,7545.12,4506.15,0,1,0,1,0,1,1,0,14858
+DIST016,E-commerce,Nike Football,Sports,1452.92,1785.87,Slow Moving,2,2020,1452.92,1307.63,0,0,1,1,1,0,0,0,11789
+DIST020,Retail,Asian Paints Dynamo Adhesive,Paint and ancillaries,3737.96,5602.99,Medium,1,2025,3737.96,5571.17,0,0,1,1,0,0,0,0,14563
+DIST027,Wholesale,Kissan Mixed Fruit Jam,Food,6695.86,8738.38,Slow Moving,2,2023,6695.86,6201.28,0,0,1,0,1,0,0,0,19577
+DIST019,E-commerce,Asian Paints Ultra Adhesive,Paint and ancillaries,4135.33,3065.84,Slow Moving,4,2020,4135.33,3394.86,1,0,0,1,0,1,0,1,13493
+DIST035,Education,Mattel Barbie Dreamhouse,Toys,6377.5,12981.66,Medium,1,2025,6377.5,9900.53,0,0,1,1,0,0,0,0,26135
+DIST049,Financial Services,Amaron Battery 45Ah,Automotive,17679.87,15903.38,Slow Moving,4,2025,17679.87,12681.65,1,0,0,0,0,1,0,1,36847
+DIST031,Education,OnePlus 12 5G,Electronics,1146.86,2251.76,Medium,1,2020,1146.86,1032.17,0,0,1,0,0,0,0,0,22422
+DIST004,Healthcare,Uniqlo AIRism Undershirt,Apparel,5784.78,4630.7,Fast Moving,3,2023,5784.78,3621.43,0,1,0,1,0,1,1,0,2646
+DIST033,E-commerce,Patanjali Ashwagandha,Health,4059.39,3786.83,Slow Moving,2,2023,4059.39,3433.93,0,0,1,0,1,0,0,0,24548
+DIST028,Financial Services,iPhone 15 Pro 256GB,Electronics,8473.37,10013.21,Medium,1,2025,8473.37,17132.93,0,0,1,1,0,0,0,0,19951
+DIST029,Manufacturing,Fortune Sunflower Oil 5L,Food,2422.45,3981.79,Medium,1,2024,2422.45,3209.01,0,0,1,1,0,0,0,0,20700
+DIST025,Financial Services,Michael Kors Crossbody Bag,Apparel,3590.95,7211.41,Fast Moving,2,2020,3590.95,2309.48,0,0,1,1,1,0,0,0,18215
+DIST004,Healthcare,JK Easy Copier Paper,Office Supplies,1015.31,846.22,Slow Moving,1,2025,1015.31,1918.08,0,0,1,1,0,0,0,0,2429
+DIST013,Manufacturing,Reynolds Trimax Pen Pack,Office Supplies,970.84,1408.82,Medium,1,2022,970.84,1070.78,0,0,1,1,0,0,0,0,9624
+DIST015,Retail,Mountain Dew 750ml,Beverages,4230.47,3155.51,Slow Moving,3,2020,4230.47,2877.39,0,1,0,0,0,1,1,0,10831
+DIST043,Education,Zara Slim Fit Blazer,Apparel,14189.78,8387.38,Slow Moving,4,2025,14189.78,7913.5,1,0,0,0,0,1,0,1,32477
+DIST049,Financial Services,Spaces Cotton Towel Set,Home Goods,1361.98,2129.66,Medium,1,2021,1361.98,2606.64,0,0,1,0,0,0,0,0,36762
+DIST036,Healthcare,Adidas Running Shoes,Sports,2454.11,1700.72,Fast Moving,3,2023,2454.11,1779.72,0,1,0,1,0,1,1,0,26496
+DIST046,Manufacturing,Disney Princess Doll,Toys,7268.79,3623.32,Medium,3,2023,7268.79,5444.35,0,1,0,1,0,1,1,0,34299
+DIST025,Financial Services,North Face Puffer Jacket,Apparel,7411.9,8039.47,Medium,1,2020,7411.9,6670.71,0,0,1,0,0,0,0,0,17849
+DIST006,Financial Services,Carrom Board Full Size,Toys,7169.05,5188.35,Medium,3,2025,7169.05,5569.96,0,1,0,0,0,1,1,0,4407
+DIST048,Manufacturing,Wilson Tennis Racket,Sports,1663.79,1333.02,Fast Moving,4,2022,1663.79,1543.38,1,0,0,0,0,1,0,1,35781
+DIST012,Retail,MTR Breakfast Mix,Food,578.03,640.46,Slow Moving,1,2022,578.03,982.12,0,0,1,1,0,0,0,0,8856
+DIST033,E-commerce,Saffola Active Oil 5L,Food,1111.0,1329.98,Slow Moving,2,2022,1111.0,981.28,0,0,1,0,1,0,0,0,24633
+DIST033,E-commerce,Pawzone Cat Scratch Post,Pet Supplies,3312.58,2378.99,Slow Moving,2,2022,3312.58,2141.87,0,0,1,0,1,0,0,0,24231
+DIST008,Manufacturing,Levi's 501 Original Jeans,Apparel,4967.6,7288.33,Slow Moving,1,2021,4967.6,10775.09,0,0,1,0,0,0,0,0,5943
+DIST035,Education,Scotch Magic Tape,Office Supplies,2256.12,4473.52,Slow Moving,2,2021,2256.12,2185.45,0,0,1,1,1,0,0,0,26029
+DIST041,E-commerce,Farmina N&D Dog Food 12kg,Pet Supplies,2050.06,2546.34,Medium,2,2020,2050.06,1608.96,0,0,1,1,1,0,0,0,30587
+DIST011,Healthcare,Nivia Basketball,Sports,5360.2,5532.88,Medium,2,2023,5360.2,3777.75,0,0,1,0,1,0,0,0,8308
+DIST047,Manufacturing,Asian Paints Royale Luxury Emulsion,Paint and ancillaries,6986.33,7547.97,Fast Moving,2,2025,6986.33,3275.65,0,0,1,1,1,0,0,0,35042
+DIST002,Hospitality,Neutrogena Sunscreen SPF 50,Beauty,6861.77,9695.03,Medium,3,2022,6861.77,6530.41,0,1,0,1,0,1,1,0,1180
+DIST028,Financial Services,Fluval Aquarium Filter,Pet Supplies,6437.24,3819.25,Fast Moving,4,2025,6437.24,5245.25,1,0,0,0,0,1,0,1,20025
+DIST016,E-commerce,MAC Ruby Woo Lipstick,Beauty,3721.26,5146.8,Fast Moving,1,2021,3721.26,6555.33,0,0,1,0,0,0,0,0,11267
+DIST029,Manufacturing,Solo Document Bag,Office Supplies,820.8,1429.9,Medium,1,2023,820.8,1532.19,0,0,1,1,0,0,0,0,21111
+DIST034,E-commerce,Honda Engine Oil 10W-30,Automotive,3544.32,4770.42,Slow Moving,2,2020,3544.32,3202.64,0,0,1,1,1,0,0,0,24931
+DIST039,Financial Services,Dove Moisturizing Cream,Beauty,4285.91,3468.33,Slow Moving,2,2024,4285.91,3468.74,0,0,1,1,1,0,0,0,29093
+DIST006,Financial Services,Lenovo ThinkPad X1,Electronics,7660.9,16091.06,Slow Moving,1,2022,7660.9,19493.0,0,0,1,1,0,0,0,0,3988
+DIST024,Hospitality,Play-Doh Modeling Compound,Toys,1518.36,3242.42,Slow Moving,2,2023,1518.36,1430.1,0,0,1,0,1,0,0,0,17159
+DIST011,Healthcare,Hasbro Gaming Jenga,Toys,1007.09,845.34,Fast Moving,1,2025,1007.09,2242.88,0,0,1,1,0,0,0,0,8202
+DIST036,Healthcare,Supreme Plastic Chair Set,Home Goods,3130.31,2453.24,Slow Moving,2,2025,3130.31,2518.87,0,0,1,1,1,0,0,0,26816
+DIST041,E-commerce,Pigeon Favorite Electric Kettle,Home Goods,9419.87,6581.96,Medium,3,2022,9419.87,7121.87,0,1,0,1,0,1,1,0,30620
+DIST045,E-commerce,Lenovo ThinkPad X1,Electronics,14033.71,16091.06,Slow Moving,4,2021,14033.71,8825.84,1,0,0,0,0,1,0,1,33351
+DIST029,Manufacturing,Zara Slim Fit Blazer,Apparel,3260.77,8387.38,Slow Moving,1,2021,3260.77,7764.84,0,0,1,0,0,0,0,0,21216
+DIST040,Retail,PlayStation 5 Digital Edition,Toys,17501.92,13593.1,Medium,3,2022,17501.92,12578.44,0,1,0,1,0,1,1,0,29773
+DIST015,Retail,Under Armour Performance Polo,Apparel,5914.17,7390.86,Medium,3,2023,5914.17,4220.17,0,1,0,1,0,1,1,0,10660
+DIST019,E-commerce,Levi's 501 Original Jeans,Apparel,4155.51,7288.33,Slow Moving,1,2025,4155.51,7009.33,0,0,1,1,0,0,0,0,13711
+DIST025,Financial Services,Classmate Notebook Set,Office Supplies,8351.11,5049.67,Fast Moving,4,2025,8351.11,6287.69,1,0,0,0,0,1,0,1,17804
+DIST015,Retail,Fossil Chronograph Watch,Apparel,843.51,1148.1,Fast Moving,2,2023,843.51,1327.23,0,0,1,0,1,0,0,0,10954
+DIST039,Financial Services,UNO Card Game,Toys,6707.46,6096.26,Fast Moving,2,2024,6707.46,5850.53,0,0,1,1,1,0,0,0,29298
+DIST007,E-commerce,Berger Silk Luxury Emulsion,Paint and ancillaries,6622.6,6173.7,Slow Moving,2,2025,6622.6,2777.38,0,0,1,1,1,0,0,0,4981
+DIST046,Manufacturing,Kissan Mixed Fruit Jam,Food,8465.83,8738.38,Slow Moving,3,2025,8465.83,6017.07,0,1,0,0,0,1,1,0,34006
+DIST044,Healthcare,Dr. Fixit Raincoat Waterproofing,Paint and ancillaries,1560.41,1123.28,Fast Moving,4,2025,1560.41,1390.84,1,0,0,0,0,1,0,1,33114
+DIST006,Financial Services,Philips Air Purifier 3000i,Electronics,3668.95,2898.74,Fast Moving,3,2023,3668.95,2999.36,0,1,0,1,0,1,1,0,4244
+DIST011,Healthcare,Bosch Wiper Blades,Automotive,5222.84,6474.21,Slow Moving,1,2021,5222.84,9525.42,0,0,1,0,0,0,0,0,8369
+DIST042,Retail,Levi's 501 Original Jeans,Apparel,7596.36,7288.33,Medium,1,2023,7596.36,10845.53,0,0,1,1,0,0,0,0,31307
+DIST006,Financial Services,Himalaya Purifying Neem Face Wash,Beauty,14661.75,9807.82,Slow Moving,3,2023,14661.75,11296.4,0,1,0,1,0,1,1,0,4466
+DIST042,Retail,Callaway Golf Club Set,Sports,1512.4,3719.5,Fast Moving,1,2022,1512.4,2858.37,0,0,1,1,0,0,0,0,32084
+DIST030,Financial Services,"LG 32"" HD Ready LED TV",Electronics,1691.05,3616.62,Medium,1,2020,1691.05,1521.94,0,0,1,0,0,0,0,0,21987
+DIST013,Manufacturing,Lakme Absolute Lipstick,Beauty,6587.33,5131.26,Slow Moving,2,2025,6587.33,7682.15,0,0,1,1,1,0,0,0,9935
+DIST028,Financial Services,Dove Moisturizing Cream,Beauty,4329.25,3468.33,Medium,3,2020,4329.25,4009.47,0,1,0,0,0,1,1,0,20254
+DIST013,Manufacturing,Nivia Basketball,Sports,7490.14,5532.88,Slow Moving,4,2025,7490.14,4275.49,1,0,0,0,0,1,0,1,9369
+DIST035,Education,Xbox Series X,Toys,11680.95,9659.16,Slow Moving,2,2024,11680.95,12696.8,0,0,1,1,1,0,0,0,26177
+DIST048,Manufacturing,Borosil Glass Set,Home Goods,2201.38,2770.72,Slow Moving,2,2021,2201.38,1589.73,0,0,1,1,1,0,0,0,36141
+DIST020,Retail,Revlon ColorStay Eyeliner,Beauty,1335.64,3873.66,Fast Moving,1,2022,1335.64,2502.94,0,0,1,1,0,0,0,0,14529
+DIST002,Hospitality,JBL Flip 6 Speaker,Electronics,2012.89,3363.02,Medium,3,2020,2012.89,1252.97,0,1,0,0,0,1,1,0,1241
+DIST021,Healthcare,PetSafe Gentle Leader Collar,Pet Supplies,768.12,1265.77,Fast Moving,2,2020,768.12,709.89,0,0,1,1,1,0,0,0,14800
+DIST024,Hospitality,L'Oreal Paris Shampoo,Beauty,855.48,680.41,Medium,3,2025,855.48,744.98,0,1,0,0,0,1,1,0,17713
+DIST032,Manufacturing,Fevicol Adhesive 200g,Office Supplies,6628.86,5737.77,Fast Moving,3,2023,6628.86,5294.69,0,1,0,1,0,1,1,0,23396
+DIST035,Education,Kong Classic Dog Toy,Pet Supplies,7465.9,7035.35,Medium,1,2024,7465.9,9793.15,0,0,1,1,0,0,0,0,25649
+DIST008,Manufacturing,Prestige Popular Pressure Cooker,Home Goods,1587.74,2876.37,Slow Moving,2,2022,1587.74,1024.67,0,0,1,0,1,0,0,0,5833
+DIST043,Education,Kissan Mixed Fruit Jam,Food,11199.2,8738.38,Slow Moving,3,2022,11199.2,8650.62,0,1,0,1,0,1,1,0,32355
+DIST010,E-commerce,North Face Puffer Jacket,Apparel,9089.22,8039.47,Slow Moving,4,2023,9089.22,7696.29,1,0,0,0,0,1,0,1,7104
+DIST014,Manufacturing,Whiskas Cat Food Tuna 7kg,Pet Supplies,3717.22,1685.14,Medium,4,2025,3717.22,2108.25,1,0,0,0,0,1,0,1,10258
+DIST035,Education,Nerolac Impressions HD Paint,Paint and ancillaries,1970.68,930.34,Medium,2,2020,1970.68,974.27,0,0,1,1,1,0,0,0,25457
+DIST007,E-commerce,Lenovo ThinkPad X1,Electronics,15540.91,16091.06,Fast Moving,3,2022,15540.91,13314.43,0,1,0,1,0,1,1,0,5583
+DIST036,Healthcare,Adidas Running Shoes,Sports,1771.68,1700.72,Medium,1,2025,1771.68,2764.17,0,0,1,1,0,0,0,0,26502
+DIST003,Education,Havells Table Fan,Home Goods,959.12,956.25,Slow Moving,3,2025,959.12,1166.03,0,1,0,0,0,1,1,0,1785
+DIST042,Retail,Shell Helix Ultra 4L,Automotive,6123.43,4141.9,Fast Moving,2,2024,6123.43,5348.28,0,0,1,1,1,0,0,0,31267
+DIST022,E-commerce,Dell XPS 15 Laptop,Electronics,2897.38,6356.26,Medium,1,2024,2897.38,7773.25,0,0,1,1,0,0,0,0,15555
+DIST048,Manufacturing,Havells Table Fan,Home Goods,1183.3,956.25,Medium,3,2021,1183.3,922.48,0,1,0,1,0,1,1,0,36006
+DIST025,Financial Services,Classmate Notebook Set,Office Supplies,5528.75,5049.67,Fast Moving,2,2025,5528.75,4471.88,0,0,1,1,1,0,0,0,17802
+DIST012,Retail,Milton Thermosteel Flask,Home Goods,15155.0,21658.67,Slow Moving,2,2025,15155.0,11026.89,0,0,1,1,1,0,0,0,8915
+DIST046,Manufacturing,Columbia Hiking Backpack,Sports,9277.88,7917.89,Fast Moving,2,2021,9277.88,7313.02,0,0,1,1,1,0,0,0,34956
+DIST009,Manufacturing,Drools Focus Puppy Super Premium 4kg,Pet Supplies,1367.86,1410.32,Slow Moving,2,2020,1367.86,835.26,0,0,1,1,1,0,0,0,6172
+DIST033,E-commerce,Dulux Velvet Touch Diamond Glo,Paint and ancillaries,3166.56,2159.99,Fast Moving,2,2023,3166.56,1492.05,0,0,1,0,1,0,0,0,24391
+DIST048,Manufacturing,MDH Garam Masala,Food,3730.48,6345.93,Medium,2,2021,3730.48,2964.54,0,0,1,1,1,0,0,0,35528
+DIST021,Healthcare,Baidyanath Chyawanprash,Health,6043.31,6209.52,Medium,3,2020,6043.31,4832.07,0,1,0,0,0,1,1,0,15208
+DIST010,E-commerce,Pediasure Growth Supplement,Health,1032.66,1532.91,Medium,3,2020,1032.66,1080.85,0,1,0,0,0,1,1,0,6886
+DIST014,Manufacturing,Coca-Cola 2L Bottle,Beverages,26508.33,22796.18,Medium,1,2025,26508.33,50275.22,0,0,1,1,0,0,0,0,10369
+DIST039,Financial Services,Mattel Barbie Dreamhouse,Toys,17490.19,12981.66,Fast Moving,3,2025,17490.19,17692.62,0,1,0,0,0,1,1,0,29031
+DIST019,E-commerce,Asian Paints Apcolite Premium Enamel,Paint and ancillaries,8120.54,6108.35,Medium,4,2024,8120.54,7626.53,1,0,0,0,0,1,0,1,13896
+DIST033,E-commerce,Pediasure Growth Supplement,Health,2153.53,1532.91,Medium,3,2023,2153.53,1600.1,0,1,0,1,0,1,1,0,24482
+DIST050,Wholesale,Strauss Yoga Mat,Sports,14324.06,18825.74,Fast Moving,2,2023,14324.06,12737.21,0,0,1,0,1,0,0,0,37920
+DIST019,E-commerce,AccuCheck Sugar Test Strips,Health,4217.6,6422.28,Fast Moving,2,2020,4217.6,3994.97,0,0,1,1,1,0,0,0,13624
+DIST022,E-commerce,"Samsung 43"" Crystal 4K TV",Electronics,1723.21,2013.53,Slow Moving,1,2025,1723.21,3513.9,0,0,1,1,0,0,0,0,15806
+DIST019,E-commerce,AccuCheck Sugar Test Strips,Health,5415.11,6422.28,Fast Moving,3,2022,5415.11,4529.32,0,1,0,1,0,1,1,0,13633
+DIST046,Manufacturing,Bosch Wiper Blades,Automotive,4648.32,6474.21,Medium,1,2025,4648.32,8661.21,0,0,1,1,0,0,0,0,34626
+DIST026,Manufacturing,Zandu Balm,Health,9114.46,10870.3,Medium,1,2025,9114.46,15163.54,0,0,1,1,0,0,0,0,18860
+DIST040,Retail,"Samsung 43"" Crystal 4K TV",Electronics,1005.1,2013.53,Slow Moving,1,2020,1005.1,904.59,0,0,1,0,0,0,0,0,29830
+DIST004,Healthcare,Kong Classic Dog Toy,Pet Supplies,6549.04,7035.35,Fast Moving,3,2021,6549.04,4177.56,0,1,0,1,0,1,1,0,2729
+DIST043,Education,Xbox Series X,Toys,9511.61,9659.16,Slow Moving,1,2022,9511.61,13853.21,0,0,1,1,0,0,0,0,32486
+DIST032,Manufacturing,Scotch Magic Tape,Office Supplies,4239.03,4473.52,Slow Moving,2,2021,4239.03,3661.74,0,0,1,1,1,0,0,0,23686
+DIST040,Retail,Mobil Super Mileage 15W-40,Automotive,1361.53,2485.01,Slow Moving,3,2021,1361.53,1070.49,0,1,0,1,0,1,1,0,29721
+DIST020,Retail,Shell Helix Ultra 4L,Automotive,2661.63,4141.9,Fast Moving,3,2025,2661.63,2666.02,0,1,0,0,0,1,1,0,14315
+DIST017,Retail,Speedo Swimming Goggles,Sports,2217.72,2407.12,Medium,3,2022,2217.72,1200.36,0,1,0,1,0,1,1,0,12319
+DIST003,Education,Samsung Galaxy S24 Ultra,Electronics,3819.34,8209.01,Slow Moving,1,2024,3819.34,9135.69,0,0,1,1,0,0,0,0,2077
+DIST031,Education,Fevicol Marine Waterproof,Paint and ancillaries,2548.15,3298.47,Medium,1,2025,2548.15,4023.67,0,0,1,1,0,0,0,0,22394
+DIST042,Retail,Real Mixed Fruit Juice,Beverages,3635.9,3092.51,Medium,4,2020,3635.9,4728.6,1,0,0,1,0,1,0,1,31229
+DIST011,Healthcare,Wilson Tennis Racket,Sports,992.21,1333.02,Fast Moving,2,2021,992.21,925.36,0,0,1,1,1,0,0,0,8032
+DIST023,Manufacturing,Nerf Elite Blaster,Toys,2466.2,1725.61,Slow Moving,4,2020,2466.2,1492.45,1,0,0,1,0,1,0,1,16902
+DIST033,E-commerce,Ray-Ban Wayfarer Sunglasses,Apparel,2659.17,2462.16,Slow Moving,4,2023,2659.17,1140.7,1,0,0,0,0,1,0,1,24833
+DIST032,Manufacturing,H&M Basic T-Shirt Pack,Apparel,2511.66,2242.81,Medium,1,2025,2511.66,4498.62,0,0,1,1,0,0,0,0,23724
+DIST039,Financial Services,Horlicks Classic 1kg,Beverages,943.31,2457.11,Fast Moving,1,2022,943.31,1885.42,0,0,1,1,0,0,0,0,28768
+DIST038,Education,Olay Total Effects Day Cream,Beauty,1668.47,2151.41,Medium,1,2024,1668.47,2937.14,0,0,1,1,0,0,0,0,28184
+DIST035,Education,Patanjali Ashwagandha,Health,3659.0,3786.83,Medium,2,2021,3659.0,3430.57,0,0,1,1,1,0,0,0,25961
+DIST035,Education,Amaron Battery 45Ah,Automotive,16265.98,15903.38,Slow Moving,3,2021,16265.98,19256.96,0,1,0,1,0,1,1,0,26097
+DIST008,Manufacturing,Honda Engine Oil 10W-30,Automotive,2617.9,4770.42,Fast Moving,1,2022,2617.9,5312.53,0,0,1,1,0,0,0,0,5626
+DIST042,Retail,Volini Spray,Health,8086.34,4947.15,Slow Moving,4,2021,8086.34,7051.79,1,0,0,0,0,1,0,1,31970
+DIST040,Retail,Tommy Hilfiger Classic Shirt,Apparel,4112.68,4766.13,Fast Moving,4,2024,4112.68,1953.55,1,0,0,0,0,1,0,1,29369
+DIST033,E-commerce,Tata Tea Premium 1kg,Beverages,1520.02,1121.9,Slow Moving,4,2023,1520.02,1714.94,1,0,0,0,0,1,0,1,24036
+DIST040,Retail,Asian Paints Apcolite Premium Enamel,Paint and ancillaries,2756.66,6108.35,Medium,1,2023,2756.66,4208.74,0,0,1,1,0,0,0,0,29936
+DIST009,Manufacturing,Amaron Battery 45Ah,Automotive,24268.09,15903.38,Fast Moving,3,2021,24268.09,17651.91,0,1,0,1,0,1,1,0,6636
+DIST015,Retail,Vicks VapoRub,Health,4070.67,2366.74,Slow Moving,4,2023,4070.67,2918.84,1,0,0,0,0,1,0,1,10685
+DIST010,E-commerce,Cetaphil Gentle Skin Cleanser,Health,3464.14,4301.95,Slow Moving,4,2021,3464.14,3588.8,1,0,0,0,0,1,0,1,7232
+DIST047,Manufacturing,Philips Air Purifier 3000i,Electronics,3671.26,2898.74,Fast Moving,2,2023,3671.26,6604.67,0,0,1,0,1,0,0,0,35356
+DIST033,E-commerce,Saffola Active Oil 5L,Food,2212.78,1329.98,Slow Moving,3,2023,2212.78,1196.19,0,1,0,1,0,1,1,0,24638
+DIST009,Manufacturing,Fossil Chronograph Watch,Apparel,2719.56,1148.1,Fast Moving,4,2020,2719.56,1147.78,1,0,0,1,0,1,0,1,6566
+DIST014,Manufacturing,Bisleri 20L Can,Beverages,7018.28,7506.31,Fast Moving,4,2024,7018.28,11088.14,1,0,0,0,0,1,0,1,10231
+DIST041,E-commerce,Paper Boat Aam Panna,Beverages,9633.85,6158.53,Fast Moving,3,2024,9633.85,6794.47,0,1,0,0,0,1,1,0,30486
+DIST013,Manufacturing,Play-Doh Modeling Compound,Toys,2705.45,3242.42,Fast Moving,2,2023,2705.45,2840.89,0,0,1,0,1,0,0,0,9973
+DIST050,Wholesale,Pedigree Adult Dog Food 10kg,Pet Supplies,7382.66,4920.06,Medium,4,2020,7382.66,4601.5,1,0,0,1,0,1,0,1,37562
+DIST008,Manufacturing,Honda Engine Oil 10W-30,Automotive,3297.93,4770.42,Medium,1,2023,3297.93,4846.1,0,0,1,1,0,0,0,0,5630
+DIST045,E-commerce,Hasbro Gaming Jenga,Toys,612.28,845.34,Fast Moving,1,2025,612.28,1276.57,0,0,1,1,0,0,0,0,33936
+DIST007,E-commerce,Bosch Spark Plug Set,Automotive,4446.99,5780.38,Fast Moving,2,2021,4446.99,3381.32,0,0,1,1,1,0,0,0,5439
+DIST006,Financial Services,Volini Spray,Health,5964.63,4947.15,Fast Moving,3,2024,5964.63,4088.85,0,1,0,0,0,1,1,0,3951
+DIST004,Healthcare,Levi's 501 Original Jeans,Apparel,5805.1,7288.33,Medium,2,2021,5805.1,4068.52,0,0,1,1,1,0,0,0,2301
+DIST034,E-commerce,Reynolds Trimax Pen Pack,Office Supplies,2040.94,1408.82,Fast Moving,3,2024,2040.94,1681.11,0,1,0,0,0,1,1,0,25221
+DIST035,Education,Real Mixed Fruit Juice,Beverages,2169.37,3092.51,Slow Moving,2,2021,2169.37,1610.2,0,0,1,1,1,0,0,0,26258
+DIST050,Wholesale,Bajaj Mixer Grinder,Home Goods,8965.84,7816.7,Fast Moving,3,2023,8965.84,7760.01,0,1,0,1,0,1,1,0,37480
+DIST042,Retail,Chess Set Wooden,Toys,6177.6,12565.45,Medium,2,2025,6177.6,5424.57,0,0,1,1,1,0,0,0,31543
+DIST020,Retail,Mountain Dew 750ml,Beverages,4323.74,3155.51,Medium,3,2021,4323.74,2462.53,0,1,0,1,0,1,1,0,14759
+DIST025,Financial Services,Bose QuietComfort Earbuds,Electronics,3487.0,3486.49,Slow Moving,1,2025,3487.0,7464.76,0,0,1,1,0,0,0,0,17960
+DIST028,Financial Services,Baidyanath Chyawanprash,Health,8222.49,6209.52,Fast Moving,3,2025,8222.49,8586.68,0,1,0,0,0,1,1,0,20250
+DIST050,Wholesale,Pedigree Adult Dog Food 10kg,Pet Supplies,5458.75,4920.06,Medium,2,2024,5458.75,4688.35,0,0,1,1,1,0,0,0,37575
+DIST037,Education,Cosco Volleyball,Sports,411.03,838.75,Medium,1,2022,411.03,867.42,0,0,1,1,0,0,0,0,27609
+DIST033,E-commerce,Ray-Ban Wayfarer Sunglasses,Apparel,1445.74,2462.16,Medium,1,2023,1445.74,2208.48,0,0,1,1,0,0,0,0,24831
+DIST024,Hospitality,UNO Card Game,Toys,13186.55,6096.26,Medium,4,2022,13186.55,8189.89,1,0,0,0,0,1,0,1,17726
+DIST045,E-commerce,Hasbro Gaming Jenga,Toys,707.54,845.34,Medium,2,2020,707.54,523.26,0,0,1,1,1,0,0,0,33917
+DIST002,Hospitality,Bombay Dyeing Bedsheet Set,Home Goods,13168.5,6567.88,Slow Moving,4,2025,13168.5,10517.51,1,0,0,0,0,1,0,1,1583
+DIST047,Manufacturing,L'Oreal Paris Shampoo,Beauty,525.15,680.41,Slow Moving,1,2021,525.15,920.84,0,0,1,0,0,0,0,0,35370
+DIST006,Financial Services,Himalaya Purifying Neem Face Wash,Beauty,7348.88,9807.82,Fast Moving,1,2022,7348.88,14986.98,0,0,1,1,0,0,0,0,4461
+DIST043,Education,Zara Slim Fit Blazer,Apparel,7473.97,8387.38,Medium,1,2024,7473.97,9754.95,0,0,1,1,0,0,0,0,32472
+DIST037,Education,UNO Card Game,Toys,2247.06,6096.26,Fast Moving,2,2020,2247.06,2396.89,0,0,1,1,1,0,0,0,27738
+DIST045,E-commerce,Mattel Barbie Dreamhouse,Toys,10494.03,12981.66,Medium,1,2022,10494.03,20823.32,0,0,1,1,0,0,0,0,33630
+DIST035,Education,Patanjali Ashwagandha,Health,6715.49,3786.83,Fast Moving,4,2023,6715.49,5558.22,1,0,0,0,0,1,0,1,25971
+DIST038,Education,JBL Flip 6 Speaker,Electronics,3114.26,3363.02,Fast Moving,3,2022,3114.26,1885.83,0,1,0,1,0,1,1,0,28269
+DIST020,Retail,Ray-Ban Wayfarer Sunglasses,Apparel,1592.37,2462.16,Slow Moving,1,2021,1592.37,3977.06,0,0,1,0,0,0,0,0,14733
+DIST032,Manufacturing,Milton Thermosteel Flask,Home Goods,13503.7,21658.67,Fast Moving,3,2025,13503.7,13517.14,0,1,0,0,0,1,1,0,23587
+DIST041,E-commerce,North Face Puffer Jacket,Apparel,4593.28,8039.47,Fast Moving,1,2022,4593.28,9778.14,0,0,1,1,0,0,0,0,30571
+DIST002,Hospitality,Faber Chimney Hood,Home Goods,722.88,1179.46,Fast Moving,1,2023,722.88,1563.07,0,0,1,1,0,0,0,0,1595
+DIST009,Manufacturing,MAC Ruby Woo Lipstick,Beauty,6763.85,5146.8,Fast Moving,3,2021,6763.85,6069.27,0,1,0,1,0,1,1,0,6337
+DIST033,E-commerce,Cat Mate Pet Fountain,Pet Supplies,4575.78,5975.71,Medium,2,2020,4575.78,4009.27,0,0,1,1,1,0,0,0,24670
+DIST032,Manufacturing,Daikin 1.5 Ton Inverter AC,Electronics,7122.07,6722.9,Fast Moving,3,2023,7122.07,4748.59,0,1,0,1,0,1,1,0,23672
+DIST016,E-commerce,Pawzone Cat Scratch Post,Pet Supplies,1602.61,2378.99,Medium,2,2022,1602.61,1384.87,0,0,1,0,1,0,0,0,11844
+DIST001,Manufacturing,Berger Easy Clean,Paint and ancillaries,19661.98,8913.79,Fast Moving,2,2023,19661.98,8432.52,0,0,1,0,1,0,0,0,494
+DIST027,Wholesale,Lakme Absolute Lipstick,Beauty,5965.93,5131.26,Slow Moving,2,2022,5965.93,4175.12,0,0,1,0,1,0,0,0,19458
+DIST020,Retail,Mountain Dew 750ml,Beverages,4946.96,3155.51,Slow Moving,4,2023,4946.96,2685.88,1,0,0,0,0,1,0,1,14766
+DIST013,Manufacturing,Tetra Fish Food 1L,Pet Supplies,11317.94,6832.26,Fast Moving,4,2025,11317.94,7766.3,1,0,0,0,0,1,0,1,9618
+DIST017,Retail,Maybelline Fit Me Foundation,Beauty,1807.55,1223.47,Medium,3,2021,1807.55,936.62,0,1,0,1,0,1,1,0,12908
+DIST017,Retail,Tata Tea Premium 1kg,Beverages,644.07,1121.9,Slow Moving,2,2023,644.07,764.07,0,0,1,0,1,0,0,0,12163
+DIST039,Financial Services,Voltas 2 Ton Window AC,Electronics,5335.93,4366.23,Medium,4,2023,5335.93,2488.6,1,0,0,0,0,1,0,1,29046
+DIST002,Hospitality,Asian Paints Dynamo Adhesive,Paint and ancillaries,2876.88,5602.99,Fast Moving,3,2025,2876.88,5047.67,0,1,0,0,0,1,1,0,1285
+DIST037,Education,Classmate Notebook Set,Office Supplies,5122.11,5049.67,Fast Moving,2,2022,5122.11,4680.96,0,0,1,0,1,0,0,0,27793
+DIST018,Manufacturing,Levi's 501 Original Jeans,Apparel,8761.44,7288.33,Medium,2,2022,8761.44,8265.49,0,0,1,0,1,0,0,0,13113
+DIST021,Healthcare,"Sony Bravia 55"" OLED TV",Electronics,2221.63,1982.55,Slow Moving,2,2024,2221.63,1975.7,0,0,1,1,1,0,0,0,15019
+DIST041,E-commerce,Nerolac Excel Anti-Peel Exterior,Paint and ancillaries,3296.29,3593.19,Medium,2,2021,3296.29,1391.42,0,0,1,1,1,0,0,0,30452
+DIST004,Healthcare,Pantene Anti-Dandruff Shampoo,Beauty,5891.67,5199.53,Fast Moving,3,2021,5891.67,4338.88,0,1,0,1,0,1,1,0,2350
+DIST020,Retail,Adidas Ultraboost Sneakers,Apparel,603.39,842.34,Fast Moving,1,2022,603.39,1026.38,0,0,1,1,0,0,0,0,14575
+DIST031,Education,Dr. Fixit Raincoat Waterproofing,Paint and ancillaries,844.15,1123.28,Slow Moving,4,2021,844.15,737.15,1,0,0,0,0,1,0,1,22268
+DIST028,Financial Services,SG Cricket Ball Set,Sports,7442.16,8729.29,Fast Moving,3,2023,7442.16,5766.44,0,1,0,1,0,1,1,0,20309
+DIST042,Retail,Rubik's Cube Original,Toys,1453.07,2167.18,Fast Moving,4,2024,1453.07,1209.28,1,0,0,0,0,1,0,1,31427
+DIST009,Manufacturing,Berger Silk Luxury Emulsion,Paint and ancillaries,6763.85,6173.7,Fast Moving,2,2022,6763.85,3393.42,0,0,1,0,1,0,0,0,6526
+DIST001,Manufacturing,Asian Paints Tractor Emulsion,Paint and ancillaries,27393.35,22882.43,Medium,3,2024,27393.35,44928.85,0,1,0,0,0,1,1,0,636
+DIST013,Manufacturing,Levi's 501 Original Jeans,Apparel,5995.34,7288.33,Fast Moving,3,2022,5995.34,4358.67,0,1,0,1,0,1,1,0,9716
+DIST025,Financial Services,Michael Kors Crossbody Bag,Apparel,2451.84,7211.41,Fast Moving,1,2022,2451.84,5565.04,0,0,1,1,0,0,0,0,18222
+DIST050,Wholesale,Pigeon Favorite Electric Kettle,Home Goods,5786.61,6581.96,Medium,3,2025,5786.61,4832.93,0,1,0,0,0,1,1,0,37349
+DIST041,E-commerce,Neutrogena Sunscreen SPF 50,Beauty,15712.09,9695.03,Medium,4,2025,15712.09,13617.0,1,0,0,0,0,1,0,1,31156
+DIST021,Healthcare,PlayStation 5 Digital Edition,Toys,15640.9,13593.1,Slow Moving,4,2022,15640.9,11206.69,1,0,0,0,0,1,0,1,14831
+DIST031,Education,Hasbro Gaming Jenga,Toys,861.84,845.34,Fast Moving,1,2025,861.84,1458.56,0,0,1,1,0,0,0,0,22144
+DIST008,Manufacturing,Dr. Fixit Raincoat Waterproofing,Paint and ancillaries,680.38,1123.28,Fast Moving,1,2024,680.38,945.11,0,0,1,1,0,0,0,0,5887
+DIST035,Education,Ajanta Wall Clock,Home Goods,485.99,538.67,Slow Moving,3,2023,485.99,423.74,0,1,0,1,0,1,1,0,25580
+DIST043,Education,Strauss Yoga Mat,Sports,11232.59,18825.74,Medium,1,2020,11232.59,10109.33,0,0,1,0,0,0,0,0,32615
+DIST025,Financial Services,Disney Princess Doll,Toys,3115.25,3623.32,Slow Moving,3,2020,3115.25,2349.04,0,1,0,0,0,1,1,0,17828
+DIST036,Healthcare,Supradyn Multivitamin Tablets,Health,2248.78,3263.81,Slow Moving,1,2021,2248.78,4497.73,0,0,1,0,0,0,0,0,27144
+DIST015,Retail,Vicks VapoRub,Health,2123.25,2366.74,Fast Moving,2,2020,2123.25,1772.61,0,0,1,1,1,0,0,0,10671
+DIST006,Financial Services,Asian Paints Premium Emulsion,Paint and ancillaries,5507.03,11871.07,Slow Moving,1,2024,5507.03,8194.87,0,0,1,1,0,0,0,0,4489
+DIST009,Manufacturing,IFB Microwave Oven,Home Goods,9958.74,11621.95,Slow Moving,3,2020,9958.74,11430.03,0,1,0,0,0,1,1,0,6655
+DIST038,Education,Me-O Cat Food Seafood 7kg,Pet Supplies,14297.62,21784.25,Fast Moving,1,2025,14297.62,24306.99,0,0,1,1,0,0,0,0,28551
+DIST036,Healthcare,Supradyn Multivitamin Tablets,Health,4438.48,3263.81,Medium,3,2022,4438.48,3505.56,0,1,0,1,0,1,1,0,27150
+DIST005,Financial Services,Volini Spray,Health,3263.53,4947.15,Fast Moving,1,2023,3263.53,4266.87,0,0,1,1,0,0,0,0,3076
+DIST048,Manufacturing,Havells Table Fan,Home Goods,979.65,956.25,Medium,2,2022,979.65,770.89,0,0,1,0,1,0,0,0,36009
+DIST031,Education,Dr. Fixit Raincoat Waterproofing,Paint and ancillaries,1391.49,1123.28,Fast Moving,2,2024,1391.49,646.36,0,0,1,1,1,0,0,0,22278
+DIST038,Education,Dulux Velvet Touch Diamond Glo,Paint and ancillaries,3098.02,2159.99,Slow Moving,2,2023,3098.02,1541.45,0,0,1,0,1,0,0,0,28474
+DIST046,Manufacturing,JK Tyre 185/65 R15,Automotive,1566.02,3179.2,Fast Moving,1,2025,1566.02,2840.56,0,0,1,1,0,0,0,0,34462
+DIST005,Financial Services,Funskool Monopoly,Toys,3497.9,3982.36,Fast Moving,2,2022,3497.9,3349.44,0,0,1,0,1,0,0,0,3800
+DIST036,Healthcare,Bosch Wiper Blades,Automotive,7263.98,6474.21,Fast Moving,2,2020,7263.98,5420.45,0,0,1,1,1,0,0,0,27119
+DIST024,Hospitality,Exide Battery 65Ah,Automotive,25047.61,36472.36,Medium,2,2024,25047.61,21054.49,0,0,1,1,1,0,0,0,17545
+DIST035,Education,Funskool Monopoly,Toys,3026.15,3982.36,Fast Moving,2,2022,3026.15,2427.95,0,0,1,0,1,0,0,0,25443
+DIST037,Education,Bosch Wiper Blades,Automotive,11540.08,6474.21,Slow Moving,4,2022,11540.08,7873.34,1,0,0,0,0,1,0,1,27883
+DIST026,Manufacturing,JK Easy Copier Paper,Office Supplies,1594.8,846.22,Slow Moving,4,2022,1594.8,1136.94,1,0,0,0,0,1,0,1,19032
+DIST011,Healthcare,Bajaj Mixer Grinder,Home Goods,6467.0,7816.7,Slow Moving,1,2024,6467.0,10664.72,0,0,1,1,0,0,0,0,7927
+DIST026,Manufacturing,Kong Classic Dog Toy,Pet Supplies,3453.45,7035.35,Fast Moving,1,2021,3453.45,6808.32,0,0,1,0,0,0,0,0,18471
+DIST031,Education,Dulux Velvet Touch Diamond Glo,Paint and ancillaries,1531.12,2159.99,Slow Moving,1,2020,1531.12,1378.01,0,0,1,0,0,0,0,0,22468
+DIST048,Manufacturing,Me-O Cat Food Seafood 7kg,Pet Supplies,26320.74,21784.25,Fast Moving,3,2021,26320.74,20191.45,0,1,0,1,0,1,1,0,35551
+DIST015,Retail,Fevicol Marine Waterproof,Paint and ancillaries,2425.49,3298.47,Slow Moving,3,2025,2425.49,3130.69,0,1,0,0,0,1,1,0,10529
+DIST018,Manufacturing,Havells Table Fan,Home Goods,425.69,956.25,Medium,3,2020,425.69,416.21,0,1,0,0,0,1,1,0,13335
+DIST023,Manufacturing,Cosco Volleyball,Sports,933.41,838.75,Medium,3,2022,933.41,638.88,0,1,0,1,0,1,1,0,16110
+DIST050,Wholesale,Volini Spray,Health,5006.42,4947.15,Medium,3,2020,5006.42,3618.62,0,1,0,0,0,1,1,0,37653
+DIST024,Hospitality,Dr. Fixit Raincoat Waterproofing,Paint and ancillaries,1402.36,1123.28,Fast Moving,4,2022,1402.36,1439.15,1,0,0,0,0,1,0,1,17587
+DIST014,Manufacturing,Fortune Sunflower Oil 5L,Food,6511.08,3981.79,Medium,4,2024,6511.08,6486.83,1,0,0,0,0,1,0,1,10278
+DIST028,Financial Services,PetSafe Drinkwell Water Fountain,Pet Supplies,4970.64,2523.22,Slow Moving,4,2025,4970.64,3713.91,1,0,0,0,0,1,0,1,20206
+DIST042,Retail,MAC Ruby Woo Lipstick,Beauty,8265.32,5146.8,Slow Moving,4,2025,8265.32,7366.41,1,0,0,0,0,1,0,1,31893
+DIST029,Manufacturing,Fortune Sunflower Oil 5L,Food,1744.04,3981.79,Fast Moving,1,2020,1744.04,1569.64,0,0,1,0,0,0,0,0,20684
+DIST050,Wholesale,Bajaj Mixer Grinder,Home Goods,7112.13,7816.7,Medium,2,2020,7112.13,4056.34,0,0,1,1,1,0,0,0,37467
+DIST020,Retail,Wilson Tennis Racket,Sports,1595.27,1333.02,Slow Moving,4,2025,1595.27,1201.76,1,0,0,0,0,1,0,1,14520
+DIST026,Manufacturing,Dell XPS 15 Laptop,Electronics,2409.43,6356.26,Slow Moving,1,2020,2409.43,2168.49,0,0,1,0,0,0,0,0,18307
+DIST039,Financial Services,Horlicks Classic 1kg,Beverages,1300.65,2457.11,Medium,2,2023,1300.65,952.16,0,0,1,0,1,0,0,0,28773
+DIST012,Retail,Fluval Aquarium Filter,Pet Supplies,3715.83,3819.25,Slow Moving,3,2025,3715.83,4240.14,0,1,0,0,0,1,1,0,8778
+DIST026,Manufacturing,Lenovo ThinkPad X1,Electronics,24044.2,16091.06,Slow Moving,4,2021,24044.2,17667.56,1,0,0,0,0,1,0,1,19075
+DIST018,Manufacturing,Speedo Swimming Goggles,Sports,2760.9,2407.12,Slow Moving,4,2022,2760.9,2063.14,1,0,0,0,0,1,0,1,13254
+DIST036,Healthcare,Parle-G Biscuits Value Pack,Food,4537.2,5909.6,Medium,2,2023,4537.2,7268.58,0,0,1,0,1,0,0,0,27408
+DIST005,Financial Services,Revital H Capsules,Health,15495.18,9972.53,Medium,4,2020,15495.18,9696.47,1,0,0,1,0,1,0,1,3318
+DIST021,Healthcare,Philips Headlight Bulbs,Automotive,1958.33,856.36,Slow Moving,4,2025,1958.33,1674.65,1,0,0,0,0,1,0,1,15137
+DIST030,Financial Services,Biotique Morning Nectar Lotion,Beauty,3417.96,2458.76,Fast Moving,2,2020,3417.96,2404.06,0,0,1,1,1,0,0,0,21626
+DIST016,E-commerce,Berger WeatherCoat All Guard,Paint and ancillaries,5683.86,13104.57,Fast Moving,1,2022,5683.86,9687.65,0,0,1,1,0,0,0,0,11319
+DIST043,Education,Baidyanath Chyawanprash,Health,8405.87,6209.52,Medium,2,2024,8405.87,6249.85,0,0,1,1,1,0,0,0,32538
+DIST016,E-commerce,Michelin P215/65R16 Tires,Automotive,4029.88,2763.1,Fast Moving,2,2025,4029.88,2784.32,0,0,1,1,1,0,0,0,11921
+DIST035,Education,PetSafe Gentle Leader Collar,Pet Supplies,1366.15,1265.77,Slow Moving,4,2023,1366.15,1206.93,1,0,0,0,0,1,0,1,25354
+DIST049,Financial Services,iPhone 15 Pro 256GB,Electronics,14070.37,10013.21,Fast Moving,4,2025,14070.37,8872.67,1,0,0,0,0,1,0,1,36892
+DIST050,Wholesale,Bournvita 1kg,Food,36190.01,29034.11,Slow Moving,4,2023,36190.01,41640.48,1,0,0,0,0,1,0,1,37642
+DIST036,Healthcare,Scotch Magic Tape,Office Supplies,7228.94,4473.52,Slow Moving,4,2021,7228.94,6116.93,1,0,0,0,0,1,0,1,26849
+DIST028,Financial Services,Fluval Aquarium Filter,Pet Supplies,5245.25,3819.25,Fast Moving,3,2025,5245.25,4251.52,0,1,0,0,0,1,1,0,20024
+DIST048,Manufacturing,UNO Card Game,Toys,3223.23,6096.26,Medium,3,2020,3223.23,3597.22,0,1,0,0,0,1,1,0,35955
+DIST017,Retail,Columbia Hiking Backpack,Sports,10862.09,7917.89,Fast Moving,4,2024,10862.09,8241.88,1,0,0,0,0,1,0,1,12622
+DIST033,E-commerce,Voltas 2 Ton Window AC,Electronics,2696.8,4366.23,Medium,3,2021,2696.8,1994.11,0,1,0,1,0,1,1,0,24140
+DIST050,Wholesale,OnePlus 12 5G,Electronics,3593.68,2251.76,Fast Moving,4,2025,3593.68,2340.38,1,0,0,0,0,1,0,1,37143
+DIST046,Manufacturing,Bisleri 20L Can,Beverages,3107.29,7506.31,Fast Moving,1,2021,3107.29,6213.64,0,0,1,0,0,0,0,0,34494
+DIST036,Healthcare,Classmate Notebook Set,Office Supplies,4915.17,5049.67,Medium,3,2025,4915.17,4017.7,0,1,0,0,0,1,1,0,27371
+DIST006,Financial Services,Kissan Mixed Fruit Jam,Food,16948.49,8738.38,Slow Moving,3,2024,16948.49,15497.88,0,1,0,0,0,1,1,0,4089
+DIST040,Retail,VLCC Sunscreen Gel,Beauty,9139.91,9014.05,Fast Moving,1,2025,9139.91,15581.87,0,0,1,1,0,0,0,0,29437
+DIST030,Financial Services,Reynolds Trimax Pen Pack,Office Supplies,854.27,1408.82,Medium,1,2024,854.27,1821.16,0,0,1,1,0,0,0,0,21707
+DIST025,Financial Services,Slazenger Tennis Balls,Sports,5029.11,3804.0,Fast Moving,4,2020,5029.11,3517.16,1,0,0,1,0,1,0,1,17920
+DIST038,Education,DJI Mavic 3 Drone,Electronics,10227.82,22239.75,Medium,3,2020,10227.82,8936.4,0,1,0,0,0,1,1,0,28510
+DIST007,E-commerce,Philips Dry Iron,Home Goods,1358.48,1900.07,Fast Moving,2,2022,1358.48,1320.44,0,0,1,0,1,0,0,0,4946
+DIST032,Manufacturing,Asian Paints Dynamo Adhesive,Paint and ancillaries,4007.54,5602.99,Slow Moving,4,2022,4007.54,4371.07,1,0,0,0,0,1,0,1,23184
+DIST021,Healthcare,7UP 600ml Bottle,Beverages,1080.0,1285.49,Fast Moving,3,2025,1080.0,696.85,0,1,0,0,0,1,1,0,15248
+DIST013,Manufacturing,Camlin Permanent Marker Set,Office Supplies,14059.93,17387.3,Slow Moving,3,2021,14059.93,13601.82,0,1,0,1,0,1,1,0,9150
+DIST033,E-commerce,Bournvita 1kg,Food,16140.71,29034.11,Medium,1,2024,16140.71,23262.93,0,0,1,1,0,0,0,0,24103
+DIST017,Retail,Carrom Board Full Size,Toys,2993.36,5188.35,Medium,2,2022,2993.36,2506.12,0,0,1,0,1,0,0,0,12387
+DIST033,E-commerce,Himalaya Purifying Neem Face Wash,Beauty,7957.15,9807.82,Medium,4,2024,7957.15,6002.06,1,0,0,0,0,1,0,1,24416
+DIST043,Education,Kissan Mixed Fruit Jam,Food,13737.03,8738.38,Slow Moving,3,2025,13737.03,12005.35,0,1,0,0,0,1,1,0,32367
+DIST032,Manufacturing,Nivia Basketball,Sports,7553.75,5532.88,Slow Moving,4,2025,7553.75,8448.27,1,0,0,0,0,1,0,1,23335
+DIST009,Manufacturing,Britannia Good Day Cookies,Food,3946.05,4600.58,Slow Moving,1,2024,3946.05,5148.56,0,0,1,1,0,0,0,0,6164
+DIST018,Manufacturing,Bombay Dyeing Bedsheet Set,Home Goods,9619.24,6567.88,Medium,4,2020,9619.24,4747.92,1,0,0,1,0,1,0,1,13200
+DIST006,Financial Services,Canon EOS R6 Camera,Electronics,2494.19,4083.36,Fast Moving,2,2025,2494.19,1911.97,0,0,1,1,1,0,0,0,4138
+DIST017,Retail,Fossil Chronograph Watch,Apparel,480.81,1148.1,Slow Moving,1,2022,480.81,999.06,0,0,1,1,0,0,0,0,12090
+DIST003,Education,Zandu Balm,Health,5833.16,10870.3,Medium,1,2021,5833.16,10677.34,0,0,1,0,0,0,0,0,1744
+DIST040,Retail,Ponds Face Powder,Beauty,2630.99,2244.92,Slow Moving,2,2023,2630.99,2469.18,0,0,1,0,1,0,0,0,29639
+DIST014,Manufacturing,Asian Paints Dynamo Adhesive,Paint and ancillaries,7405.13,5602.99,Fast Moving,4,2023,7405.13,7359.12,1,0,0,0,0,1,0,1,10319
+DIST006,Financial Services,Philips Air Purifier 3000i,Electronics,4881.02,2898.74,Fast Moving,4,2020,4881.02,3164.6,1,0,0,1,0,1,0,1,4235
+DIST007,E-commerce,Fluval Aquarium Filter,Pet Supplies,1759.15,3819.25,Slow Moving,1,2023,1759.15,2997.93,0,0,1,1,0,0,0,0,5468
+DIST010,E-commerce,Kinley Water 1L Pack,Beverages,10823.99,8863.91,Fast Moving,4,2022,10823.99,10359.79,1,0,0,0,0,1,0,1,7351
+DIST046,Manufacturing,Neelgagan Stamp Pad,Office Supplies,479.47,365.18,Medium,3,2023,479.47,399.23,0,1,0,1,0,1,1,0,34920
+DIST024,Hospitality,AutoStark Car Cover,Automotive,3650.24,2929.06,Slow Moving,3,2022,3650.24,2529.79,0,1,0,1,0,1,1,0,17631
+DIST020,Retail,Asian Paints Tractor Emulsion,Paint and ancillaries,23069.72,22882.43,Slow Moving,3,2025,23069.72,31579.11,0,1,0,0,0,1,1,0,14475
+DIST027,Wholesale,Supradyn Multivitamin Tablets,Health,3942.53,3263.81,Slow Moving,3,2020,3942.53,3541.18,0,1,0,0,0,1,1,0,19290
+DIST029,Manufacturing,Red Bull Energy Drink,Beverages,6803.63,7460.29,Fast Moving,3,2022,6803.63,4532.91,0,1,0,1,0,1,1,0,21132
+DIST014,Manufacturing,Rubik's Cube Original,Toys,663.19,2167.18,Medium,1,2021,663.19,1498.05,0,0,1,0,0,0,0,0,9987
+DIST006,Financial Services,Asian Paints Ultima Protek Exterior,Paint and ancillaries,1051.98,1521.83,Fast Moving,4,2022,1051.98,1364.21,1,0,0,0,0,1,0,1,4351
+DIST016,E-commerce,Columbia Hiking Backpack,Sports,11590.37,7917.89,Fast Moving,4,2020,11590.37,5895.89,1,0,0,1,0,1,0,1,11175
+DIST002,Hospitality,Milton Thermosteel Flask,Home Goods,21610.58,21658.67,Medium,4,2020,21610.58,16828.57,1,0,0,1,0,1,0,1,966
+DIST011,Healthcare,Callaway Golf Club Set,Sports,7153.56,3719.5,Medium,3,2025,7153.56,5831.8,0,1,0,0,0,1,1,0,8113
+DIST021,Healthcare,Thums Up 1.25L,Beverages,17365.04,17644.64,Slow Moving,2,2022,17365.04,19806.89,0,0,1,0,1,0,0,0,15035
+DIST001,Manufacturing,Pawzone Cat Scratch Post,Pet Supplies,2768.32,2378.99,Fast Moving,1,2025,2768.32,5339.87,0,0,1,1,0,0,0,0,20
+DIST016,E-commerce,Canon EOS R6 Camera,Electronics,2645.33,4083.36,Fast Moving,1,2021,2645.33,7481.6,0,0,1,0,0,0,0,0,11701
+DIST013,Manufacturing,Asian Paints Apcolite Premium Enamel,Paint and ancillaries,7496.69,6108.35,Medium,4,2025,7496.69,8120.83,1,0,0,0,0,1,0,1,9075
+DIST040,Retail,Tata Salt 1kg,Food,2406.39,2968.99,Fast Moving,1,2024,2406.39,4204.55,0,0,1,1,0,0,0,0,30031
+DIST022,E-commerce,Hot Wheels 5-Car Pack,Toys,6202.24,5502.54,Fast Moving,3,2023,6202.24,4858.81,0,1,0,1,0,1,1,0,16046
+DIST040,Retail,Maybelline Fit Me Foundation,Beauty,1270.71,1223.47,Fast Moving,4,2021,1270.71,1206.38,1,0,0,0,0,1,0,1,29976
+DIST023,Manufacturing,MacBook Air M3,Electronics,17983.56,10338.66,Medium,4,2022,17983.56,8711.46,1,0,0,0,0,1,0,1,16593
+DIST029,Manufacturing,Solo Document Bag,Office Supplies,683.47,1429.9,Medium,1,2021,683.47,1184.27,0,0,1,0,0,0,0,0,21103
+DIST015,Retail,"Sony Bravia 55"" OLED TV",Electronics,1560.89,1982.55,Slow Moving,2,2022,1560.89,1273.52,0,0,1,0,1,0,0,0,10862
+DIST048,Manufacturing,Parker Vector Fountain Pen,Office Supplies,11898.22,13816.22,Fast Moving,3,2021,11898.22,11646.0,0,1,0,1,0,1,1,0,36303
+DIST008,Manufacturing,Callaway Golf Club Set,Sports,2109.89,3719.5,Slow Moving,1,2023,2109.89,3075.3,0,0,1,1,0,0,0,0,5789
+DIST008,Manufacturing,Prestige Popular Pressure Cooker,Home Goods,1833.35,2876.37,Slow Moving,4,2020,1833.35,1654.2,1,0,0,1,0,1,0,1,5827
+DIST024,Hospitality,Lego Classic Creative Box,Toys,13533.0,16891.13,Slow Moving,1,2024,13533.0,28663.36,0,0,1,1,0,0,0,0,17685
+DIST021,Healthcare,Nivea Men Face Wash,Beauty,1915.18,1370.86,Slow Moving,4,2025,1915.18,1505.76,1,0,0,0,0,1,0,1,15160
+DIST023,Manufacturing,Uniqlo AIRism Undershirt,Apparel,2581.54,4630.7,Medium,2,2021,2581.54,1917.45,0,0,1,1,1,0,0,0,16244
+DIST043,Education,Fluval Aquarium Filter,Pet Supplies,5177.17,3819.25,Medium,3,2021,5177.17,4080.6,0,1,0,1,0,1,1,0,32691
+DIST001,Manufacturing,JBL Flip 6 Speaker,Electronics,2016.11,3363.02,Medium,2,2023,2016.11,1266.67,0,0,1,0,1,0,0,0,562
+DIST013,Manufacturing,Revlon ColorStay Eyeliner,Beauty,7851.32,3873.66,Medium,4,2022,7851.32,4355.71,1,0,0,0,0,1,0,1,9586
+DIST019,E-commerce,Sony WH-1000XM5 Headphones,Electronics,6843.87,9515.13,Fast Moving,1,2024,6843.87,17292.72,0,0,1,1,0,0,0,0,13776
+DIST009,Manufacturing,Wilson Tennis Racket,Sports,801.63,1333.02,Slow Moving,1,2022,801.63,1207.81,0,0,1,1,0,0,0,0,6501
+DIST050,Wholesale,MTR Breakfast Mix,Food,601.36,640.46,Medium,1,2024,601.36,916.78,0,0,1,1,0,0,0,0,37113
+DIST016,E-commerce,Canon EOS R6 Camera,Electronics,6010.93,4083.36,Slow Moving,3,2023,6010.93,3347.23,0,1,0,1,0,1,1,0,11710
+DIST039,Financial Services,JBL Flip 6 Speaker,Electronics,9888.39,3363.02,Fast Moving,4,2024,9888.39,5876.31,1,0,0,0,0,1,0,1,29072
+DIST021,Healthcare,Lenovo ThinkPad X1,Electronics,23639.86,16091.06,Medium,3,2025,23639.86,14717.91,0,1,0,0,0,1,1,0,15336
+DIST005,Financial Services,Philips Air Purifier 3000i,Electronics,1953.41,2898.74,Fast Moving,2,2022,1953.41,1336.23,0,0,1,0,1,0,0,0,3848
+DIST017,Retail,Basil Rubber Chew Toy,Pet Supplies,13366.44,10800.74,Fast Moving,4,2021,13366.44,11431.1,1,0,0,0,0,1,0,1,12112
+DIST021,Healthcare,Philips Headlight Bulbs,Automotive,1173.27,856.36,Fast Moving,2,2025,1173.27,931.02,0,0,1,1,1,0,0,0,15135
+DIST009,Manufacturing,Zandu Balm,Health,12695.89,10870.3,Slow Moving,2,2025,12695.89,10197.4,0,0,1,1,1,0,0,0,6813
+DIST033,E-commerce,Vans Old Skool Sneakers,Apparel,18837.55,13401.03,Slow Moving,3,2023,18837.55,12318.84,0,1,0,1,0,1,1,0,24770
+DIST018,Manufacturing,Nike Football,Sports,1319.74,1785.87,Medium,1,2024,1319.74,2293.0,0,0,1,1,0,0,0,0,13282
+DIST047,Manufacturing,Baidyanath Chyawanprash,Health,8185.79,6209.52,Fast Moving,1,2024,8185.79,12804.2,0,0,1,1,0,0,0,0,35315
+DIST011,Healthcare,Lakme Absolute Lipstick,Beauty,3879.02,5131.26,Medium,3,2023,3879.02,2764.74,0,1,0,1,0,1,1,0,8220
+DIST049,Financial Services,Haldiram's Bhujia,Food,20698.74,22105.21,Slow Moving,3,2023,20698.74,11488.76,0,1,0,1,0,1,1,0,36929
+DIST029,Manufacturing,Patanjali Ashwagandha,Health,3736.36,3786.83,Slow Moving,2,2025,3736.36,2712.51,0,0,1,1,1,0,0,0,21209
+DIST010,E-commerce,Honda Engine Oil 10W-30,Automotive,8082.18,4770.42,Fast Moving,4,2023,8082.18,6770.4,1,0,0,0,0,1,0,1,7193
+DIST016,E-commerce,Chess Set Wooden,Toys,9407.02,12565.45,Slow Moving,1,2022,9407.02,19765.57,0,0,1,1,0,0,0,0,11247
+DIST033,E-commerce,Patanjali Honey 500g,Food,18891.76,11020.67,Fast Moving,4,2023,18891.76,22314.59,1,0,0,0,0,1,0,1,24812
+DIST040,Retail,Exide Battery 65Ah,Automotive,28432.5,36472.36,Medium,3,2023,28432.5,23607.39,0,1,0,1,0,1,1,0,29821
+DIST007,E-commerce,Shell Helix Ultra 4L,Automotive,5090.88,4141.9,Fast Moving,2,2024,5090.88,3712.58,0,0,1,1,1,0,0,0,4930
+DIST050,Wholesale,Pedigree Adult Dog Food 10kg,Pet Supplies,7496.97,4920.06,Fast Moving,3,2024,7496.97,5458.75,0,1,0,0,0,1,1,0,37576
+DIST042,Retail,Callaway Golf Club Set,Sports,1997.03,3719.5,Slow Moving,2,2021,1997.03,2974.98,0,0,1,1,1,0,0,0,32081
+DIST013,Manufacturing,Levi's 501 Original Jeans,Apparel,4154.31,7288.33,Medium,1,2022,4154.31,9630.46,0,0,1,1,0,0,0,0,9714
+DIST036,Healthcare,Honda Engine Oil 10W-30,Automotive,5153.36,4770.42,Fast Moving,3,2020,5153.36,4649.7,0,1,0,0,0,1,1,0,26821
+DIST046,Manufacturing,Bisleri 20L Can,Beverages,7797.85,7506.31,Slow Moving,3,2023,7797.85,4790.54,0,1,0,1,0,1,1,0,34504
+DIST011,Healthcare,MTR Breakfast Mix,Food,430.39,640.46,Medium,4,2022,430.39,507.98,1,0,0,0,0,1,0,1,8398
+DIST012,Retail,Castrol Engine Oil 3L,Automotive,3129.95,5056.99,Slow Moving,2,2024,3129.95,2699.62,0,0,1,1,1,0,0,0,8496
+DIST002,Hospitality,Farmina N&D Dog Food 12kg,Pet Supplies,2776.13,2546.34,Fast Moving,3,2025,2776.13,2853.33,0,1,0,0,0,1,1,0,1214
+DIST029,Manufacturing,Nike Football,Sports,2792.5,1785.87,Fast Moving,4,2022,2792.5,1754.95,1,0,0,0,0,1,0,1,20837
+DIST001,Manufacturing,Ponds Face Powder,Beauty,2132.63,2244.92,Fast Moving,2,2024,2132.63,1591.91,0,0,1,1,1,0,0,0,475
+DIST019,E-commerce,Calvin Klein Boxer Brief Set,Apparel,1483.67,1485.3,Slow Moving,2,2020,1483.67,903.66,0,0,1,1,1,0,0,0,13560
+DIST048,Manufacturing,Borosil Glass Set,Home Goods,2119.24,2770.72,Fast Moving,3,2022,2119.24,2197.66,0,1,0,1,0,1,1,0,36146
+DIST001,Manufacturing,UNO Card Game,Toys,9482.63,6096.26,Medium,4,2021,9482.63,6311.28,1,0,0,0,0,1,0,1,189
+DIST013,Manufacturing,Thums Up 1.25L,Beverages,16016.97,17644.64,Fast Moving,3,2023,16016.97,10285.74,0,1,0,1,0,1,1,0,9767
+DIST005,Financial Services,Pidilite M-Seal,Paint and ancillaries,1432.43,1812.46,Medium,4,2022,1432.43,1480.18,1,0,0,0,0,1,0,1,3578
+DIST048,Manufacturing,Fossil Chronograph Watch,Apparel,1147.31,1148.1,Slow Moving,4,2020,1147.31,572.97,1,0,0,1,0,1,0,1,35888
+DIST029,Manufacturing,Volini Spray,Health,8311.57,4947.15,Fast Moving,3,2023,8311.57,6778.92,0,1,0,1,0,1,1,0,21249
+DIST007,E-commerce,Lego Classic Creative Box,Toys,26055.33,16891.13,Medium,4,2022,26055.33,14258.15,1,0,0,0,0,1,0,1,4715
+DIST037,Education,Basil Rubber Chew Toy,Pet Supplies,11968.76,10800.74,Slow Moving,3,2025,11968.76,11305.78,0,1,0,0,0,1,1,0,27735
+DIST016,E-commerce,Asian Paints Tractor Emulsion,Paint and ancillaries,8921.29,22882.43,Fast Moving,1,2021,8921.29,13620.77,0,0,1,0,0,0,0,0,11380
+DIST050,Wholesale,Pigeon Favorite Electric Kettle,Home Goods,7332.03,6581.96,Slow Moving,4,2023,7332.03,5136.27,1,0,0,0,0,1,0,1,37342
+DIST046,Manufacturing,Disney Princess Doll,Toys,4724.91,3623.32,Medium,2,2021,4724.91,8901.67,0,0,1,1,1,0,0,0,34290
+DIST022,E-commerce,Nestle Maggi Noodles,Food,3034.68,3119.14,Slow Moving,1,2024,3034.68,3883.29,0,0,1,1,0,0,0,0,15624
+DIST031,Education,Neutrogena Sunscreen SPF 50,Beauty,16363.89,9695.03,Slow Moving,4,2023,16363.89,10845.19,1,0,0,0,0,1,0,1,22782
+DIST050,Wholesale,Louis Vuitton Neverfull Bag,Apparel,95837.11,68246.14,Medium,2,2024,95837.11,68069.98,0,0,1,1,1,0,0,0,37067
+DIST002,Hospitality,Fortune Sunflower Oil 5L,Food,8060.04,3981.79,Fast Moving,3,2022,8060.04,4681.31,0,1,0,1,0,1,1,0,1044
+DIST008,Manufacturing,Everest Chicken Masala,Food,1357.23,1251.2,Slow Moving,3,2021,1357.23,970.69,0,1,0,1,0,1,1,0,6132
+DIST007,E-commerce,Xbox Series X,Toys,10009.84,9659.16,Slow Moving,1,2024,10009.84,16099.85,0,0,1,1,0,0,0,0,5088
+DIST010,E-commerce,3M Car Care Kit,Automotive,44580.92,33045.78,Fast Moving,3,2024,44580.92,34093.06,0,1,0,0,0,1,1,0,7745
+DIST010,E-commerce,Puma Running Shorts,Apparel,2448.43,9210.96,Medium,1,2020,2448.43,2203.59,0,0,1,0,0,0,0,0,7363
+DIST014,Manufacturing,Fortune Sunflower Oil 5L,Food,2937.5,3981.79,Fast Moving,1,2021,2937.5,7515.25,0,0,1,0,0,0,0,0,10263
+DIST015,Retail,Pedigree Adult Dog Food 10kg,Pet Supplies,4898.17,4920.06,Fast Moving,1,2025,4898.17,7682.58,0,0,1,1,0,0,0,0,11008
+DIST024,Hospitality,Himalaya Purifying Neem Face Wash,Beauty,12122.79,9807.82,Medium,3,2025,12122.79,8975.15,0,1,0,0,0,1,1,0,17349
+DIST047,Manufacturing,Reynolds Trimax Pen Pack,Office Supplies,2272.47,1408.82,Medium,4,2022,2272.47,1848.58,1,0,0,0,0,1,0,1,35286
+DIST024,Hospitality,Himalaya Purifying Neem Face Wash,Beauty,10680.17,9807.82,Fast Moving,3,2021,10680.17,8675.71,0,1,0,1,0,1,1,0,17333
+DIST025,Financial Services,Reebok Dumbbells Set,Sports,1407.7,1200.72,Medium,2,2023,1407.7,1301.47,0,0,1,0,1,0,0,0,17999
+DIST041,E-commerce,Asian Paints Tractor Emulsion,Paint and ancillaries,10544.37,22882.43,Slow Moving,4,2024,10544.37,12871.03,1,0,0,0,0,1,0,1,30724
+DIST037,Education,Asian Paints Dynamo Adhesive,Paint and ancillaries,2528.19,5602.99,Medium,1,2025,2528.19,3893.62,0,0,1,1,0,0,0,0,27845
+DIST039,Financial Services,Speedo Swimming Goggles,Sports,2835.87,2407.12,Fast Moving,2,2021,2835.87,1777.17,0,0,1,1,1,0,0,0,29170
+DIST033,E-commerce,Patanjali Honey 500g,Food,7570.98,11020.67,Slow Moving,1,2021,7570.98,15859.95,0,0,1,0,0,0,0,0,24803
+DIST022,E-commerce,Kinley Water 1L Pack,Beverages,12600.26,8863.91,Medium,4,2020,12600.26,9409.42,1,0,0,1,0,1,0,1,15702
+DIST002,Hospitality,Coca-Cola 2L Bottle,Beverages,20846.49,22796.18,Medium,4,2024,20846.49,13716.59,1,0,0,0,0,1,0,1,1511
+DIST046,Manufacturing,Nerolac Beauty Gold Washable,Paint and ancillaries,2489.81,2630.98,Slow Moving,1,2024,2489.81,3497.27,0,0,1,1,0,0,0,0,33955
+DIST025,Financial Services,Uniqlo AIRism Undershirt,Apparel,2777.46,4630.7,Slow Moving,1,2025,2777.46,5664.83,0,0,1,1,0,0,0,0,18210
+DIST032,Manufacturing,Vaseline Body Lotion,Beauty,3047.94,3547.06,Medium,2,2020,3047.94,3184.67,0,0,1,1,1,0,0,0,23544
+DIST024,Hospitality,Levi's 501 Original Jeans,Apparel,10096.63,7288.33,Medium,4,2020,10096.63,6474.63,1,0,0,1,0,1,0,1,17354
+DIST009,Manufacturing,MTR Breakfast Mix,Food,505.33,640.46,Medium,4,2022,505.33,570.9,1,0,0,0,0,1,0,1,6250
+DIST010,E-commerce,AccuCheck Sugar Test Strips,Health,8443.9,6422.28,Medium,3,2025,8443.9,7037.62,0,1,0,0,0,1,1,0,7064
+DIST042,Retail,Remote Control Car,Toys,5236.87,2551.44,Medium,4,2021,5236.87,2966.65,1,0,0,0,0,1,0,1,31462
+DIST036,Healthcare,Kissan Mixed Fruit Jam,Food,2988.5,8738.38,Slow Moving,1,2020,2988.5,2689.65,0,0,1,0,0,0,0,0,26344
+DIST050,Wholesale,Olay Total Effects Day Cream,Beauty,2477.66,2151.41,Fast Moving,3,2022,2477.66,1567.99,0,1,0,1,0,1,1,0,37246
+DIST035,Education,Hasbro Gaming Jenga,Toys,542.11,845.34,Slow Moving,2,2021,542.11,770.86,0,0,1,1,1,0,0,0,25367
+DIST004,Healthcare,Chess Set Wooden,Toys,6269.96,12565.45,Slow Moving,3,2020,6269.96,6426.69,0,1,0,0,0,1,1,0,2591
+DIST030,Financial Services,Biotique Morning Nectar Lotion,Beauty,3641.42,2458.76,Fast Moving,3,2021,3641.42,3385.56,0,1,0,1,0,1,1,0,21631
+DIST047,Manufacturing,Solo Document Bag,Office Supplies,2260.35,1429.9,Fast Moving,3,2025,2260.35,2042.58,0,1,0,0,0,1,1,0,35226
+DIST050,Wholesale,Gulf Pride 4T Plus 10W-30,Automotive,2769.88,2446.05,Medium,2,2024,2769.88,2137.72,0,0,1,1,1,0,0,0,37808
+DIST043,Education,Fevicol SH Wood Adhesive 1kg,Paint and ancillaries,3226.22,6171.51,Slow Moving,1,2023,3226.22,4035.88,0,0,1,1,0,0,0,0,32312
+DIST042,Retail,Volini Spray,Health,5106.3,4947.15,Slow Moving,1,2024,5106.3,9122.83,0,0,1,1,0,0,0,0,31978
+DIST004,Healthcare,Levi's 501 Original Jeans,Apparel,5501.08,7288.33,Fast Moving,1,2022,5501.08,11247.05,0,0,1,1,0,0,0,0,2304
+DIST014,Manufacturing,Fortune Sunflower Oil 5L,Food,4417.52,3981.79,Medium,2,2023,4417.52,3952.72,0,0,1,0,1,0,0,0,10272
+DIST048,Manufacturing,Yamaha Bike Oil 10W-40,Automotive,4746.44,5202.68,Medium,4,2022,4746.44,4060.28,1,0,0,0,0,1,0,1,35488
+DIST016,E-commerce,Dr. Morepen Glucometer,Health,14154.38,14827.33,Medium,3,2020,14154.38,12303.22,0,1,0,0,0,1,1,0,11128
+DIST028,Financial Services,Fluval Aquarium Filter,Pet Supplies,2989.56,3819.25,Slow Moving,1,2024,2989.56,6458.51,0,0,1,1,0,0,0,0,20018
+DIST016,E-commerce,Speedo Swimming Goggles,Sports,2184.92,2407.12,Slow Moving,4,2020,2184.92,1745.19,1,0,0,1,0,1,0,1,11744
+DIST025,Financial Services,Levi's 501 Original Jeans,Apparel,8805.87,7288.33,Fast Moving,4,2025,8805.87,4891.96,1,0,0,0,0,1,0,1,18030
+DIST044,Healthcare,Asian Paints Royale Luxury Emulsion,Paint and ancillaries,6626.2,7547.97,Fast Moving,1,2023,6626.2,8717.7,0,0,1,1,0,0,0,0,33171
+DIST006,Financial Services,UNO Card Game,Toys,9722.17,6096.26,Slow Moving,4,2023,9722.17,6857.91,1,0,0,0,0,1,0,1,4445
+DIST037,Education,UNO Card Game,Toys,5927.19,6096.26,Slow Moving,4,2025,5927.19,3530.57,1,0,0,0,0,1,0,1,27760
+DIST002,Hospitality,Nerolac Impressions HD Paint,Paint and ancillaries,520.89,930.34,Medium,4,2021,520.89,651.62,1,0,0,0,0,1,0,1,853
+DIST015,Retail,Mountain Dew 750ml,Beverages,4785.27,3155.51,Fast Moving,4,2023,4785.27,5604.13,1,0,0,0,0,1,0,1,10844
+DIST002,Hospitality,Nerolac Impressions HD Paint,Paint and ancillaries,1040.0,930.34,Slow Moving,2,2025,1040.0,496.8,0,0,1,1,1,0,0,0,866
+DIST031,Education,Dove Moisturizing Cream,Beauty,2961.2,3468.33,Medium,1,2023,2961.2,4158.17,0,0,1,1,0,0,0,0,22249
+DIST005,Financial Services,Bombay Dyeing Bedsheet Set,Home Goods,3189.04,6567.88,Medium,3,2021,3189.04,4054.01,0,1,0,1,0,1,1,0,3597
+DIST026,Manufacturing,Philips Air Purifier 3000i,Electronics,3331.24,2898.74,Medium,3,2020,3331.24,1859.03,0,1,0,0,0,1,1,0,19156
+DIST027,Wholesale,Head & Shoulders Shampoo,Beauty,4690.18,2075.29,Slow Moving,3,2025,4690.18,2870.51,0,1,0,0,0,1,1,0,19655
+DIST029,Manufacturing,Revital H Capsules,Health,9552.87,9972.53,Fast Moving,2,2024,9552.87,7103.27,0,0,1,1,1,0,0,0,20536
+DIST036,Healthcare,Berger Easy Clean,Paint and ancillaries,9783.97,8913.79,Fast Moving,2,2023,9783.97,4584.31,0,0,1,0,1,0,0,0,26762
+DIST004,Healthcare,Funskool Monopoly,Toys,4011.64,3982.36,Slow Moving,3,2024,4011.64,4047.15,0,1,0,0,0,1,1,0,2629
+DIST038,Education,iPhone 15 Pro 256GB,Electronics,5308.37,10013.21,Medium,2,2023,5308.37,3816.09,0,0,1,0,1,0,0,0,28729
+DIST008,Manufacturing,Honda Engine Oil 10W-30,Automotive,3414.5,4770.42,Medium,2,2022,3414.5,2617.9,0,0,1,0,1,0,0,0,5627
+DIST010,E-commerce,Neelgagan Stamp Pad,Office Supplies,348.64,365.18,Medium,3,2020,348.64,409.24,0,1,0,0,0,1,1,0,7453
+DIST001,Manufacturing,UNO Card Game,Toys,6264.04,6096.26,Slow Moving,2,2025,6264.04,5421.79,0,0,1,1,1,0,0,0,203
+DIST018,Manufacturing,Vans Old Skool Sneakers,Apparel,11428.26,13401.03,Slow Moving,2,2020,11428.26,7701.02,0,0,1,1,1,0,0,0,13290
+DIST025,Financial Services,Cello Finesse Dinner Set,Home Goods,1920.37,2944.2,Medium,1,2021,1920.37,4290.52,0,0,1,0,0,0,0,0,18149
+DIST019,E-commerce,Shell Helix Ultra 4L,Automotive,3453.14,4141.9,Slow Moving,4,2020,3453.14,3518.64,1,0,0,1,0,1,0,1,14087
+DIST018,Manufacturing,Puma Running Shorts,Apparel,10668.97,9210.96,Medium,2,2025,10668.97,6571.18,0,0,1,1,1,0,0,0,12945
+DIST016,E-commerce,Bajaj Mixer Grinder,Home Goods,10037.01,7816.7,Slow Moving,3,2025,10037.01,9449.68,0,1,0,0,0,1,1,0,11374
+DIST035,Education,Lego Classic Creative Box,Toys,12832.56,16891.13,Medium,3,2022,12832.56,10983.42,0,1,0,1,0,1,1,0,25553
+DIST034,E-commerce,Shell Helix Ultra 4L,Automotive,3502.54,4141.9,Medium,2,2023,3502.54,3163.67,0,0,1,0,1,0,0,0,24897
+DIST036,Healthcare,Revital H Capsules,Health,5822.44,9972.53,Fast Moving,1,2024,5822.44,12281.83,0,0,1,1,0,0,0,0,26904
+DIST049,Financial Services,Columbia Hiking Backpack,Sports,5407.22,7917.89,Slow Moving,2,2020,5407.22,3661.11,0,0,1,1,1,0,0,0,36598
+DIST021,Healthcare,Thums Up 1.25L,Beverages,18577.62,17644.64,Slow Moving,2,2020,18577.62,13897.22,0,0,1,1,1,0,0,0,15027
+DIST029,Manufacturing,Bournvita 1kg,Food,15356.71,29034.11,Slow Moving,2,2023,15356.71,15577.52,0,0,1,0,1,0,0,0,20464
+DIST023,Manufacturing,Paper Boat Aam Panna,Beverages,8736.5,6158.53,Medium,4,2025,8736.5,8115.84,1,0,0,0,0,1,0,1,16721
+DIST025,Financial Services,Reebok Dumbbells Set,Sports,1158.33,1200.72,Slow Moving,1,2021,1158.33,1594.08,0,0,1,0,0,0,0,0,17990
+DIST045,E-commerce,Pigeon Favorite Electric Kettle,Home Goods,4353.71,6581.96,Slow Moving,1,2025,4353.71,9609.0,0,0,1,1,0,0,0,0,33478
+DIST007,E-commerce,Philips Dry Iron,Home Goods,1160.96,1900.07,Medium,1,2020,1160.96,1044.86,0,0,1,0,0,0,0,0,4937
+DIST009,Manufacturing,Zandu Balm,Health,11018.17,10870.3,Slow Moving,3,2020,11018.17,11974.82,0,1,0,0,0,1,1,0,6795
+DIST020,Retail,Funskool Monopoly,Toys,2317.56,3982.36,Fast Moving,2,2023,2317.56,2589.0,0,0,1,0,1,0,0,0,14788
+DIST017,Retail,Disney Princess Doll,Toys,3039.62,3623.32,Slow Moving,4,2021,3039.62,2077.36,1,0,0,0,0,1,0,1,12066
+DIST030,Financial Services,Fluval Aquarium Filter,Pet Supplies,3036.47,3819.25,Medium,1,2025,3036.47,6473.34,0,0,1,1,0,0,0,0,21960
+DIST033,E-commerce,IRIS Pet Food Container,Pet Supplies,4589.52,2981.05,Slow Moving,4,2025,4589.52,3804.93,1,0,0,0,0,1,0,1,24311
+DIST014,Manufacturing,Philips Headlight Bulbs,Automotive,824.27,856.36,Slow Moving,3,2023,824.27,555.95,0,1,0,1,0,1,1,0,10455
+DIST029,Manufacturing,Minute Maid Pulpy Orange,Beverages,10765.11,8939.18,Medium,3,2020,10765.11,6300.25,0,1,0,0,0,1,1,0,20616
+DIST008,Manufacturing,Michelin P215/65R16 Tires,Automotive,3042.44,2763.1,Slow Moving,3,2021,3042.44,3096.47,0,1,0,1,0,1,1,0,5691
+DIST038,Education,Horlicks Classic 1kg,Beverages,3474.03,2457.11,Fast Moving,4,2025,3474.03,3230.41,1,0,0,0,0,1,0,1,28715
+DIST037,Education,PetSafe Gentle Leader Collar,Pet Supplies,808.11,1265.77,Fast Moving,3,2020,808.11,802.03,0,1,0,0,0,1,1,0,27897
+DIST034,E-commerce,Kong Classic Dog Toy,Pet Supplies,3564.73,7035.35,Fast Moving,2,2021,3564.73,2304.68,0,0,1,1,1,0,0,0,25254
+DIST032,Manufacturing,Pigeon Favorite Electric Kettle,Home Goods,4635.97,6581.96,Slow Moving,2,2023,4635.97,3329.03,0,0,1,0,1,0,0,0,23233
+DIST027,Wholesale,Nivea Men Face Wash,Beauty,2749.26,1370.86,Fast Moving,4,2024,2749.26,1864.57,1,0,0,0,0,1,0,1,19491
+DIST026,Manufacturing,Asian Paints Dynamo Adhesive,Paint and ancillaries,4820.74,5602.99,Fast Moving,1,2021,4820.74,7079.24,0,0,1,0,0,0,0,0,18381
+DIST042,Retail,Zandu Balm,Health,9131.21,10870.3,Medium,1,2022,9131.21,15191.98,0,0,1,1,0,0,0,0,32150
+DIST022,E-commerce,Havells Table Fan,Home Goods,1127.41,956.25,Medium,4,2022,1127.41,747.3,1,0,0,0,0,1,0,1,15574
+DIST026,Manufacturing,Funskool Monopoly,Toys,8909.11,3982.36,Fast Moving,4,2025,8909.11,5400.92,1,0,0,0,0,1,0,1,18931
+DIST026,Manufacturing,Calvin Klein Boxer Brief Set,Apparel,957.73,1485.3,Fast Moving,1,2022,957.73,1654.14,0,0,1,1,0,0,0,0,18497
+DIST022,E-commerce,Nike Football,Sports,2435.17,1785.87,Fast Moving,3,2021,2435.17,2334.65,0,1,0,1,0,1,1,0,15638
+DIST032,Manufacturing,Volini Spray,Health,4419.51,4947.15,Fast Moving,2,2021,4419.51,4182.22,0,0,1,1,1,0,0,0,23457
+DIST036,Healthcare,Kong Classic Dog Toy,Pet Supplies,12934.09,7035.35,Medium,4,2022,12934.09,8949.29,1,0,0,0,0,1,0,1,27267
+DIST038,Education,Berger Silk Luxury Emulsion,Paint and ancillaries,11634.6,6173.7,Fast Moving,2,2020,11634.6,5046.38,0,0,1,1,1,0,0,0,28580
+DIST032,Manufacturing,Cosco Volleyball,Sports,589.65,838.75,Fast Moving,3,2020,589.65,520.64,0,1,0,0,0,1,1,0,23109
+DIST047,Manufacturing,Solo Document Bag,Office Supplies,2298.73,1429.9,Fast Moving,3,2024,2298.73,2002.06,0,1,0,0,0,1,1,0,35223
+DIST047,Manufacturing,Reynolds Trimax Pen Pack,Office Supplies,1354.23,1408.82,Medium,1,2020,1354.23,1218.81,0,0,1,0,0,0,0,0,35276
+DIST043,Education,H&M Basic T-Shirt Pack,Apparel,2776.48,2242.81,Medium,4,2022,2776.48,1718.85,1,0,0,0,0,1,0,1,32269
+DIST039,Financial Services,Cosco Volleyball,Sports,798.42,838.75,Medium,1,2025,798.42,1584.37,0,0,1,1,0,0,0,0,28940
+DIST049,Financial Services,Puma Running Shorts,Apparel,8379.77,9210.96,Fast Moving,2,2022,8379.77,8524.28,0,0,1,0,1,0,0,0,36991
+DIST050,Wholesale,Strauss Yoga Mat,Sports,9555.75,18825.74,Fast Moving,1,2021,9555.75,20049.01,0,0,1,0,0,0,0,0,37911
+DIST050,Wholesale,Asian Paints Apcolite Premium Enamel,Paint and ancillaries,6939.92,6108.35,Slow Moving,3,2020,6939.92,7756.19,0,1,0,0,0,1,1,0,37885
+DIST034,E-commerce,MAC Ruby Woo Lipstick,Beauty,5378.46,5146.8,Medium,3,2022,5378.46,5414.32,0,1,0,1,0,1,1,0,25102
+DIST016,E-commerce,Bajaj Mixer Grinder,Home Goods,5582.0,7816.7,Medium,1,2020,5582.0,5023.8,0,0,1,0,0,0,0,0,11353
+DIST041,E-commerce,H&M Basic T-Shirt Pack,Apparel,1346.77,2242.81,Slow Moving,3,2021,1346.77,1102.71,0,1,0,1,0,1,1,0,30735
+DIST006,Financial Services,Faber-Castell Highlighters,Office Supplies,9575.71,6957.07,Slow Moving,4,2024,9575.71,5601.92,1,0,0,0,0,1,0,1,3928
+DIST048,Manufacturing,Daikin 1.5 Ton Inverter AC,Electronics,8163.24,6722.9,Fast Moving,4,2024,8163.24,6084.72,1,0,0,0,0,1,0,1,35519
+DIST029,Manufacturing,Head & Shoulders Shampoo,Beauty,1560.69,2075.29,Medium,3,2021,1560.69,1409.17,0,1,0,1,0,1,1,0,20713
+DIST047,Manufacturing,North Face Puffer Jacket,Apparel,8289.33,8039.47,Slow Moving,4,2023,8289.33,5155.47,1,0,0,0,0,1,0,1,35402
+DIST039,Financial Services,Himalaya Purifying Neem Face Wash,Beauty,8678.44,9807.82,Slow Moving,2,2023,8678.44,8053.42,0,0,1,0,1,0,0,0,29317
+DIST040,Retail,Kellogg's Corn Flakes,Food,18568.32,11517.95,Fast Moving,4,2025,18568.32,15453.49,1,0,0,0,0,1,0,1,29395
+DIST007,E-commerce,Cadbury Dairy Milk Chocolate,Food,12189.32,12480.74,Fast Moving,4,2023,12189.32,14862.22,1,0,0,0,0,1,0,1,5381
+DIST021,Healthcare,Nintendo Switch Console,Toys,2805.26,1603.13,Slow Moving,4,2024,2805.26,1781.79,1,0,0,0,0,1,0,1,15266
+DIST029,Manufacturing,iPhone 15 Pro 256GB,Electronics,19686.11,10013.21,Slow Moving,4,2025,19686.11,12267.95,1,0,0,0,0,1,0,1,20801
+DIST006,Financial Services,AutoStark Car Cover,Automotive,1201.74,2929.06,Fast Moving,1,2020,1201.74,1081.57,0,0,1,0,0,0,0,0,4254
+DIST014,Manufacturing,Bosch Spark Plug Set,Automotive,2221.32,5780.38,Fast Moving,1,2020,2221.32,1999.19,0,0,1,0,0,0,0,0,10122
+DIST033,E-commerce,Cosco Volleyball,Sports,615.11,838.75,Medium,3,2021,615.11,540.24,0,1,0,1,0,1,1,0,24250
+DIST035,Education,Omron Blood Pressure Monitor,Health,828.8,1819.22,Fast Moving,1,2023,828.8,2213.56,0,0,1,1,0,0,0,0,26081
+DIST011,Healthcare,Omron Blood Pressure Monitor,Health,3591.26,1819.22,Fast Moving,4,2024,3591.26,2488.83,1,0,0,0,0,1,0,1,7815
+DIST037,Education,Scotch Magic Tape,Office Supplies,3835.74,4473.52,Slow Moving,3,2025,3835.74,3309.35,0,1,0,0,0,1,1,0,27664
+DIST007,E-commerce,Faber-Castell Highlighters,Office Supplies,5473.96,6957.07,Slow Moving,1,2023,5473.96,11060.91,0,0,1,1,0,0,0,0,5491
+DIST012,Retail,Zara Slim Fit Blazer,Apparel,12191.64,8387.38,Medium,4,2020,12191.64,6069.89,1,0,0,1,0,1,0,1,8875
+DIST025,Financial Services,Paper Boat Aam Panna,Beverages,7329.9,6158.53,Fast Moving,2,2022,7329.9,5684.74,0,0,1,0,1,0,0,0,18269
+DIST040,Retail,Honda Engine Oil 10W-30,Automotive,4741.91,4770.42,Slow Moving,2,2021,4741.91,3976.36,0,0,1,1,1,0,0,0,30224
+DIST026,Manufacturing,Daikin 1.5 Ton Inverter AC,Electronics,8990.62,6722.9,Fast Moving,2,2025,8990.62,7511.43,0,0,1,1,1,0,0,0,19020
+DIST011,Healthcare,Cello Finesse Dinner Set,Home Goods,1374.35,2944.2,Fast Moving,1,2020,1374.35,1236.92,0,0,1,0,0,0,0,0,8137
+DIST044,Healthcare,Fossil Chronograph Watch,Apparel,871.09,1148.1,Fast Moving,1,2022,871.09,1235.04,0,0,1,1,0,0,0,0,32941
+DIST032,Manufacturing,Philips Headlight Bulbs,Automotive,924.0,856.36,Fast Moving,4,2025,924.0,633.8,1,0,0,0,0,1,0,1,23658
+DIST012,Retail,MTR Breakfast Mix,Food,1045.35,640.46,Slow Moving,4,2024,1045.35,1068.6,1,0,0,0,0,1,0,1,8867
+DIST024,Hospitality,Savic Dog Carrier,Pet Supplies,5539.05,3801.62,Medium,3,2025,5539.05,5108.5,0,1,0,0,0,1,1,0,17619
+DIST040,Retail,Kong Classic Dog Toy,Pet Supplies,4460.38,7035.35,Slow Moving,1,2025,4460.38,7565.59,0,0,1,1,0,0,0,0,29920
+DIST024,Hospitality,Classmate Notebook Set,Office Supplies,2333.7,5049.67,Fast Moving,1,2020,2333.7,2100.33,0,0,1,0,0,0,0,0,16966
+DIST048,Manufacturing,Adidas Running Shoes,Sports,912.75,1700.72,Medium,2,2021,912.75,643.95,0,0,1,1,1,0,0,0,36279
+DIST004,Healthcare,Funskool Monopoly,Toys,4767.73,3982.36,Slow Moving,3,2023,4767.73,3793.52,0,1,0,1,0,1,1,0,2625
+DIST001,Manufacturing,Me-O Cat Food Seafood 7kg,Pet Supplies,28159.21,21784.25,Fast Moving,4,2020,28159.21,18198.34,1,0,0,1,0,1,0,1,26
+DIST022,E-commerce,Asian Paints Dynamo Adhesive,Paint and ancillaries,5329.32,5602.99,Fast Moving,2,2022,5329.32,3139.05,0,0,1,0,1,0,0,0,15818
+DIST009,Manufacturing,Prestige Popular Pressure Cooker,Home Goods,1656.89,2876.37,Slow Moving,2,2025,1656.89,1309.01,0,0,1,1,1,0,0,0,6422
+DIST029,Manufacturing,Michael Kors Crossbody Bag,Apparel,4286.55,7211.41,Fast Moving,3,2020,4286.55,4801.46,0,1,0,0,0,1,1,0,21282
+DIST011,Healthcare,Bajaj Mixer Grinder,Home Goods,7440.57,7816.7,Fast Moving,2,2022,7440.57,4920.25,0,0,1,0,1,0,0,0,7920
+DIST042,Retail,Milton Thermosteel Flask,Home Goods,24328.28,21658.67,Medium,2,2022,24328.28,14943.32,0,0,1,0,1,0,0,0,31374
+DIST006,Financial Services,Volini Spray,Health,4189.03,4947.15,Medium,3,2020,4189.03,3837.79,0,1,0,0,0,1,1,0,3935
+DIST048,Manufacturing,Exide Battery 65Ah,Automotive,33392.33,36472.36,Slow Moving,4,2023,33392.33,29854.25,1,0,0,0,0,1,0,1,36037
+DIST001,Manufacturing,Tata Tea Premium 1kg,Beverages,474.38,1121.9,Medium,2,2022,474.38,429.41,0,0,1,0,1,0,0,0,399
+DIST046,Manufacturing,Nestle Maggi Noodles,Food,2586.35,3119.14,Medium,1,2024,2586.35,4171.86,0,0,1,1,0,0,0,0,34278
+DIST036,Healthcare,Me-O Cat Food Seafood 7kg,Pet Supplies,35874.5,21784.25,Fast Moving,4,2020,35874.5,28876.68,1,0,0,1,0,1,0,1,26775
+DIST038,Education,Dulux Velvet Touch Diamond Glo,Paint and ancillaries,1422.86,2159.99,Fast Moving,1,2021,1422.86,1892.44,0,0,1,0,0,0,0,0,28465
+DIST046,Manufacturing,Callaway Golf Club Set,Sports,2280.28,3719.5,Medium,1,2022,2280.28,3431.21,0,0,1,1,0,0,0,0,34821
+DIST039,Financial Services,Mattel Barbie Dreamhouse,Toys,14520.57,12981.66,Medium,3,2020,14520.57,9324.88,0,1,0,0,0,1,1,0,29012
+DIST032,Manufacturing,Parker Vector Fountain Pen,Office Supplies,14927.22,13816.22,Fast Moving,2,2025,14927.22,10999.0,0,0,1,1,1,0,0,0,23449
+DIST013,Manufacturing,Hot Wheels 5-Car Pack,Toys,9627.27,5502.54,Fast Moving,4,2023,9627.27,6345.81,1,0,0,0,0,1,0,1,9568
+DIST044,Healthcare,Volini Spray,Health,4480.29,4947.15,Slow Moving,4,2020,4480.29,3631.51,1,0,0,1,0,1,0,1,32958
+DIST037,Education,Tommy Hilfiger Classic Shirt,Apparel,4075.57,4766.13,Slow Moving,3,2020,4075.57,4617.83,0,1,0,0,0,1,1,0,27486
+DIST008,Manufacturing,Levi's 501 Original Jeans,Apparel,10775.09,7288.33,Fast Moving,4,2020,10775.09,5274.72,1,0,0,1,0,1,0,1,5942
+DIST036,Healthcare,Columbia Hiking Backpack,Sports,12002.05,7917.89,Fast Moving,3,2022,12002.05,7349.04,0,1,0,1,0,1,1,0,27312
+DIST042,Retail,Amaron Battery 45Ah,Automotive,10243.12,15903.38,Slow Moving,3,2022,10243.12,6809.19,0,1,0,1,0,1,1,0,31167
+DIST013,Manufacturing,Bosch Spark Plug Set,Automotive,4554.28,5780.38,Slow Moving,2,2023,4554.28,3243.28,0,0,1,0,1,0,0,0,9883
+DIST001,Manufacturing,Berger Silk Luxury Emulsion,Paint and ancillaries,6749.11,6173.7,Fast Moving,4,2020,6749.11,7323.17,1,0,0,1,0,1,0,1,736
+DIST017,Retail,Nivea Men Face Wash,Beauty,2193.56,1370.86,Fast Moving,4,2025,2193.56,1923.06,1,0,0,0,0,1,0,1,12694
+DIST020,Retail,Classmate Notebook Set,Office Supplies,1683.95,5049.67,Slow Moving,1,2022,1683.95,2757.46,0,0,1,1,0,0,0,0,14623
+DIST030,Financial Services,North Face Puffer Jacket,Apparel,4890.08,8039.47,Medium,1,2021,4890.08,10450.11,0,0,1,0,0,0,0,0,21810
+DIST014,Manufacturing,Coca-Cola 2L Bottle,Beverages,49169.05,22796.18,Fast Moving,4,2023,49169.05,41190.84,1,0,0,0,0,1,0,1,10364
+DIST012,Retail,Camlin Permanent Marker Set,Office Supplies,13599.86,17387.3,Medium,1,2022,13599.86,14600.03,0,0,1,1,0,0,0,0,8696
+DIST013,Manufacturing,Borosil Glass Set,Home Goods,2484.07,2770.72,Slow Moving,2,2021,2484.07,1803.18,0,0,1,1,1,0,0,0,9829
+DIST046,Manufacturing,Thums Up 1.25L,Beverages,11527.89,17644.64,Fast Moving,3,2020,11527.89,7420.13,0,1,0,0,0,1,1,0,34885
+DIST008,Manufacturing,Patanjali Honey 500g,Food,4496.39,11020.67,Fast Moving,1,2020,4496.39,4046.75,0,0,1,0,0,0,0,0,6103
+DIST028,Financial Services,Ray-Ban Wayfarer Sunglasses,Apparel,2144.09,2462.16,Medium,2,2021,2144.09,1314.59,0,0,1,1,1,0,0,0,20100
+DIST047,Manufacturing,Tata Tea Premium 1kg,Beverages,440.88,1121.9,Medium,1,2021,440.88,954.43,0,0,1,0,0,0,0,0,34978
+DIST002,Hospitality,Asian Paints Dynamo Adhesive,Paint and ancillaries,3202.12,5602.99,Slow Moving,4,2024,3202.12,3334.87,1,0,0,0,0,1,0,1,1282
+DIST011,Healthcare,Farmina N&D Dog Food 12kg,Pet Supplies,4374.7,2546.34,Medium,4,2022,4374.7,3459.55,1,0,0,0,0,1,0,1,8239
+DIST026,Manufacturing,Exide Battery 65Ah,Automotive,36766.49,36472.36,Fast Moving,1,2023,36766.49,73484.17,0,0,1,1,0,0,0,0,18548
+DIST007,E-commerce,Amul Butter 500g,Food,1876.48,1674.57,Medium,2,2020,1876.48,834.81,0,0,1,1,1,0,0,0,5144
+DIST032,Manufacturing,Calvin Klein Boxer Brief Set,Apparel,1583.58,1485.3,Fast Moving,3,2022,1583.58,1098.57,0,1,0,1,0,1,1,0,23623
+DIST044,Healthcare,Funskool Monopoly,Toys,8147.97,3982.36,Fast Moving,4,2023,8147.97,7208.65,1,0,0,0,0,1,0,1,32791
+DIST030,Financial Services,Mattel Barbie Dreamhouse,Toys,9079.11,12981.66,Fast Moving,4,2024,9079.11,7123.27,1,0,0,0,0,1,0,1,21527
+DIST003,Education,Asian Paints Ultima Protek Exterior,Paint and ancillaries,1193.65,1521.83,Medium,4,2022,1193.65,1470.81,1,0,0,0,0,1,0,1,1960
+DIST045,E-commerce,Cello Finesse Dinner Set,Home Goods,3289.46,2944.2,Fast Moving,3,2024,3289.46,2517.29,0,1,0,0,0,1,1,0,33407
+DIST008,Manufacturing,Callaway Golf Club Set,Sports,1794.8,3719.5,Medium,2,2021,1794.8,1666.54,0,0,1,1,1,0,0,0,5782
+DIST041,E-commerce,Classmate Notebook Set,Office Supplies,7887.83,5049.67,Fast Moving,4,2022,7887.83,5344.87,1,0,0,0,0,1,0,1,31056
+DIST047,Manufacturing,Tata Tea Premium 1kg,Beverages,941.4,1121.9,Fast Moving,4,2023,941.4,1103.22,1,0,0,0,0,1,0,1,34988
+DIST048,Manufacturing,Faber Chimney Hood,Home Goods,1451.5,1179.46,Medium,3,2024,1451.5,1402.91,0,1,0,0,0,1,1,0,36337
+DIST030,Financial Services,Farmina N&D Dog Food 12kg,Pet Supplies,4220.55,2546.34,Slow Moving,4,2020,4220.55,3293.21,1,0,0,1,0,1,0,1,21761
+DIST005,Financial Services,Fisher-Price Learning Toys,Toys,2303.35,4397.48,Fast Moving,3,2022,2303.35,1848.72,0,1,0,1,0,1,1,0,3166
+DIST040,Retail,VLCC Sunscreen Gel,Beauty,15581.87,9014.05,Fast Moving,4,2024,15581.87,9735.21,1,0,0,0,0,1,0,1,29436
+DIST031,Education,IRIS Pet Food Container,Pet Supplies,2698.73,2981.05,Slow Moving,2,2022,2698.73,2090.39,0,0,1,0,1,0,0,0,22202
+DIST017,Retail,Canon EOS R6 Camera,Electronics,3223.7,4083.36,Fast Moving,1,2025,3223.7,9779.01,0,0,1,1,0,0,0,0,12806
+DIST033,E-commerce,Amul Butter 500g,Food,1395.59,1674.57,Slow Moving,4,2025,1395.59,1838.03,1,0,0,0,0,1,0,1,24623
+DIST007,E-commerce,Lego Classic Creative Box,Toys,23780.62,16891.13,Medium,4,2020,23780.62,14079.72,1,0,0,1,0,1,0,1,4708
+DIST022,E-commerce,Morphy Richards Toaster,Home Goods,5731.85,7381.4,Medium,2,2022,5731.85,5133.65,0,0,1,0,1,0,0,0,15905
+DIST028,Financial Services,Revital H Capsules,Health,13936.03,9972.53,Medium,4,2022,13936.03,11568.95,1,0,0,0,0,1,0,1,20285
+DIST003,Education,Thums Up 1.25L,Beverages,9542.38,17644.64,Slow Moving,1,2021,9542.38,19657.3,0,0,1,0,0,0,0,0,1859
+DIST040,Retail,Real Mixed Fruit Juice,Beverages,3895.41,3092.51,Slow Moving,4,2025,3895.41,3574.78,1,0,0,0,0,1,0,1,29809
+DIST019,E-commerce,Gulf Pride 4T Plus 10W-30,Automotive,2439.0,2446.05,Fast Moving,2,2020,2439.0,1685.38,0,0,1,1,1,0,0,0,13424
+DIST029,Manufacturing,AutoStark Car Cover,Automotive,3984.43,2929.06,Slow Moving,4,2022,3984.43,2791.6,1,0,0,0,0,1,0,1,20671
+DIST031,Education,IRIS Pet Food Container,Pet Supplies,2229.15,2981.05,Medium,2,2020,2229.15,1805.1,0,0,1,1,1,0,0,0,22194
+DIST029,Manufacturing,Dr. Fixit Raincoat Waterproofing,Paint and ancillaries,822.86,1123.28,Fast Moving,1,2021,822.86,1245.3,0,0,1,0,0,0,0,0,21170
+DIST015,Retail,Mountain Dew 750ml,Beverages,2440.9,3155.51,Medium,1,2022,2440.9,4557.63,0,0,1,1,0,0,0,0,10837
+DIST041,E-commerce,Revlon ColorStay Eyeliner,Beauty,4015.33,3873.66,Medium,2,2021,4015.33,3252.71,0,0,1,1,1,0,0,0,31026
+DIST006,Financial Services,Real Mixed Fruit Juice,Beverages,1980.0,3092.51,Slow Moving,2,2024,1980.0,2512.72,0,0,1,1,1,0,0,0,4042
+DIST024,Hospitality,Haldiram's Bhujia,Food,18096.53,22105.21,Medium,1,2023,18096.53,27127.99,0,0,1,1,0,0,0,0,17067
+DIST046,Manufacturing,Head & Shoulders Shampoo,Beauty,1965.46,2075.29,Slow Moving,4,2022,1965.46,1589.26,1,0,0,0,0,1,0,1,34159
+DIST014,Manufacturing,DJI Mavic 3 Drone,Electronics,14880.84,22239.75,Medium,1,2023,14880.84,34384.83,0,0,1,1,0,0,0,0,10430
+DIST026,Manufacturing,Olay Total Effects Day Cream,Beauty,2552.44,2151.41,Fast Moving,2,2021,2552.44,1937.46,0,0,1,1,1,0,0,0,18868
+DIST043,Education,Xbox Series X,Toys,8764.47,9659.16,Fast Moving,1,2023,8764.47,16506.39,0,0,1,1,0,0,0,0,32490
+DIST033,E-commerce,Cosco Volleyball,Sports,521.82,838.75,Slow Moving,1,2022,521.82,670.01,0,0,1,1,0,0,0,0,24252
+DIST011,Healthcare,Nivia Basketball,Sports,6141.08,5532.88,Fast Moving,4,2020,6141.08,5981.38,1,0,0,1,0,1,0,1,8298
+DIST027,Wholesale,Parle-G Biscuits Value Pack,Food,9546.53,5909.6,Fast Moving,3,2025,9546.53,7046.22,0,1,0,0,0,1,1,0,19745
+DIST050,Wholesale,Castrol Engine Oil 3L,Automotive,3874.45,5056.99,Fast Moving,3,2024,3874.45,3199.92,0,1,0,0,0,1,1,0,37022
+DIST007,E-commerce,Lenovo ThinkPad X1,Electronics,14769.57,16091.06,Fast Moving,3,2020,14769.57,12691.18,0,1,0,0,0,1,1,0,5575
+DIST038,Education,L'Oreal Paris Shampoo,Beauty,647.05,680.41,Fast Moving,4,2022,647.05,519.78,1,0,0,0,0,1,0,1,28333
+DIST038,Education,Head & Shoulders Shampoo,Beauty,1105.05,2075.29,Fast Moving,2,2023,1105.05,1301.7,0,0,1,0,1,0,0,0,28136
+DIST007,E-commerce,Maybelline Fit Me Foundation,Beauty,1538.93,1223.47,Fast Moving,3,2023,1538.93,1318.15,0,1,0,1,0,1,1,0,5199
+DIST050,Wholesale,Pepsi 330ml Can Pack,Beverages,8356.77,21367.23,Fast Moving,1,2021,8356.77,12632.41,0,0,1,0,0,0,0,0,37540
+DIST032,Manufacturing,Asian Paints Dynamo Adhesive,Paint and ancillaries,4371.07,5602.99,Fast Moving,3,2022,4371.07,7111.59,0,1,0,1,0,1,1,0,23183
+DIST023,Manufacturing,Pediasure Growth Supplement,Health,2530.36,1532.91,Slow Moving,3,2025,2530.36,1695.68,0,1,0,0,0,1,1,0,16512
+DIST040,Retail,"Samsung 43"" Crystal 4K TV",Electronics,1077.02,2013.53,Medium,1,2022,1077.02,2985.27,0,0,1,1,0,0,0,0,29838
+DIST029,Manufacturing,Fossil Chronograph Watch,Apparel,1093.36,1148.1,Medium,3,2022,1093.36,804.06,0,1,0,1,0,1,1,0,20416
+DIST011,Healthcare,Bajaj Mixer Grinder,Home Goods,11011.33,7816.7,Medium,4,2025,11011.33,8018.42,1,0,0,0,0,1,0,1,7934
+DIST044,Healthcare,MRF Cricket Bat,Sports,80334.24,62431.54,Medium,4,2022,80334.24,85672.51,1,0,0,0,0,1,0,1,32765
+DIST006,Financial Services,AutoStark Car Cover,Automotive,1953.8,2929.06,Fast Moving,3,2021,1953.8,1606.4,0,1,0,1,0,1,1,0,4260
+DIST021,Healthcare,Ray-Ban Wayfarer Sunglasses,Apparel,4599.34,2462.16,Fast Moving,4,2023,4599.34,3986.95,1,0,0,0,0,1,0,1,15464
+DIST046,Manufacturing,Nerolac Beauty Gold Washable,Paint and ancillaries,2962.51,2630.98,Medium,4,2020,2962.51,3065.41,1,0,0,1,0,1,0,1,33942
+DIST040,Retail,Parle-G Biscuits Value Pack,Food,9328.15,5909.6,Fast Moving,3,2021,9328.15,5465.41,0,1,0,1,0,1,1,0,30294
+DIST023,Manufacturing,Fevicol Marine Waterproof,Paint and ancillaries,4300.15,3298.47,Medium,4,2023,4300.15,3734.88,1,0,0,0,0,1,0,1,16299
+DIST045,E-commerce,Fluval Aquarium Filter,Pet Supplies,4598.41,3819.25,Medium,2,2023,4598.41,2812.9,0,0,1,0,1,0,0,0,33796
+DIST013,Manufacturing,Borosil Glass Set,Home Goods,2898.13,2770.72,Fast Moving,2,2025,2898.13,4890.77,0,0,1,1,1,0,0,0,9844
+DIST050,Wholesale,OnePlus 12 5G,Electronics,1451.62,2251.76,Medium,1,2022,1451.62,3417.89,0,0,1,1,0,0,0,0,37129
+DIST007,E-commerce,Levi's 501 Original Jeans,Apparel,4233.95,7288.33,Medium,3,2025,4233.95,5068.51,0,1,0,0,0,1,1,0,5525
+DIST016,E-commerce,Speedo Swimming Goggles,Sports,1590.96,2407.12,Fast Moving,2,2025,1590.96,1398.36,0,0,1,1,1,0,0,0,11762
+DIST042,Retail,Levi's 501 Original Jeans,Apparel,8917.42,7288.33,Medium,1,2025,8917.42,14480.63,0,0,1,1,0,0,0,0,31315
+DIST045,E-commerce,Adidas Ultraboost Sneakers,Apparel,396.05,842.34,Slow Moving,2,2021,396.05,274.53,0,0,1,1,1,0,0,0,33580
+DIST029,Manufacturing,Nike Football,Sports,1367.14,1785.87,Fast Moving,1,2021,1367.14,2418.02,0,0,1,0,0,0,0,0,20830
+DIST024,Hospitality,Nivia Basketball,Sports,7347.6,5532.88,Fast Moving,3,2020,7347.6,6612.84,0,1,0,0,0,1,1,0,17418
+DIST019,E-commerce,Savic Dog Carrier,Pet Supplies,4340.71,3801.62,Fast Moving,3,2025,4340.71,3502.12,0,1,0,0,0,1,1,0,14012
+DIST023,Manufacturing,Parker Vector Fountain Pen,Office Supplies,22978.02,13816.22,Fast Moving,4,2025,22978.02,15747.05,1,0,0,0,0,1,0,1,16418
+DIST047,Manufacturing,Asian Paints Apcolite Premium Enamel,Paint and ancillaries,4566.96,6108.35,Slow Moving,1,2024,4566.96,6908.25,0,0,1,1,0,0,0,0,35083
+DIST046,Manufacturing,MacBook Air M3,Electronics,7114.63,10338.66,Fast Moving,1,2024,7114.63,18016.28,0,0,1,1,0,0,0,0,34782
+DIST010,E-commerce,Bombay Dyeing Bedsheet Set,Home Goods,5937.74,6567.88,Fast Moving,3,2022,5937.74,5342.01,0,1,0,1,0,1,1,0,7530
+DIST050,Wholesale,Lakme Absolute Lipstick,Beauty,3326.31,5131.26,Slow Moving,1,2021,3326.31,6071.54,0,0,1,0,0,0,0,0,37263
+DIST032,Manufacturing,Michael Kors Crossbody Bag,Apparel,9384.28,7211.41,Medium,3,2022,9384.28,7510.75,0,1,0,1,0,1,1,0,23782
+DIST028,Financial Services,7UP 600ml Bottle,Beverages,1648.86,1285.49,Fast Moving,4,2025,1648.86,1428.78,1,0,0,0,0,1,0,1,19863
+DIST023,Manufacturing,Savic Dog Carrier,Pet Supplies,2704.74,3801.62,Fast Moving,3,2020,2704.74,3038.41,0,1,0,0,0,1,1,0,16217
+DIST037,Education,PetSafe Gentle Leader Collar,Pet Supplies,1157.11,1265.77,Slow Moving,3,2024,1157.11,899.97,0,1,0,0,0,1,1,0,27912
+DIST027,Wholesale,Kissan Mixed Fruit Jam,Food,10476.2,8738.38,Fast Moving,4,2024,10476.2,10057.47,1,0,0,0,0,1,0,1,19583
+DIST032,Manufacturing,Supradyn Multivitamin Tablets,Health,3657.69,3263.81,Fast Moving,1,2025,3657.69,6683.14,0,0,1,1,0,0,0,0,23150
+DIST028,Financial Services,Amaron Battery 45Ah,Automotive,15548.17,15903.38,Fast Moving,2,2022,15548.17,11994.32,0,0,1,0,1,0,0,0,20057
+DIST044,Healthcare,Volini Spray,Health,3008.07,4947.15,Medium,1,2024,3008.07,4972.25,0,0,1,1,0,0,0,0,32970
+DIST048,Manufacturing,IFB Microwave Oven,Home Goods,6221.95,11621.95,Fast Moving,1,2021,6221.95,15510.67,0,0,1,0,0,0,0,0,36163
+DIST050,Wholesale,Classmate Notebook Set,Office Supplies,2896.99,5049.67,Fast Moving,1,2021,2896.99,6511.28,0,0,1,0,0,0,0,0,37216
+DIST026,Manufacturing,Royal Canin Maxi Puppy 4kg,Pet Supplies,2885.9,4123.24,Medium,2,2022,2885.9,2509.86,0,0,1,0,1,0,0,0,19098
+DIST015,Retail,Nivia Basketball,Sports,5267.81,5532.88,Fast Moving,2,2020,5267.81,4725.82,0,0,1,1,1,0,0,0,10718
+DIST016,E-commerce,Cat Mate Pet Fountain,Pet Supplies,5761.16,5975.71,Slow Moving,3,2020,5761.16,4768.68,0,1,0,0,0,1,1,0,11586
+DIST005,Financial Services,Baidyanath Chyawanprash,Health,3796.46,6209.52,Slow Moving,2,2021,3796.46,3151.62,0,0,1,1,1,0,0,0,3641
+DIST049,Financial Services,Hot Wheels 5-Car Pack,Toys,10119.75,5502.54,Fast Moving,4,2023,10119.75,6775.03,1,0,0,0,0,1,0,1,36793
+DIST004,Healthcare,Revlon ColorStay Eyeliner,Beauty,2239.06,3873.66,Medium,1,2024,2239.06,4223.14,0,0,1,1,0,0,0,0,2716
+DIST007,E-commerce,Lenovo ThinkPad X1,Electronics,22583.63,16091.06,Fast Moving,4,2022,22583.63,15540.91,1,0,0,0,0,1,0,1,5584
+DIST018,Manufacturing,Louis Vuitton Neverfull Bag,Apparel,64995.36,68246.14,Fast Moving,2,2021,64995.36,43052.89,0,0,1,1,1,0,0,0,13383
+DIST038,Education,JBL Flip 6 Speaker,Electronics,1753.36,3363.02,Medium,2,2020,1753.36,1495.48,0,0,1,1,1,0,0,0,28261
+DIST036,Healthcare,Carrom Board Full Size,Toys,5717.3,5188.35,Fast Moving,4,2020,5717.3,3054.29,1,0,0,1,0,1,0,1,26868
+DIST022,E-commerce,Milton Thermosteel Flask,Home Goods,18744.04,21658.67,Medium,3,2020,18744.04,15378.05,0,1,0,0,0,1,1,0,15589
+DIST043,Education,Britannia Good Day Cookies,Food,6560.91,4600.58,Slow Moving,4,2022,6560.91,7345.07,1,0,0,0,0,1,0,1,32579
+DIST002,Hospitality,Faber Chimney Hood,Home Goods,579.61,1179.46,Medium,1,2020,579.61,521.65,0,0,1,0,0,0,0,0,1584
+DIST035,Education,Hasbro Gaming Jenga,Toys,770.86,845.34,Fast Moving,4,2020,770.86,689.53,1,0,0,1,0,1,0,1,25366
+DIST023,Manufacturing,Pawzone Cat Scratch Post,Pet Supplies,1265.51,2378.99,Slow Moving,2,2021,1265.51,1058.17,0,0,1,1,1,0,0,0,16611
+DIST046,Manufacturing,Bosch Wiper Blades,Automotive,4602.04,6474.21,Medium,2,2020,4602.04,3544.28,0,0,1,1,1,0,0,0,34607
+DIST005,Financial Services,Baidyanath Chyawanprash,Health,5402.66,6209.52,Slow Moving,3,2024,5402.66,4135.11,0,1,0,0,0,1,1,0,3652
+DIST020,Retail,Yamaha Bike Oil 10W-40,Automotive,4949.71,5202.68,Slow Moving,1,2022,4949.71,7900.76,0,0,1,1,0,0,0,0,14368
+DIST005,Financial Services,Shell Helix Ultra 4L,Automotive,5683.02,4141.9,Slow Moving,4,2020,5683.02,3862.09,1,0,0,1,0,1,0,1,3183
+DIST011,Healthcare,"Sony Bravia 55"" OLED TV",Electronics,1479.26,1982.55,Medium,2,2021,1479.26,1110.86,0,0,1,1,1,0,0,0,8440
+DIST019,E-commerce,OnePlus 12 5G,Electronics,2265.83,2251.76,Slow Moving,2,2025,2265.83,1705.74,0,0,1,1,1,0,0,0,13487
+DIST036,Healthcare,Patanjali Ashwagandha,Health,3296.3,3786.83,Medium,3,2025,3296.3,2732.74,0,1,0,0,0,1,1,0,27116
+DIST014,Manufacturing,Exide Battery 65Ah,Automotive,24511.95,36472.36,Slow Moving,3,2024,24511.95,23189.89,0,1,0,0,0,1,1,0,10116
+DIST036,Healthcare,Scotch Magic Tape,Office Supplies,3432.49,4473.52,Slow Moving,1,2020,3432.49,3089.24,0,0,1,0,0,0,0,0,26843
+DIST024,Hospitality,Berger Silk Luxury Emulsion,Paint and ancillaries,8462.45,6173.7,Medium,3,2021,8462.45,9219.49,0,1,0,1,0,1,1,0,16994
+DIST017,Retail,Nivia Basketball,Sports,3158.05,5532.88,Fast Moving,2,2021,3158.05,2085.13,0,0,1,1,1,0,0,0,12292
+DIST002,Hospitality,Supradyn Multivitamin Tablets,Health,1537.51,3263.81,Fast Moving,1,2023,1537.51,3003.06,0,0,1,1,0,0,0,0,1369
+DIST048,Manufacturing,Havells Table Fan,Home Goods,1251.02,956.25,Medium,3,2023,1251.02,1125.19,0,1,0,1,0,1,1,0,36013
+DIST047,Manufacturing,PetSafe Gentle Leader Collar,Pet Supplies,1507.2,1265.77,Fast Moving,4,2022,1507.2,1094.05,1,0,0,0,0,1,0,1,35146
+DIST047,Manufacturing,Baidyanath Chyawanprash,Health,12660.58,6209.52,Slow Moving,4,2022,12660.58,10624.09,1,0,0,0,0,1,0,1,35310
+DIST026,Manufacturing,Faber-Castell Highlighters,Office Supplies,5709.31,6957.07,Fast Moving,1,2023,5709.31,9796.87,0,0,1,1,0,0,0,0,18295
+DIST040,Retail,Biotique Morning Nectar Lotion,Beauty,1613.49,2458.76,Slow Moving,2,2020,1613.49,1350.62,0,0,1,1,1,0,0,0,29740
+DIST021,Healthcare,7UP 600ml Bottle,Beverages,536.35,1285.49,Fast Moving,1,2024,536.35,885.23,0,0,1,1,0,0,0,0,15242
+DIST030,Financial Services,JK Easy Copier Paper,Office Supplies,859.83,846.22,Fast Moving,4,2021,859.83,849.46,1,0,0,0,0,1,0,1,21837
+DIST030,Financial Services,Under Armour Performance Polo,Apparel,6171.85,7390.86,Fast Moving,2,2023,6171.85,6080.62,0,0,1,0,1,0,0,0,21591
+DIST037,Education,Prestige Popular Pressure Cooker,Home Goods,4264.78,2876.37,Fast Moving,3,2025,4264.78,4611.88,0,1,0,0,0,1,1,0,27482
+DIST047,Manufacturing,North Face Puffer Jacket,Apparel,3690.85,8039.47,Fast Moving,3,2020,3690.85,4449.03,0,1,0,0,0,1,1,0,35390
+DIST033,E-commerce,Bournvita 1kg,Food,28815.54,29034.11,Medium,3,2022,28815.54,13770.37,0,1,0,1,0,1,1,0,24098
+DIST023,Manufacturing,Haldiram's Bhujia,Food,21401.59,22105.21,Fast Moving,4,2023,21401.59,14578.61,1,0,0,0,0,1,0,1,16388
+DIST013,Manufacturing,Baidyanath Chyawanprash,Health,4635.26,6209.52,Fast Moving,2,2024,4635.26,4370.47,0,0,1,1,1,0,0,0,9228
+DIST007,E-commerce,Lego Classic Creative Box,Toys,9486.75,16891.13,Fast Moving,1,2020,9486.75,8538.08,0,0,1,0,0,0,0,0,4705
+DIST007,E-commerce,Olay Total Effects Day Cream,Beauty,1905.94,2151.41,Medium,2,2020,1905.94,1433.78,0,0,1,1,1,0,0,0,5232
+DIST048,Manufacturing,Faber Chimney Hood,Home Goods,863.89,1179.46,Slow Moving,1,2024,863.89,1560.72,0,0,1,1,0,0,0,0,36335
+DIST017,Retail,Saffola Active Oil 5L,Food,1341.39,1329.98,Fast Moving,2,2021,1341.39,849.06,0,0,1,1,1,0,0,0,12862
+DIST047,Manufacturing,Asian Paints Apcolite Premium Enamel,Paint and ancillaries,6809.98,6108.35,Medium,3,2021,6809.98,8815.64,0,1,0,1,0,1,1,0,35073
+DIST016,E-commerce,Asian Paints Premium Emulsion,Paint and ancillaries,11090.73,11871.07,Slow Moving,4,2025,11090.73,10575.29,1,0,0,0,0,1,0,1,11696
+DIST033,E-commerce,IRIS Pet Food Container,Pet Supplies,3043.03,2981.05,Medium,1,2022,3043.03,4522.58,0,0,1,1,0,0,0,0,24298
+DIST028,Financial Services,Revital H Capsules,Health,17474.68,9972.53,Medium,4,2025,17474.68,13972.95,1,0,0,0,0,1,0,1,20296
+DIST027,Wholesale,Haldiram's Bhujia,Food,27136.97,22105.21,Fast Moving,2,2021,27136.97,15410.33,0,0,1,1,1,0,0,0,19248
+DIST008,Manufacturing,Carrom Board Full Size,Toys,4996.25,5188.35,Fast Moving,2,2024,4996.25,3910.54,0,0,1,1,1,0,0,0,5725
+DIST024,Hospitality,Bosch Wiper Blades,Automotive,4240.96,6474.21,Fast Moving,3,2022,4240.96,2489.56,0,1,0,1,0,1,1,0,17177
+DIST021,Healthcare,Speedo Swimming Goggles,Sports,3069.45,2407.12,Slow Moving,3,2022,3069.45,2118.63,0,1,0,1,0,1,1,0,14924
+DIST003,Education,Havells Table Fan,Home Goods,727.98,956.25,Fast Moving,1,2021,727.98,1636.05,0,0,1,0,0,0,0,0,1768
+DIST050,Wholesale,Strauss Yoga Mat,Sports,13066.08,18825.74,Medium,3,2020,13066.08,14680.52,0,1,0,0,0,1,1,0,37909
+DIST009,Manufacturing,Zandu Balm,Health,15841.75,10870.3,Slow Moving,4,2025,15841.75,16285.42,1,0,0,0,0,1,0,1,6815
+DIST020,Retail,Faber Chimney Hood,Home Goods,944.52,1179.46,Medium,1,2022,944.52,2126.6,0,0,1,1,0,0,0,0,14208
+DIST006,Financial Services,Asian Paints Apcolite Premium Enamel,Paint and ancillaries,7123.94,6108.35,Slow Moving,4,2023,7123.94,7207.99,1,0,0,0,0,1,0,1,4223
+DIST042,Retail,Drools Focus Puppy Super Premium 4kg,Pet Supplies,1633.18,1410.32,Slow Moving,3,2021,1633.18,1261.84,0,1,0,1,0,1,1,0,31551
+DIST034,E-commerce,Kong Classic Dog Toy,Pet Supplies,5129.77,7035.35,Slow Moving,3,2025,5129.77,3728.93,0,1,0,0,0,1,1,0,25271
+DIST007,E-commerce,Vaseline Body Lotion,Beauty,4781.6,3547.06,Fast Moving,2,2025,4781.6,4021.86,0,0,1,1,1,0,0,0,5004
+DIST033,E-commerce,IRIS Pet Food Container,Pet Supplies,3601.48,2981.05,Medium,3,2020,3601.48,2699.07,0,1,0,0,0,1,1,0,24292
+DIST003,Education,Supreme Plastic Chair Set,Home Goods,2962.09,2453.24,Medium,2,2024,2962.09,2121.05,0,0,1,1,1,0,0,0,2011
+DIST032,Manufacturing,H&M Basic T-Shirt Pack,Apparel,4064.94,2242.81,Medium,4,2023,4064.94,3314.33,1,0,0,0,0,1,0,1,23719
+DIST035,Education,Dr. Fixit Raincoat Waterproofing,Paint and ancillaries,1062.38,1123.28,Medium,2,2024,1062.38,560.59,0,0,1,1,1,0,0,0,25536
+DIST027,Wholesale,Ponds Face Powder,Beauty,1798.31,2244.92,Slow Moving,3,2024,1798.31,1680.42,0,1,0,0,0,1,1,0,19698
+DIST025,Financial Services,MRF Cricket Bat,Sports,60781.83,62431.54,Fast Moving,2,2024,60781.83,50165.24,0,0,1,1,1,0,0,0,18253
+DIST024,Hospitality,Patanjali Honey 500g,Food,6786.13,11020.67,Fast Moving,2,2023,6786.13,6056.31,0,0,1,0,1,0,0,0,17407
+DIST017,Retail,Garmin Forerunner Watch,Sports,3048.49,4715.79,Medium,4,2024,3048.49,3071.66,1,0,0,0,0,1,0,1,12146
+DIST007,E-commerce,Amul Butter 500g,Food,1082.87,1674.57,Slow Moving,2,2022,1082.87,1303.44,0,0,1,0,1,0,0,0,5152
+DIST039,Financial Services,Lenovo ThinkPad X1,Electronics,7014.41,16091.06,Medium,1,2025,7014.41,14962.26,0,0,1,1,0,0,0,0,29208
+DIST023,Manufacturing,"Sony Bravia 55"" OLED TV",Electronics,1371.99,1982.55,Slow Moving,3,2022,1371.99,693.71,0,1,0,1,0,1,1,0,16271
+DIST002,Hospitality,Faber Chimney Hood,Home Goods,789.26,1179.46,Slow Moving,1,2025,789.26,1576.86,0,0,1,1,0,0,0,0,1603
+DIST029,Manufacturing,Nike Football,Sports,1842.35,1785.87,Medium,1,2025,1842.35,3186.23,0,0,1,1,0,0,0,0,20846
+DIST029,Manufacturing,Volini Spray,Health,12594.9,4947.15,Fast Moving,4,2025,12594.9,10474.34,1,0,0,0,0,1,0,1,21257
+DIST019,E-commerce,Levi's 501 Original Jeans,Apparel,7129.33,7288.33,Medium,4,2020,7129.33,4049.6,1,0,0,1,0,1,0,1,13694
+DIST040,Retail,Patanjali Ashwagandha,Health,2723.1,3786.83,Fast Moving,1,2020,2723.1,2450.79,0,0,1,0,0,0,0,0,29946
+DIST034,E-commerce,Honda Engine Oil 10W-30,Automotive,4990.76,4770.42,Slow Moving,3,2020,4990.76,3544.32,0,1,0,0,0,1,1,0,24932
+DIST010,E-commerce,Patanjali Honey 500g,Food,18457.5,11020.67,Medium,4,2023,18457.5,20264.24,1,0,0,0,0,1,0,1,7719
+DIST001,Manufacturing,Everest Chicken Masala,Food,434.64,1251.2,Medium,1,2020,434.64,391.18,0,0,1,0,0,0,0,0,90
+DIST022,E-commerce,PlayStation 5 Digital Edition,Toys,18794.93,13593.1,Medium,4,2020,18794.93,11152.32,1,0,0,1,0,1,0,1,15946
+DIST015,Retail,Remote Control Car,Toys,3472.17,2551.44,Slow Moving,4,2020,3472.17,2107.32,1,0,0,1,0,1,0,1,10925
+DIST016,E-commerce,Mountain Dew 750ml,Beverages,3116.16,3155.51,Fast Moving,4,2023,3116.16,3354.92,1,0,0,0,0,1,0,1,11734
+DIST004,Healthcare,Pantene Anti-Dandruff Shampoo,Beauty,8484.32,5199.53,Slow Moving,4,2024,8484.32,6931.16,1,0,0,0,0,1,0,1,2362
+DIST007,E-commerce,Honda Engine Oil 10W-30,Automotive,2213.1,4770.42,Slow Moving,1,2022,2213.1,3417.5,0,0,1,1,0,0,0,0,5328
+DIST026,Manufacturing,Farmina N&D Dog Food 12kg,Pet Supplies,2780.86,2546.34,Slow Moving,2,2025,2780.86,1668.5,0,0,1,1,1,0,0,0,18464
+DIST025,Financial Services,Fisher-Price Learning Toys,Toys,5357.27,4397.48,Fast Moving,4,2020,5357.27,2937.82,1,0,0,1,0,1,0,1,17808
+DIST006,Financial Services,"Sony Bravia 55"" OLED TV",Electronics,2174.8,1982.55,Medium,3,2024,2174.8,2113.76,0,1,0,0,0,1,1,0,4335
+DIST024,Hospitality,Classmate Notebook Set,Office Supplies,3136.19,5049.67,Slow Moving,1,2023,3136.19,5162.74,0,0,1,1,0,0,0,0,16977
+DIST033,E-commerce,VLCC Sunscreen Gel,Beauty,11103.71,9014.05,Slow Moving,4,2025,11103.71,8632.12,1,0,0,0,0,1,0,1,24513
+DIST023,Manufacturing,Savic Dog Carrier,Pet Supplies,5241.27,3801.62,Medium,4,2024,5241.27,3473.02,1,0,0,0,0,1,0,1,16234
+DIST013,Manufacturing,Lakme Absolute Lipstick,Beauty,5320.38,5131.26,Medium,2,2023,5320.38,4435.15,0,0,1,0,1,0,0,0,9928
+DIST037,Education,Prestige Popular Pressure Cooker,Home Goods,3455.3,2876.37,Fast Moving,3,2020,3455.3,3543.25,0,1,0,0,0,1,1,0,27464
+DIST010,E-commerce,Pawzone Cat Scratch Post,Pet Supplies,2153.48,2378.99,Fast Moving,4,2023,2153.48,1445.01,1,0,0,0,0,1,0,1,6943
+DIST044,Healthcare,Asian Paints Tractor Emulsion,Paint and ancillaries,33064.73,22882.43,Medium,3,2022,33064.73,38185.17,0,1,0,1,0,1,1,0,32741
+DIST009,Manufacturing,AccuCheck Sugar Test Strips,Health,5613.67,6422.28,Medium,2,2022,5613.67,3308.84,0,0,1,0,1,0,0,0,6825
+DIST001,Manufacturing,Himalaya Purifying Neem Face Wash,Beauty,14209.04,9807.82,Slow Moving,4,2024,14209.04,10373.79,1,0,0,0,0,1,0,1,225
+DIST009,Manufacturing,Prestige Popular Pressure Cooker,Home Goods,1386.73,2876.37,Fast Moving,2,2024,1386.73,1257.06,0,0,1,1,1,0,0,0,6418
+DIST028,Financial Services,7UP 600ml Bottle,Beverages,1090.59,1285.49,Slow Moving,2,2025,1090.59,825.5,0,0,1,1,1,0,0,0,19861
+DIST036,Healthcare,Omron Blood Pressure Monitor,Health,1302.33,1819.22,Fast Moving,3,2023,1302.33,1069.36,0,1,0,1,0,1,1,0,26564
+DIST024,Hospitality,Kong Classic Dog Toy,Pet Supplies,7712.44,7035.35,Medium,2,2024,7712.44,7209.92,0,0,1,1,1,0,0,0,17025
+DIST006,Financial Services,Asian Paints Premium Emulsion,Paint and ancillaries,7143.35,11871.07,Medium,4,2021,7143.35,7239.89,1,0,0,0,0,1,0,1,4481
+DIST048,Manufacturing,Prestige Popular Pressure Cooker,Home Goods,3177.23,2876.37,Medium,4,2023,3177.23,2109.08,1,0,0,0,0,1,0,1,36241
+DIST007,E-commerce,Asian Paints Royale Luxury Emulsion,Paint and ancillaries,8117.53,7547.97,Fast Moving,3,2021,8117.53,12127.33,0,1,0,1,0,1,1,0,5215
+DIST037,Education,Tommy Hilfiger Classic Shirt,Apparel,9282.69,4766.13,Medium,4,2024,9282.69,4616.59,1,0,0,0,0,1,0,1,27501
+DIST026,Manufacturing,Marvel Action Figure Set,Toys,4091.21,4753.94,Medium,1,2024,4091.21,9120.44,0,0,1,1,0,0,0,0,18716
+DIST006,Financial Services,PetSafe Gentle Leader Collar,Pet Supplies,891.72,1265.77,Fast Moving,3,2023,891.72,826.71,0,1,0,1,0,1,1,0,4557
+DIST016,E-commerce,Speedo Swimming Goggles,Sports,1492.99,2407.12,Slow Moving,1,2024,1492.99,2396.23,0,0,1,1,0,0,0,0,11757
+DIST017,Retail,Red Bull Energy Drink,Beverages,9618.29,7460.29,Medium,3,2023,9618.29,5447.27,0,1,0,1,0,1,1,0,12369
+DIST028,Financial Services,Royal Canin Maxi Puppy 4kg,Pet Supplies,5033.18,4123.24,Slow Moving,2,2024,5033.18,4461.37,0,0,1,1,1,0,0,0,20155
+DIST032,Manufacturing,Philips Headlight Bulbs,Automotive,852.93,856.36,Fast Moving,4,2021,852.93,610.58,1,0,0,0,0,1,0,1,23643
+DIST026,Manufacturing,Kong Classic Dog Toy,Pet Supplies,5413.28,7035.35,Slow Moving,2,2024,5413.28,7326.57,0,0,1,1,1,0,0,0,18482
+DIST017,Retail,MRF Cricket Bat,Sports,68282.77,62431.54,Slow Moving,4,2020,68282.77,60628.67,1,0,0,1,0,1,0,1,12559
+DIST020,Retail,Maybelline Fit Me Foundation,Beauty,464.28,1223.47,Fast Moving,1,2022,464.28,1186.63,0,0,1,1,0,0,0,0,14392
+DIST019,E-commerce,Louis Vuitton Neverfull Bag,Apparel,94678.08,68246.14,Medium,3,2022,94678.08,64589.89,0,1,0,1,0,1,1,0,13841
+DIST018,Manufacturing,Paper Boat Aam Panna,Beverages,4141.28,6158.53,Slow Moving,3,2023,4141.28,3091.9,0,1,0,1,0,1,1,0,13368
+DIST006,Financial Services,Tommy Hilfiger Classic Shirt,Apparel,5540.65,4766.13,Medium,4,2025,5540.65,2865.64,1,0,0,0,0,1,0,1,4589
+DIST005,Financial Services,Pidilite M-Seal,Paint and ancillaries,1012.51,1812.46,Slow Moving,4,2021,1012.51,1304.9,1,0,0,0,0,1,0,1,3574
+DIST005,Financial Services,Kinley Water 1L Pack,Beverages,4902.16,8863.91,Slow Moving,1,2021,4902.16,8350.64,0,0,1,0,0,0,0,0,3707
+DIST025,Financial Services,PetSafe Drinkwell Water Fountain,Pet Supplies,2987.26,2523.22,Medium,3,2023,2987.26,2538.57,0,1,0,1,0,1,1,0,17885
+DIST017,Retail,Fevicol Adhesive 200g,Office Supplies,5854.17,5737.77,Medium,2,2020,5854.17,4471.56,0,0,1,1,1,0,0,0,12491
+DIST016,E-commerce,MAC Ruby Woo Lipstick,Beauty,4668.93,5146.8,Slow Moving,2,2022,4668.93,3129.26,0,0,1,0,1,0,0,0,11272
+DIST047,Manufacturing,Bose QuietComfort Earbuds,Electronics,1801.14,3486.49,Medium,1,2024,1801.14,3599.03,0,0,1,1,0,0,0,0,35174
+DIST045,E-commerce,H&M Basic T-Shirt Pack,Apparel,1776.96,2242.81,Medium,2,2024,1776.96,1853.53,0,0,1,1,1,0,0,0,33269
+DIST026,Manufacturing,Zandu Balm,Health,14334.42,10870.3,Fast Moving,4,2023,14334.42,11196.57,1,0,0,0,0,1,0,1,18855
+DIST029,Manufacturing,Head & Shoulders Shampoo,Beauty,1218.02,2075.29,Slow Moving,1,2025,1218.02,2207.82,0,0,1,1,0,0,0,0,20727
+DIST010,E-commerce,Nerf Elite Blaster,Toys,896.32,1725.61,Slow Moving,1,2020,896.32,806.69,0,0,1,0,0,0,0,0,7566
+DIST009,Manufacturing,Speedo Swimming Goggles,Sports,4040.57,2407.12,Fast Moving,4,2022,4040.57,3152.16,1,0,0,0,0,1,0,1,6686
+DIST046,Manufacturing,Spaces Cotton Towel Set,Home Goods,2194.81,2129.66,Slow Moving,2,2020,2194.81,1391.11,0,0,1,1,1,0,0,0,33964
+DIST005,Financial Services,Baidyanath Chyawanprash,Health,3835.43,6209.52,Slow Moving,2,2020,3835.43,3128.21,0,0,1,1,1,0,0,0,3637
+DIST017,Retail,DJI Mavic 3 Drone,Electronics,49896.74,22239.75,Fast Moving,4,2024,49896.74,25472.15,1,0,0,0,0,1,0,1,12762
+DIST002,Hospitality,Neutrogena Sunscreen SPF 50,Beauty,4181.29,9695.03,Slow Moving,1,2020,4181.29,3763.16,0,0,1,0,0,0,0,0,1170
+DIST049,Financial Services,Everest Chicken Masala,Food,1595.8,1251.2,Medium,1,2025,1595.8,1867.54,0,0,1,1,0,0,0,0,36868
+DIST049,Financial Services,Callaway Golf Club Set,Sports,3180.87,3719.5,Fast Moving,4,2021,3180.87,2077.08,1,0,0,0,0,1,0,1,36466
+DIST046,Manufacturing,Garmin Forerunner Watch,Sports,2669.67,4715.79,Slow Moving,1,2025,2669.67,4872.33,0,0,1,1,0,0,0,0,34027
+DIST026,Manufacturing,Philips Air Purifier 3000i,Electronics,6284.98,2898.74,Fast Moving,4,2021,6284.98,3618.91,1,0,0,0,0,1,0,1,19161
+DIST012,Retail,Voltas 2 Ton Window AC,Electronics,2320.88,4366.23,Medium,2,2023,2320.88,1962.17,0,0,1,0,1,0,0,0,8814
+DIST021,Healthcare,Nivea Men Face Wash,Beauty,1826.99,1370.86,Slow Moving,4,2023,1826.99,1384.61,1,0,0,0,0,1,0,1,15152
+DIST037,Education,Prestige Popular Pressure Cooker,Home Goods,3002.5,2876.37,Medium,2,2022,3002.5,2697.82,0,0,1,0,1,0,0,0,27471
+DIST006,Financial Services,Faber-Castell Highlighters,Office Supplies,6431.81,6957.07,Slow Moving,3,2021,6431.81,5454.25,0,1,0,1,0,1,1,0,3915
+DIST036,Healthcare,Kissan Mixed Fruit Jam,Food,6830.56,8738.38,Medium,4,2022,6830.56,8568.83,1,0,0,0,0,1,0,1,26355
+DIST029,Manufacturing,Play-Doh Modeling Compound,Toys,3748.14,3242.42,Medium,3,2020,3748.14,3916.26,0,1,0,0,0,1,1,0,21058
+DIST031,Education,Chess Set Wooden,Toys,19259.87,12565.45,Medium,3,2022,19259.87,11475.13,0,1,0,1,0,1,1,0,22731
+DIST048,Manufacturing,Wilson Tennis Racket,Sports,1696.3,1333.02,Slow Moving,4,2021,1696.3,1371.16,1,0,0,0,0,1,0,1,35777
+DIST040,Retail,Sony WH-1000XM5 Headphones,Electronics,11706.25,9515.13,Medium,3,2024,11706.25,9093.29,0,1,0,0,0,1,1,0,29527
+DIST039,Financial Services,Himalaya Purifying Neem Face Wash,Beauty,16518.35,9807.82,Fast Moving,4,2024,16518.35,10854.06,1,0,0,0,0,1,0,1,29323
+DIST007,E-commerce,Honda Engine Oil 10W-30,Automotive,2445.06,4770.42,Medium,2,2022,2445.06,2213.1,0,0,1,0,1,0,0,0,5329
+DIST046,Manufacturing,Nike Football,Sports,878.3,1785.87,Slow Moving,1,2021,878.3,1563.59,0,0,1,0,0,0,0,0,34586
+DIST010,E-commerce,Farmina N&D Dog Food 12kg,Pet Supplies,2743.88,2546.34,Medium,4,2023,2743.88,2349.2,1,0,0,0,0,1,0,1,6921
+DIST040,Retail,Omron Blood Pressure Monitor,Health,2337.79,1819.22,Medium,4,2020,2337.79,1339.5,1,0,0,1,0,1,0,1,29856
+DIST043,Education,Strauss Yoga Mat,Sports,30080.64,18825.74,Fast Moving,4,2025,30080.64,25580.16,1,0,0,0,0,1,0,1,32638
+DIST003,Education,Mobil Super Mileage 15W-40,Automotive,1389.41,2485.01,Slow Moving,2,2021,1389.41,1085.6,0,0,1,1,1,0,0,0,1814
+DIST036,Healthcare,Funskool Monopoly,Toys,3229.58,3982.36,Fast Moving,4,2021,3229.58,2598.51,1,0,0,0,0,1,0,1,26536
+DIST025,Financial Services,Disney Princess Doll,Toys,3157.63,3623.32,Slow Moving,2,2023,3157.63,2543.02,0,0,1,0,1,0,0,0,17839
+DIST045,E-commerce,Pidilite M-Seal,Paint and ancillaries,2623.75,1812.46,Slow Moving,4,2025,2623.75,2633.32,1,0,0,0,0,1,0,1,33389
+DIST021,Healthcare,Ensure Protein Powder,Health,5882.28,6692.47,Fast Moving,1,2025,5882.28,9855.6,0,0,1,1,0,0,0,0,15422
+DIST046,Manufacturing,Sprite 2.25L Bottle,Beverages,4125.58,7729.18,Slow Moving,1,2024,4125.58,8976.75,0,0,1,1,0,0,0,0,34737
+DIST029,Manufacturing,Faber Chimney Hood,Home Goods,2679.81,1179.46,Fast Moving,4,2025,2679.81,1573.05,1,0,0,0,0,1,0,1,21392
+DIST031,Education,Fevicol Marine Waterproof,Paint and ancillaries,1851.98,3298.47,Medium,1,2021,1851.98,2716.48,0,0,1,0,0,0,0,0,22378
+DIST016,E-commerce,Asian Paints Premium Emulsion,Paint and ancillaries,12946.23,11871.07,Slow Moving,2,2025,12946.23,6561.79,0,0,1,1,1,0,0,0,11694
+DIST017,Retail,Canon EOS R6 Camera,Electronics,8820.26,4083.36,Slow Moving,4,2023,8820.26,5794.82,1,0,0,0,0,1,0,1,12801
+DIST024,Hospitality,UNO Card Game,Toys,8784.1,6096.26,Medium,2,2025,8784.1,5777.17,0,0,1,1,1,0,0,0,17735
+DIST002,Hospitality,Maybelline Fit Me Foundation,Beauty,896.51,1223.47,Medium,2,2020,896.51,777.13,0,0,1,1,1,0,0,0,1102
+DIST015,Retail,"Sony Bravia 55"" OLED TV",Electronics,2810.23,1982.55,Fast Moving,4,2020,2810.23,1811.72,1,0,0,1,0,1,0,1,10856
+DIST004,Healthcare,Zara Slim Fit Blazer,Apparel,18875.95,8387.38,Slow Moving,4,2025,18875.95,11628.03,1,0,0,0,0,1,0,1,2768
+DIST001,Manufacturing,Everest Chicken Masala,Food,655.97,1251.2,Slow Moving,2,2023,655.97,636.65,0,0,1,0,1,0,0,0,103
+DIST024,Hospitality,Lego Classic Creative Box,Toys,12555.28,16891.13,Fast Moving,2,2020,12555.28,11032.58,0,0,1,1,1,0,0,0,17670
+DIST033,E-commerce,Saffola Active Oil 5L,Food,804.42,1329.98,Medium,1,2020,804.42,723.98,0,0,1,0,0,0,0,0,24624
+DIST032,Manufacturing,Nivia Basketball,Sports,5418.12,5532.88,Fast Moving,2,2024,5418.12,5281.62,0,0,1,1,1,0,0,0,23329
+DIST027,Wholesale,Kissan Mixed Fruit Jam,Food,6868.4,8738.38,Slow Moving,2,2022,6868.4,5807.7,0,0,1,0,1,0,0,0,19573
+DIST045,E-commerce,Mattel Barbie Dreamhouse,Toys,7563.51,12981.66,Fast Moving,1,2021,7563.51,17452.2,0,0,1,0,0,0,0,0,33626
+DIST048,Manufacturing,Neelgagan Stamp Pad,Office Supplies,289.8,365.18,Medium,2,2020,289.8,299.32,0,0,1,1,1,0,0,0,35678
+DIST017,Retail,MRF Cricket Bat,Sports,67866.46,62431.54,Fast Moving,2,2024,67866.46,48853.77,0,0,1,1,1,0,0,0,12572
+DIST005,Financial Services,Biotique Morning Nectar Lotion,Beauty,1187.21,2458.76,Medium,2,2022,1187.21,1296.07,0,0,1,0,1,0,0,0,3211
+DIST050,Wholesale,Mattel Barbie Dreamhouse,Toys,15498.57,12981.66,Fast Moving,2,2025,15498.57,10360.23,0,0,1,1,1,0,0,0,37836
+DIST040,Retail,AccuCheck Sugar Test Strips,Health,5469.28,6422.28,Medium,3,2023,5469.28,5063.4,0,1,0,1,0,1,1,0,30255
+DIST046,Manufacturing,Philips Dry Iron,Home Goods,2146.85,1900.07,Slow Moving,4,2023,2146.85,1384.52,1,0,0,0,0,1,0,1,34187
+DIST033,E-commerce,Bournvita 1kg,Food,17957.14,29034.11,Fast Moving,1,2025,17957.14,25499.87,0,0,1,1,0,0,0,0,24107
+DIST036,Healthcare,Exide Battery 65Ah,Automotive,58727.27,36472.36,Medium,3,2023,58727.27,56306.13,0,1,0,1,0,1,1,0,27040
+DIST027,Wholesale,MAC Ruby Woo Lipstick,Beauty,5183.64,5146.8,Slow Moving,4,2022,5183.64,3680.58,1,0,0,0,0,1,0,1,19416
+DIST041,E-commerce,7UP 600ml Bottle,Beverages,1167.29,1285.49,Fast Moving,1,2025,1167.29,2246.13,0,0,1,1,0,0,0,0,30838
+DIST038,Education,AccuCheck Sugar Test Strips,Health,9781.48,6422.28,Fast Moving,4,2025,9781.48,7659.14,1,0,0,0,0,1,0,1,28259
+DIST032,Manufacturing,Asian Paints Royale Luxury Emulsion,Paint and ancillaries,8895.02,7547.97,Fast Moving,3,2025,8895.02,10781.25,0,1,0,0,0,1,1,0,23218
+DIST009,Manufacturing,Horlicks Classic 1kg,Beverages,2952.82,2457.11,Medium,4,2025,2952.82,2607.4,1,0,0,0,0,1,0,1,6448
+DIST016,E-commerce,Fluval Aquarium Filter,Pet Supplies,2365.95,3819.25,Slow Moving,1,2024,2365.95,4509.07,0,0,1,1,0,0,0,0,11233
+DIST021,Healthcare,Nivea Men Face Wash,Beauty,1166.2,1370.86,Slow Moving,1,2023,1166.2,1765.57,0,0,1,1,0,0,0,0,15149
+DIST047,Manufacturing,Fortune Sunflower Oil 5L,Food,1581.98,3981.79,Slow Moving,1,2022,1581.98,2377.34,0,0,1,1,0,0,0,0,35236
+DIST015,Retail,Nike Football,Sports,2133.65,1785.87,Medium,2,2024,2133.65,2871.03,0,0,1,1,1,0,0,0,11097
+DIST016,E-commerce,Asian Paints Tractor Emulsion,Paint and ancillaries,19144.71,22882.43,Fast Moving,2,2020,19144.71,8924.7,0,0,1,1,1,0,0,0,11377
+DIST029,Manufacturing,Zara Slim Fit Blazer,Apparel,7854.88,8387.38,Slow Moving,4,2023,7854.88,6471.52,1,0,0,0,0,1,0,1,21227
+DIST011,Healthcare,Callaway Golf Club Set,Sports,5133.16,3719.5,Medium,2,2022,5133.16,3962.12,0,0,1,0,1,0,0,0,8101
+DIST010,E-commerce,Philips Air Purifier 3000i,Electronics,3679.28,2898.74,Slow Moving,4,2025,3679.28,2607.12,1,0,0,0,0,1,0,1,7271
+DIST048,Manufacturing,Faber Chimney Hood,Home Goods,1182.37,1179.46,Fast Moving,2,2021,1182.37,729.66,0,0,1,1,1,0,0,0,36325
+DIST023,Manufacturing,Savic Dog Carrier,Pet Supplies,3377.96,3801.62,Medium,3,2023,3377.96,2951.85,0,1,0,1,0,1,1,0,16229
+DIST041,E-commerce,Amul Butter 500g,Food,1804.5,1674.57,Medium,2,2021,1804.5,2549.21,0,0,1,1,1,0,0,0,30757
+DIST021,Healthcare,PlayStation 5 Digital Edition,Toys,8565.09,13593.1,Slow Moving,1,2024,8565.09,15676.55,0,0,1,1,0,0,0,0,14836
+DIST037,Education,Marvel Action Figure Set,Toys,5571.0,4753.94,Medium,4,2022,5571.0,4167.73,1,0,0,0,0,1,0,1,27701
+DIST031,Education,Zandu Balm,Health,15085.97,10870.3,Slow Moving,3,2025,15085.97,12250.6,0,1,0,0,0,1,1,0,22856
+DIST050,Wholesale,Callaway Golf Club Set,Sports,1982.01,3719.5,Fast Moving,2,2021,1982.01,1284.23,0,0,1,1,1,0,0,0,37608
+DIST049,Financial Services,Tata Salt 1kg,Food,2549.22,2968.99,Fast Moving,1,2022,2549.22,3797.5,0,0,1,1,0,0,0,0,36491
+DIST009,Manufacturing,Nestle Maggi Noodles,Food,4960.11,3119.14,Slow Moving,4,2022,4960.11,4441.3,1,0,0,0,0,1,0,1,6319
+DIST042,Retail,JK Tyre 185/65 R15,Automotive,3222.28,3179.2,Medium,3,2024,3222.28,2223.45,0,1,0,0,0,1,1,0,31725
+DIST001,Manufacturing,Fossil Chronograph Watch,Apparel,1084.95,1148.1,Fast Moving,2,2021,1084.95,757.42,0,0,1,1,1,0,0,0,669
+DIST039,Financial Services,Cosco Volleyball,Sports,1070.98,838.75,Fast Moving,2,2023,1070.98,778.91,0,0,1,0,1,0,0,0,28933
+DIST050,Wholesale,Lenovo ThinkPad X1,Electronics,21924.95,16091.06,Medium,3,2021,21924.95,14608.7,0,1,0,1,0,1,1,0,37960
+DIST045,E-commerce,Uniqlo AIRism Undershirt,Apparel,8026.68,4630.7,Medium,4,2025,8026.68,4380.15,1,0,0,0,0,1,0,1,33551
+DIST040,Retail,AccuCheck Sugar Test Strips,Health,5063.4,6422.28,Medium,2,2023,5063.4,3763.14,0,0,1,0,1,0,0,0,30254
+DIST030,Financial Services,Voltas 2 Ton Window AC,Electronics,5544.02,4366.23,Slow Moving,3,2023,5544.02,4069.85,0,1,0,1,0,1,1,0,21545
+DIST029,Manufacturing,IFB Microwave Oven,Home Goods,9406.35,11621.95,Slow Moving,1,2024,9406.35,23093.5,0,0,1,1,0,0,0,0,20959
+DIST002,Hospitality,Michelin P215/65R16 Tires,Automotive,3284.01,2763.1,Slow Moving,3,2020,3284.01,3445.53,0,1,0,0,0,1,1,0,826
+DIST031,Education,Bosch Spark Plug Set,Automotive,5340.13,5780.38,Fast Moving,2,2023,5340.13,5197.89,0,0,1,0,1,0,0,0,22525
+DIST029,Manufacturing,Kinley Water 1L Pack,Beverages,15572.64,8863.91,Medium,3,2024,15572.64,10637.63,0,1,0,0,0,1,1,0,20984
+DIST027,Wholesale,Asian Paints Premium Emulsion,Paint and ancillaries,7376.48,11871.07,Slow Moving,3,2020,7376.48,12395.84,0,1,0,0,0,1,1,0,19498
+DIST017,Retail,Vaseline Body Lotion,Beauty,3019.98,3547.06,Medium,3,2020,3019.98,2207.52,0,1,0,0,0,1,1,0,12221
+DIST040,Retail,Faber Chimney Hood,Home Goods,760.82,1179.46,Medium,1,2022,760.82,1422.47,0,0,1,1,0,0,0,0,30000
+DIST016,E-commerce,Dr. Fixit Raincoat Waterproofing,Paint and ancillaries,996.52,1123.28,Fast Moving,2,2020,996.52,416.98,0,0,1,1,1,0,0,0,11858
+DIST043,Education,Xbox Series X,Toys,9622.06,9659.16,Medium,2,2020,9622.06,7064.77,0,0,1,1,1,0,0,0,32479
+DIST003,Education,Supradyn Multivitamin Tablets,Health,3003.5,3263.81,Slow Moving,4,2020,3003.5,2597.38,1,0,0,1,0,1,0,1,1677
+DIST021,Healthcare,Baidyanath Chyawanprash,Health,4390.5,6209.52,Fast Moving,1,2023,4390.5,8555.94,0,0,1,1,0,0,0,0,15216
+DIST042,Retail,Scotch Magic Tape,Office Supplies,3082.39,4473.52,Slow Moving,2,2022,3082.39,2927.89,0,0,1,0,1,0,0,0,31808
+DIST049,Financial Services,Columbia Hiking Backpack,Sports,3857.07,7917.89,Medium,1,2021,3857.07,7123.48,0,0,1,0,0,0,0,0,36601
+DIST042,Retail,Milton Thermosteel Flask,Home Goods,31129.6,21658.67,Medium,4,2024,31129.6,25107.21,1,0,0,0,0,1,0,1,31382
+DIST020,Retail,DJI Mavic 3 Drone,Electronics,24217.62,22239.75,Medium,2,2022,24217.62,21955.24,0,0,1,0,1,0,0,0,14669
+DIST046,Manufacturing,Spaces Cotton Towel Set,Home Goods,3523.8,2129.66,Slow Moving,4,2023,3523.8,2835.97,1,0,0,0,0,1,0,1,33977
+DIST012,Retail,Tata Tea Premium 1kg,Beverages,2080.87,1121.9,Fast Moving,3,2025,2080.87,1550.44,0,1,0,0,0,1,1,0,8756
+DIST023,Manufacturing,Uniqlo AIRism Undershirt,Apparel,2426.77,4630.7,Fast Moving,1,2024,2426.77,4729.84,0,0,1,1,0,0,0,0,16255
+DIST017,Retail,MDH Garam Masala,Food,7770.08,6345.93,Medium,3,2020,7770.08,7509.57,0,1,0,0,0,1,1,0,12537
+DIST019,E-commerce,Savic Dog Carrier,Pet Supplies,5628.08,3801.62,Slow Moving,4,2023,5628.08,3728.36,1,0,0,0,0,1,0,1,14005
+DIST048,Manufacturing,Asian Paints Tractor Emulsion,Paint and ancillaries,8611.29,22882.43,Slow Moving,1,2022,8611.29,13447.41,0,0,1,1,0,0,0,0,36374
+DIST015,Retail,"Sony Bravia 55"" OLED TV",Electronics,1481.11,1982.55,Fast Moving,2,2023,1481.11,1156.52,0,0,1,0,1,0,0,0,10866
+DIST013,Manufacturing,Hot Wheels 5-Car Pack,Toys,5795.8,5502.54,Medium,3,2021,5795.8,5264.71,0,1,0,1,0,1,1,0,9559
+DIST048,Manufacturing,Cadbury Dairy Milk Chocolate,Food,23242.27,12480.74,Fast Moving,4,2025,23242.27,23435.28,1,0,0,0,0,1,0,1,35745
+DIST024,Hospitality,Lego Classic Creative Box,Toys,28663.36,16891.13,Medium,4,2023,28663.36,19265.7,1,0,0,0,0,1,0,1,17684
+DIST030,Financial Services,Nivea Men Face Wash,Beauty,1269.33,1370.86,Fast Moving,4,2020,1269.33,1044.95,1,0,0,1,0,1,0,1,21785
+DIST016,E-commerce,Baidyanath Chyawanprash,Health,4858.76,6209.52,Fast Moving,4,2021,4858.76,4383.9,1,0,0,0,0,1,0,1,11428
+DIST031,Education,Biotique Morning Nectar Lotion,Beauty,2288.07,2458.76,Medium,4,2024,2288.07,1986.54,1,0,0,0,0,1,0,1,22832
+DIST042,Retail,Dell XPS 15 Laptop,Electronics,13973.14,6356.26,Fast Moving,4,2022,13973.14,8083.49,1,0,0,0,0,1,0,1,31695
+DIST048,Manufacturing,Everest Chicken Masala,Food,549.49,1251.2,Fast Moving,2,2024,549.49,566.4,0,0,1,1,1,0,0,0,36220
+DIST014,Manufacturing,Cosco Volleyball,Sports,873.02,838.75,Medium,1,2023,873.02,1403.74,0,0,1,1,0,0,0,0,10017
+DIST036,Healthcare,Haldiram's Bhujia,Food,35544.96,22105.21,Slow Moving,2,2024,35544.96,26905.8,0,0,1,1,1,0,0,0,26674
+DIST011,Healthcare,AccuCheck Sugar Test Strips,Health,4009.67,6422.28,Fast Moving,1,2025,4009.67,7627.59,0,0,1,1,0,0,0,0,7884
+DIST002,Hospitality,Zandu Balm,Health,8608.84,10870.3,Slow Moving,3,2025,8608.84,6966.9,0,1,0,0,0,1,1,0,1401
+DIST007,E-commerce,Vaseline Body Lotion,Beauty,3178.17,3547.06,Slow Moving,1,2021,3178.17,5954.26,0,0,1,0,0,0,0,0,4988
+DIST043,Education,H&M Basic T-Shirt Pack,Apparel,1718.85,2242.81,Fast Moving,3,2022,1718.85,1465.1,0,1,0,1,0,1,1,0,32268
+DIST007,E-commerce,Vicks VapoRub,Health,849.94,2366.74,Medium,1,2024,849.94,1375.92,0,0,1,1,0,0,0,0,4765
+DIST050,Wholesale,MAC Ruby Woo Lipstick,Beauty,5556.38,5146.8,Medium,3,2020,5556.38,4619.11,0,1,0,0,0,1,1,0,37353
+DIST006,Financial Services,Calvin Klein Boxer Brief Set,Apparel,1888.33,1485.3,Medium,4,2022,1888.33,1248.86,1,0,0,0,0,1,0,1,3968
+DIST023,Manufacturing,Cosco Volleyball,Sports,638.88,838.75,Fast Moving,2,2022,638.88,479.94,0,0,1,0,1,0,0,0,16109
+DIST042,Retail,Saffola Active Oil 5L,Food,2099.68,1329.98,Fast Moving,3,2021,2099.68,1213.22,0,1,0,1,0,1,1,0,31483
+DIST025,Financial Services,Pawzone Cat Scratch Post,Pet Supplies,1957.35,2378.99,Slow Moving,3,2021,1957.35,2403.71,0,1,0,1,0,1,1,0,17900
+DIST028,Financial Services,Mountain Dew 750ml,Beverages,3406.45,3155.51,Fast Moving,4,2023,3406.45,3431.07,1,0,0,0,0,1,0,1,20176
+DIST032,Manufacturing,Fevicol Marine Waterproof,Paint and ancillaries,1798.69,3298.47,Fast Moving,3,2021,1798.69,2717.98,0,1,0,1,0,1,1,0,23250
+DIST028,Financial Services,Patanjali Honey 500g,Food,10602.35,11020.67,Medium,3,2025,10602.35,8602.29,0,1,0,0,0,1,1,0,20093
+DIST029,Manufacturing,Revlon ColorStay Eyeliner,Beauty,2679.16,3873.66,Medium,1,2021,2679.16,5070.83,0,0,1,0,0,0,0,0,20642
+DIST009,Manufacturing,Asian Paints Premium Emulsion,Paint and ancillaries,8935.03,11871.07,Medium,4,2021,8935.03,9921.65,1,0,0,0,0,1,0,1,6547
+DIST017,Retail,Remote Control Car,Toys,1923.82,2551.44,Fast Moving,3,2021,1923.82,1564.89,0,1,0,1,0,1,1,0,12725
+DIST034,E-commerce,Milton Thermosteel Flask,Home Goods,24149.19,21658.67,Fast Moving,3,2023,24149.19,22703.99,0,1,0,1,0,1,1,0,25240
+DIST050,Wholesale,Bajaj Mixer Grinder,Home Goods,7520.07,7816.7,Medium,3,2020,7520.07,7112.13,0,1,0,0,0,1,1,0,37468
+DIST006,Financial Services,Volini Spray,Health,3721.91,4947.15,Fast Moving,2,2022,3721.91,2995.3,0,0,1,0,1,0,0,0,3942
+DIST008,Manufacturing,Yamaha Bike Oil 10W-40,Automotive,4457.46,5202.68,Fast Moving,3,2025,4457.46,3642.34,0,1,0,0,0,1,1,0,5983
+DIST024,Hospitality,Voltas 2 Ton Window AC,Electronics,3943.93,4366.23,Fast Moving,2,2022,3943.93,2851.07,0,0,1,0,1,0,0,0,17561
+DIST036,Healthcare,Columbia Hiking Backpack,Sports,11297.22,7917.89,Fast Moving,3,2023,11297.22,9577.8,0,1,0,1,0,1,1,0,27316
+DIST036,Healthcare,MAC Ruby Woo Lipstick,Beauty,2234.45,5146.8,Medium,2,2020,2234.45,1796.97,0,0,1,1,1,0,0,0,27072
+DIST039,Financial Services,Asian Paints Royale Luxury Emulsion,Paint and ancillaries,8610.82,7547.97,Medium,2,2024,8610.82,5049.84,0,0,1,1,1,0,0,0,29253
+DIST048,Manufacturing,Savic Dog Carrier,Pet Supplies,4906.54,3801.62,Medium,4,2021,4906.54,4012.21,1,0,0,0,0,1,0,1,35913
+DIST032,Manufacturing,Nerf Elite Blaster,Toys,2154.95,1725.61,Medium,3,2020,2154.95,1805.04,0,1,0,0,0,1,1,0,23087
+DIST027,Wholesale,MAC Ruby Woo Lipstick,Beauty,2710.52,5146.8,Medium,1,2023,2710.52,5183.64,0,0,1,1,0,0,0,0,19417
+DIST014,Manufacturing,MAC Ruby Woo Lipstick,Beauty,3436.93,5146.8,Fast Moving,4,2021,3436.93,2770.83,1,0,0,0,0,1,0,1,10334
+DIST047,Manufacturing,Philips Dry Iron,Home Goods,2388.54,1900.07,Fast Moving,4,2023,2388.54,1813.08,1,0,0,0,0,1,0,1,35197
+DIST023,Manufacturing,Honda Engine Oil 10W-30,Automotive,7758.78,4770.42,Fast Moving,3,2023,7758.78,5026.38,0,1,0,1,0,1,1,0,16758
+DIST026,Manufacturing,PlayStation 5 Digital Edition,Toys,9944.14,13593.1,Slow Moving,1,2021,9944.14,12946.17,0,0,1,0,0,0,0,0,18680
+DIST014,Manufacturing,Berger Easy Clean,Paint and ancillaries,6110.04,8913.79,Medium,3,2021,6110.04,6653.13,0,1,0,1,0,1,1,0,10401
+DIST033,E-commerce,Patanjali Honey 500g,Food,22314.59,11020.67,Slow Moving,3,2023,22314.59,13353.33,0,1,0,1,0,1,1,0,24811
+DIST028,Financial Services,Fluval Aquarium Filter,Pet Supplies,4251.52,3819.25,Fast Moving,2,2025,4251.52,3570.4,0,0,1,1,1,0,0,0,20023
+DIST040,Retail,Kinley Water 1L Pack,Beverages,8642.78,8863.91,Fast Moving,3,2021,8642.78,5910.95,0,1,0,1,0,1,1,0,30156
+DIST025,Financial Services,Michelin P215/65R16 Tires,Automotive,2411.97,2763.1,Slow Moving,2,2024,2411.97,1834.02,0,0,1,1,1,0,0,0,18138
+DIST018,Manufacturing,Nerolac Excel Anti-Peel Exterior,Paint and ancillaries,2867.17,3593.19,Fast Moving,1,2024,2867.17,3865.23,0,0,1,1,0,0,0,0,13097
+DIST050,Wholesale,Olay Total Effects Day Cream,Beauty,3100.16,2151.41,Medium,4,2025,3100.16,2583.21,1,0,0,0,0,1,0,1,37259
+DIST047,Manufacturing,Calvin Klein Boxer Brief Set,Apparel,1729.03,1485.3,Medium,2,2023,1729.03,1572.42,0,0,1,0,1,0,0,0,35333
+DIST029,Manufacturing,Puma Running Shorts,Apparel,18066.66,9210.96,Slow Moving,4,2023,18066.66,16128.0,1,0,0,0,0,1,0,1,21025
+DIST050,Wholesale,Lakme Absolute Lipstick,Beauty,5654.32,5131.26,Fast Moving,4,2023,5654.32,5414.8,1,0,0,0,0,1,0,1,37273
+DIST009,Manufacturing,Fossil Chronograph Watch,Apparel,1483.45,1148.1,Slow Moving,3,2021,1483.45,1310.6,0,1,0,1,0,1,1,0,6569
+DIST019,E-commerce,Me-O Cat Food Seafood 7kg,Pet Supplies,17308.46,21784.25,Medium,4,2020,17308.46,14006.19,1,0,0,1,0,1,0,1,13448
+DIST019,E-commerce,AccuCheck Sugar Test Strips,Health,8220.02,6422.28,Slow Moving,4,2022,8220.02,5415.11,1,0,0,0,0,1,0,1,13634
+DIST020,Retail,Shell Helix Ultra 4L,Automotive,1947.19,4141.9,Slow Moving,1,2024,1947.19,3793.71,0,0,1,1,0,0,0,0,14309
+DIST050,Wholesale,Olay Total Effects Day Cream,Beauty,1126.51,2151.41,Fast Moving,1,2020,1126.51,1013.86,0,0,1,0,0,0,0,0,37236
+DIST005,Financial Services,Nestle Maggi Noodles,Food,3361.02,3119.14,Medium,1,2024,3361.02,5214.06,0,0,1,1,0,0,0,0,3467
+DIST025,Financial Services,Uniqlo AIRism Undershirt,Apparel,2301.62,4630.7,Medium,1,2022,2301.62,5070.85,0,0,1,1,0,0,0,0,18199
+DIST013,Manufacturing,Gulf Pride 4T Plus 10W-30,Automotive,1406.56,2446.05,Medium,2,2022,1406.56,1267.71,0,0,1,0,1,0,0,0,9691
+DIST029,Manufacturing,IRIS Pet Food Container,Pet Supplies,4088.35,2981.05,Medium,3,2022,4088.35,3139.79,0,1,0,1,0,1,1,0,21449
+DIST028,Financial Services,Samsung Galaxy S24 Ultra,Electronics,6142.93,8209.01,Medium,2,2020,6142.93,5036.43,0,0,1,1,1,0,0,0,19887
+DIST002,Hospitality,3M Car Care Kit,Automotive,27771.08,33045.78,Slow Moving,2,2020,27771.08,25458.55,0,0,1,1,1,0,0,0,1404
+DIST033,E-commerce,Saffola Active Oil 5L,Food,1896.52,1329.98,Fast Moving,4,2021,1896.52,1922.34,1,0,0,0,0,1,0,1,24631
+DIST049,Financial Services,Tata Salt 1kg,Food,4566.38,2968.99,Medium,4,2022,4566.38,2557.63,1,0,0,0,0,1,0,1,36493
+DIST004,Healthcare,Chess Set Wooden,Toys,9961.24,12565.45,Slow Moving,4,2021,9961.24,7061.02,1,0,0,0,0,1,0,1,2596
+DIST016,E-commerce,Parle-G Biscuits Value Pack,Food,2902.12,5909.6,Slow Moving,1,2025,2902.12,2990.28,0,0,1,1,0,0,0,0,11785
+DIST028,Financial Services,Pigeon Favorite Electric Kettle,Home Goods,7797.76,6581.96,Fast Moving,4,2024,7797.76,5155.62,1,0,0,0,0,1,0,1,20380
+DIST019,E-commerce,Mattel Barbie Dreamhouse,Toys,11940.06,12981.66,Slow Moving,1,2021,11940.06,20595.69,0,0,1,0,0,0,0,0,14041
+DIST040,Retail,Asian Paints Ultima Protek Exterior,Paint and ancillaries,1722.92,1521.83,Slow Moving,4,2021,1722.92,1797.27,1,0,0,0,0,1,0,1,29403
+DIST037,Education,Lego Classic Creative Box,Toys,14429.99,16891.13,Fast Moving,3,2022,14429.99,11375.57,0,1,0,1,0,1,1,0,27563
+DIST038,Education,L'Oreal Paris Shampoo,Beauty,416.07,680.41,Slow Moving,2,2022,416.07,268.91,0,0,1,0,1,0,0,0,28331
+DIST044,Healthcare,Michelin P215/65R16 Tires,Automotive,3795.81,2763.1,Medium,2,2024,3795.81,3102.4,0,0,1,1,1,0,0,0,32838
+DIST017,Retail,Tetra Fish Food 1L,Pet Supplies,7688.0,6832.26,Medium,3,2025,7688.0,7652.5,0,1,0,0,0,1,1,0,12785
+DIST045,E-commerce,Prestige Popular Pressure Cooker,Home Goods,3614.76,2876.37,Fast Moving,3,2023,3614.76,2662.07,0,1,0,1,0,1,1,0,33612
+DIST022,E-commerce,PetSafe Gentle Leader Collar,Pet Supplies,1032.53,1265.77,Medium,2,2022,1032.53,826.75,0,0,1,0,1,0,0,0,15684
+DIST032,Manufacturing,MTR Breakfast Mix,Food,640.99,640.46,Slow Moving,3,2023,640.99,389.46,0,1,0,1,0,1,1,0,23762
+DIST027,Wholesale,Ponds Face Powder,Beauty,1873.51,2244.92,Medium,4,2021,1873.51,1627.77,1,0,0,0,0,1,0,1,19688
+DIST020,Retail,Adidas Ultraboost Sneakers,Apparel,745.59,842.34,Medium,3,2025,745.59,940.74,0,1,0,0,0,1,1,0,14589
+DIST014,Manufacturing,MAC Ruby Woo Lipstick,Beauty,3246.08,5146.8,Slow Moving,3,2025,3246.08,2330.81,0,1,0,0,0,1,1,0,10348
+DIST010,E-commerce,Patanjali Honey 500g,Food,20171.98,11020.67,Fast Moving,3,2022,20171.98,12736.3,0,1,0,1,0,1,1,0,7714
+DIST026,Manufacturing,PlayStation 5 Digital Edition,Toys,9986.73,13593.1,Medium,1,2023,9986.73,22246.33,0,0,1,1,0,0,0,0,18688
+DIST010,E-commerce,Farmina N&D Dog Food 12kg,Pet Supplies,1740.3,2546.34,Fast Moving,1,2025,1740.3,3223.41,0,0,1,1,0,0,0,0,6926
+DIST043,Education,Whiskas Cat Food Tuna 7kg,Pet Supplies,1445.87,1685.14,Fast Moving,3,2025,1445.87,1256.27,0,1,0,0,0,1,1,0,32344
+DIST045,E-commerce,JK Easy Copier Paper,Office Supplies,727.74,846.22,Fast Moving,2,2021,727.74,1188.79,0,0,1,1,1,0,0,0,33441
+DIST019,E-commerce,Asian Paints Ultra Adhesive,Paint and ancillaries,2616.53,3065.84,Medium,1,2022,2616.53,3263.63,0,0,1,1,0,0,0,0,13498
+DIST016,E-commerce,Asian Paints Premium Emulsion,Paint and ancillaries,12281.48,11871.07,Medium,2,2023,12281.48,6036.79,0,0,1,0,1,0,0,0,11686
+DIST003,Education,Patanjali Ashwagandha,Health,4116.53,3786.83,Fast Moving,2,2025,4116.53,4088.91,0,0,1,1,1,0,0,0,1806
+DIST031,Education,Hasbro Gaming Jenga,Toys,993.05,845.34,Slow Moving,3,2021,993.05,627.52,0,1,0,1,0,1,1,0,22131
+DIST044,Healthcare,Asian Paints Tractor Emulsion,Paint and ancillaries,33808.14,22882.43,Medium,4,2023,33808.14,32369.1,1,0,0,0,0,1,0,1,32746
+DIST036,Healthcare,Honda Engine Oil 10W-30,Automotive,7066.15,4770.42,Slow Moving,4,2021,7066.15,6586.52,1,0,0,0,0,1,0,1,26826
+DIST019,E-commerce,Shell Helix Ultra 4L,Automotive,3150.07,4141.9,Medium,2,2021,3150.07,2334.86,0,0,1,1,1,0,0,0,14089
+DIST014,Manufacturing,Cello Finesse Dinner Set,Home Goods,2311.22,2944.2,Fast Moving,3,2021,2311.22,2313.52,0,1,0,1,0,1,1,0,10035
+DIST011,Healthcare,Bosch Wiper Blades,Automotive,8047.22,6474.21,Medium,3,2022,8047.22,6183.01,0,1,0,1,0,1,1,0,8375
+DIST024,Hospitality,Tommy Hilfiger Classic Shirt,Apparel,7150.3,4766.13,Medium,3,2021,7150.3,6088.76,0,1,0,1,0,1,1,0,17107
+DIST033,E-commerce,Biotique Morning Nectar Lotion,Beauty,2860.52,2458.76,Slow Moving,3,2024,2860.52,2398.14,0,1,0,0,0,1,1,0,24730
+DIST007,E-commerce,Michelin P215/65R16 Tires,Automotive,4042.22,2763.1,Fast Moving,4,2023,4042.22,3101.42,1,0,0,0,0,1,0,1,5180
+DIST012,Retail,Berger WeatherCoat All Guard,Paint and ancillaries,21478.62,13104.57,Medium,2,2021,21478.62,9994.01,0,0,1,1,1,0,0,0,8968
+DIST001,Manufacturing,Fisher-Price Learning Toys,Toys,5531.4,4397.48,Slow Moving,4,2023,5531.4,3936.68,1,0,0,0,0,1,0,1,610
+DIST029,Manufacturing,Neelgagan Stamp Pad,Office Supplies,215.47,365.18,Medium,3,2021,215.47,197.25,0,1,0,1,0,1,1,0,21151
+DIST024,Hospitality,Supradyn Multivitamin Tablets,Health,2428.77,3263.81,Fast Moving,3,2022,2428.77,1845.2,0,1,0,1,0,1,1,0,17042
+DIST022,E-commerce,"Samsung 43"" Crystal 4K TV",Electronics,1308.05,2013.53,Medium,1,2024,1308.05,3870.76,0,0,1,1,0,0,0,0,15802
+DIST004,Healthcare,Levi's 501 Original Jeans,Apparel,5480.68,7288.33,Medium,2,2020,5480.68,4022.67,0,0,1,1,1,0,0,0,2297
+DIST040,Retail,Fevicol SH Wood Adhesive 1kg,Paint and ancillaries,6255.44,6171.51,Fast Moving,4,2021,6255.44,6965.74,1,0,0,0,0,1,0,1,30180
+DIST036,Healthcare,Yamaha Bike Oil 10W-40,Automotive,9223.52,5202.68,Slow Moving,3,2023,9223.52,7471.16,0,1,0,1,0,1,1,0,27201
+DIST018,Manufacturing,Bombay Dyeing Bedsheet Set,Home Goods,9058.86,6567.88,Medium,4,2023,9058.86,7881.04,1,0,0,0,0,1,0,1,13211
+DIST041,E-commerce,Reebok Dumbbells Set,Sports,712.99,1200.72,Fast Moving,2,2020,712.99,560.35,0,0,1,1,1,0,0,0,31092
+DIST007,E-commerce,Vaseline Body Lotion,Beauty,4164.93,3547.06,Fast Moving,3,2020,4164.93,3616.77,0,1,0,0,0,1,1,0,4986
+DIST044,Healthcare,Nivea Men Face Wash,Beauty,1585.38,1370.86,Medium,2,2025,1585.38,1420.18,0,0,1,1,1,0,0,0,33042
+DIST035,Education,Haldiram's Bhujia,Food,13413.69,22105.21,Medium,1,2020,13413.69,12072.32,0,0,1,0,0,0,0,0,25750
+DIST050,Wholesale,AccuCheck Sugar Test Strips,Health,7300.2,6422.28,Medium,4,2021,7300.2,7134.96,1,0,0,0,0,1,0,1,37034
+DIST045,E-commerce,Classmate Notebook Set,Office Supplies,6251.74,5049.67,Slow Moving,2,2025,6251.74,5427.04,0,0,1,1,1,0,0,0,33893
+DIST004,Healthcare,North Face Puffer Jacket,Apparel,6271.1,8039.47,Fast Moving,3,2021,6271.1,5321.87,0,1,0,1,0,1,1,0,2662
+DIST029,Manufacturing,Sony WH-1000XM5 Headphones,Electronics,8640.84,9515.13,Fast Moving,4,2021,8640.84,5283.13,1,0,0,0,0,1,0,1,20927
+DIST007,E-commerce,Rubik's Cube Original,Toys,4491.64,2167.18,Medium,4,2023,4491.64,2855.97,1,0,0,0,0,1,0,1,4696
+DIST004,Healthcare,Asian Paints Royale Luxury Emulsion,Paint and ancillaries,10927.94,7547.97,Medium,2,2022,10927.94,5684.1,0,0,1,0,1,0,0,0,2801
+DIST017,Retail,Cello Finesse Dinner Set,Home Goods,2413.7,2944.2,Fast Moving,1,2022,2413.7,5078.38,0,0,1,1,0,0,0,0,12818
+DIST042,Retail,Scotch Magic Tape,Office Supplies,4974.71,4473.52,Slow Moving,4,2025,4974.71,3835.14,1,0,0,0,0,1,0,1,31822
+DIST014,Manufacturing,Whiskas Cat Food Tuna 7kg,Pet Supplies,2690.38,1685.14,Fast Moving,3,2024,2690.38,2447.51,0,1,0,0,0,1,1,0,10253
+DIST045,E-commerce,Mountain Dew 750ml,Beverages,3245.38,3155.51,Slow Moving,4,2025,3245.38,3112.2,1,0,0,0,0,1,0,1,33667
+DIST019,E-commerce,OnePlus 12 5G,Electronics,3775.86,2251.76,Medium,4,2020,3775.86,2402.24,1,0,0,1,0,1,0,1,13471
+DIST045,E-commerce,Patanjali Ashwagandha,Health,3545.38,3786.83,Slow Moving,2,2025,3545.38,2844.15,0,0,1,1,1,0,0,0,33251
+DIST036,Healthcare,SG Cricket Ball Set,Sports,6251.95,8729.29,Slow Moving,2,2024,6251.95,5451.95,0,0,1,1,1,0,0,0,27064
+DIST014,Manufacturing,Asian Paints Dynamo Adhesive,Paint and ancillaries,10688.82,5602.99,Slow Moving,2,2021,10688.82,4922.42,0,0,1,1,1,0,0,0,10310
+DIST042,Retail,Callaway Golf Club Set,Sports,2110.57,3719.5,Fast Moving,1,2023,2110.57,3478.82,0,0,1,1,0,0,0,0,32088
+DIST033,E-commerce,Thums Up 1.25L,Beverages,7350.42,17644.64,Slow Moving,1,2022,7350.42,10430.81,0,0,1,1,0,0,0,0,24053
+DIST036,Healthcare,Funskool Monopoly,Toys,6247.32,3982.36,Slow Moving,4,2025,6247.32,3646.34,1,0,0,0,0,1,0,1,26549
+DIST038,Education,Columbia Hiking Backpack,Sports,9646.28,7917.89,Slow Moving,3,2021,9646.28,6868.81,0,1,0,1,0,1,1,0,28220
+DIST032,Manufacturing,Classmate Notebook Set,Office Supplies,4369.67,5049.67,Slow Moving,1,2024,4369.67,8488.67,0,0,1,1,0,0,0,0,23038
+DIST026,Manufacturing,Everest Chicken Masala,Food,942.2,1251.2,Slow Moving,2,2020,942.2,623.17,0,0,1,1,1,0,0,0,18793
+DIST046,Manufacturing,Bosch Spark Plug Set,Automotive,5667.71,5780.38,Fast Moving,1,2024,5667.71,11829.19,0,0,1,1,0,0,0,0,34758
+DIST038,Education,DJI Mavic 3 Drone,Electronics,9892.13,22239.75,Slow Moving,1,2025,9892.13,24547.43,0,0,1,1,0,0,0,0,28527
+DIST043,Education,Carrom Board Full Size,Toys,2891.49,5188.35,Fast Moving,1,2023,2891.49,4544.68,0,0,1,1,0,0,0,0,32674
+DIST017,Retail,Calvin Klein Boxer Brief Set,Apparel,846.71,1485.3,Medium,3,2024,846.71,702.31,0,1,0,0,0,1,1,0,11940
+DIST006,Financial Services,UNO Card Game,Toys,4889.78,6096.26,Fast Moving,1,2025,4889.78,11213.41,0,0,1,1,0,0,0,0,4450
+DIST016,E-commerce,Baidyanath Chyawanprash,Health,3752.32,6209.52,Medium,3,2022,3752.32,3269.19,0,1,0,1,0,1,1,0,11431
+DIST007,E-commerce,Patanjali Ashwagandha,Health,2280.16,3786.83,Slow Moving,2,2024,2280.16,1687.74,0,0,1,1,1,0,0,0,4835
+DIST006,Financial Services,Kissan Mixed Fruit Jam,Food,15497.88,8738.38,Fast Moving,2,2024,15497.88,13747.67,0,0,1,1,1,0,0,0,4088
+DIST050,Wholesale,VLCC Sunscreen Gel,Beauty,6863.53,9014.05,Medium,1,2021,6863.53,13743.92,0,0,1,0,0,0,0,0,37727
+DIST045,E-commerce,Wilson Tennis Racket,Sports,1257.73,1333.02,Fast Moving,4,2023,1257.73,1121.97,1,0,0,0,0,1,0,1,33751
+DIST038,Education,DJI Mavic 3 Drone,Electronics,6956.96,22239.75,Medium,1,2021,6956.96,22716.2,0,0,1,0,0,0,0,0,28512
+DIST033,E-commerce,Voltas 2 Ton Window AC,Electronics,2266.89,4366.23,Medium,1,2025,2266.89,3927.56,0,0,1,1,0,0,0,0,24152
+DIST036,Healthcare,Omron Blood Pressure Monitor,Health,910.3,1819.22,Slow Moving,1,2024,910.3,1595.4,0,0,1,1,0,0,0,0,26566
+DIST017,Retail,Basil Rubber Chew Toy,Pet Supplies,6481.41,10800.74,Medium,1,2021,6481.41,13026.37,0,0,1,0,0,0,0,0,12109
+DIST043,Education,Britannia Good Day Cookies,Food,3676.82,4600.58,Slow Moving,2,2022,3676.82,4279.38,0,0,1,0,1,0,0,0,32577
+DIST046,Manufacturing,Bosch Wiper Blades,Automotive,3536.98,6474.21,Fast Moving,1,2021,3536.98,6292.69,0,0,1,0,0,0,0,0,34610
+DIST041,E-commerce,Farmina N&D Dog Food 12kg,Pet Supplies,2032.25,2546.34,Slow Moving,2,2022,2032.25,1898.25,0,0,1,0,1,0,0,0,30595
+DIST024,Hospitality,Play-Doh Modeling Compound,Toys,1509.65,3242.42,Slow Moving,1,2025,1509.65,2740.89,0,0,1,1,0,0,0,0,17166
+DIST013,Manufacturing,Asian Paints Ultra Adhesive,Paint and ancillaries,4921.34,3065.84,Fast Moving,2,2024,4921.34,2319.35,0,0,1,1,1,0,0,0,9746
+DIST037,Education,Philips Headlight Bulbs,Automotive,1048.29,856.36,Medium,4,2024,1048.29,726.82,1,0,0,0,0,1,0,1,27957
+DIST016,E-commerce,Vicks VapoRub,Health,3403.07,2366.74,Slow Moving,4,2021,3403.07,2389.55,1,0,0,0,0,1,0,1,11657
+DIST016,E-commerce,Michelin P215/65R16 Tires,Automotive,4307.76,2763.1,Fast Moving,3,2022,4307.76,3311.83,0,1,0,1,0,1,1,0,11912
+DIST020,Retail,DJI Mavic 3 Drone,Electronics,50699.66,22239.75,Slow Moving,4,2023,50699.66,23794.34,1,0,0,0,0,1,0,1,14674
+DIST017,Retail,Puma Running Shorts,Apparel,7223.71,9210.96,Medium,1,2024,7223.71,12704.01,0,0,1,1,0,0,0,0,12482
+DIST022,E-commerce,Parker Vector Fountain Pen,Office Supplies,5674.69,13816.22,Slow Moving,1,2024,5674.69,9834.59,0,0,1,1,0,0,0,0,16025
+DIST018,Manufacturing,Maybelline Fit Me Foundation,Beauty,882.06,1223.47,Slow Moving,2,2025,882.06,726.07,0,0,1,1,1,0,0,0,13240
+DIST042,Retail,Dove Moisturizing Cream,Beauty,1867.48,3468.33,Fast Moving,3,2020,1867.48,1481.83,0,1,0,0,0,1,1,0,31778
+DIST023,Manufacturing,Savic Dog Carrier,Pet Supplies,2623.96,3801.62,Slow Moving,1,2025,2623.96,5241.27,0,0,1,1,0,0,0,0,16235
+DIST017,Retail,Slazenger Tennis Balls,Sports,1765.28,3804.0,Fast Moving,1,2021,1765.28,3388.25,0,0,1,0,0,0,0,0,12201
+DIST005,Financial Services,Puma Running Shorts,Apparel,8291.95,9210.96,Slow Moving,2,2020,8291.95,4923.78,0,0,1,1,1,0,0,0,3382
+DIST046,Manufacturing,Cadbury Dairy Milk Chocolate,Food,14297.69,12480.74,Medium,3,2021,14297.69,11713.32,0,1,0,1,0,1,1,0,34402
+DIST021,Healthcare,7UP 600ml Bottle,Beverages,539.74,1285.49,Fast Moving,1,2022,539.74,863.48,0,0,1,1,0,0,0,0,15234
+DIST041,E-commerce,Horlicks Classic 1kg,Beverages,4768.4,2457.11,Medium,3,2025,4768.4,3263.94,0,1,0,0,0,1,1,0,30421
+DIST024,Hospitality,Levi's 501 Original Jeans,Apparel,7602.68,7288.33,Medium,3,2023,7602.68,4884.61,0,1,0,1,0,1,1,0,17364
+DIST024,Hospitality,Levi's 501 Original Jeans,Apparel,11666.71,7288.33,Fast Moving,4,2024,11666.71,7425.62,1,0,0,0,0,1,0,1,17369
+DIST039,Financial Services,Omron Blood Pressure Monitor,Health,2599.76,1819.22,Slow Moving,4,2020,2599.76,1874.79,1,0,0,1,0,1,0,1,29263
+DIST039,Financial Services,MRF Cricket Bat,Sports,76964.78,62431.54,Slow Moving,4,2024,76964.78,51876.22,1,0,0,0,0,1,0,1,29163
+DIST046,Manufacturing,Callaway Golf Club Set,Sports,3963.09,3719.5,Slow Moving,4,2025,3963.09,3565.62,1,0,0,0,0,1,0,1,34834
+DIST032,Manufacturing,Supradyn Multivitamin Tablets,Health,3147.57,3263.81,Slow Moving,1,2020,3147.57,2832.81,0,0,1,0,0,0,0,0,23130
+DIST006,Financial Services,Nestle Maggi Noodles,Food,4063.46,3119.14,Medium,4,2020,4063.46,3949.26,1,0,0,1,0,1,0,1,4168
+DIST023,Manufacturing,Parker Vector Fountain Pen,Office Supplies,15516.52,13816.22,Fast Moving,3,2022,15516.52,13895.5,0,1,0,1,0,1,1,0,16406
+DIST045,E-commerce,Hasbro Gaming Jenga,Toys,1102.81,845.34,Medium,4,2023,1102.81,868.84,1,0,0,0,0,1,0,1,33931
+DIST044,Healthcare,Asian Paints Royale Luxury Emulsion,Paint and ancillaries,11067.19,7547.97,Fast Moving,3,2024,11067.19,18062.79,0,1,0,0,0,1,1,0,33177
+DIST015,Retail,Under Armour Performance Polo,Apparel,6063.93,7390.86,Medium,3,2021,6063.93,5121.41,0,1,0,1,0,1,1,0,10653
+DIST007,E-commerce,Amul Butter 500g,Food,2902.54,1674.57,Medium,3,2023,2902.54,1626.3,0,1,0,1,0,1,1,0,5157
+DIST046,Manufacturing,Bosch Spark Plug Set,Automotive,9852.9,5780.38,Fast Moving,4,2024,9852.9,9301.6,1,0,0,0,0,1,0,1,34761
+DIST009,Manufacturing,Britannia Good Day Cookies,Food,6547.58,4600.58,Slow Moving,3,2025,6547.58,4431.9,0,1,0,0,0,1,1,0,6170
+DIST027,Wholesale,Fevicol Adhesive 200g,Office Supplies,9605.0,5737.77,Slow Moving,4,2020,9605.0,8484.08,1,0,0,1,0,1,0,1,19362
+DIST026,Manufacturing,Mattel Barbie Dreamhouse,Toys,9460.64,12981.66,Medium,2,2022,9460.64,10051.04,0,0,1,0,1,0,0,0,19054
+DIST001,Manufacturing,Britannia Good Day Cookies,Food,6065.22,4600.58,Slow Moving,2,2024,6065.22,4809.8,0,0,1,1,1,0,0,0,337
+DIST020,Retail,Whiskas Cat Food Tuna 7kg,Pet Supplies,1259.15,1685.14,Slow Moving,3,2020,1259.15,928.54,0,1,0,0,0,1,1,0,14593
+DIST031,Education,Nike Football,Sports,2195.45,1785.87,Medium,2,2021,2195.45,1257.04,0,0,1,1,1,0,0,0,22451
+DIST009,Manufacturing,Castrol Engine Oil 3L,Automotive,6017.87,5056.99,Medium,1,2023,6017.87,8395.44,0,0,1,1,0,0,0,0,6757
+DIST010,E-commerce,Speedo Swimming Goggles,Sports,2377.97,2407.12,Slow Moving,2,2023,2377.97,2369.67,0,0,1,0,1,0,0,0,7008
+DIST038,Education,Fortune Sunflower Oil 5L,Food,6601.09,3981.79,Fast Moving,3,2023,6601.09,3166.88,0,1,0,1,0,1,1,0,27975
+DIST030,Financial Services,Neelgagan Stamp Pad,Office Supplies,326.71,365.18,Slow Moving,3,2024,326.71,189.83,0,1,0,0,0,1,1,0,21572
+DIST033,E-commerce,Camlin Permanent Marker Set,Office Supplies,13547.97,17387.3,Medium,1,2021,13547.97,31253.26,0,0,1,0,0,0,0,0,23867
+DIST049,Financial Services,Bournvita 1kg,Food,41299.66,29034.11,Slow Moving,1,2022,41299.66,41215.49,0,0,1,1,0,0,0,0,36535
+DIST027,Wholesale,Vaseline Body Lotion,Beauty,2759.93,3547.06,Fast Moving,2,2020,2759.93,2189.34,0,0,1,1,1,0,0,0,19589
+DIST029,Manufacturing,Dr. Fixit Raincoat Waterproofing,Paint and ancillaries,1392.74,1123.28,Fast Moving,4,2022,1392.74,2066.38,1,0,0,0,0,1,0,1,21177
+DIST042,Retail,Saffola Active Oil 5L,Food,1104.6,1329.98,Fast Moving,2,2024,1104.6,1031.34,0,0,1,1,1,0,0,0,31494
+DIST002,Hospitality,Head & Shoulders Shampoo,Beauty,2029.44,2075.29,Medium,3,2024,2029.44,1647.36,0,1,0,0,0,1,1,0,1305
+DIST024,Hospitality,Lego Classic Creative Box,Toys,17653.43,16891.13,Medium,3,2024,17653.43,16440.92,0,1,0,0,0,1,1,0,17687
+DIST046,Manufacturing,AutoStark Car Cover,Automotive,2612.93,2929.06,Slow Moving,2,2022,2612.93,4424.37,0,0,1,0,1,0,0,0,34937
+DIST020,Retail,Exide Battery 65Ah,Automotive,45114.82,36472.36,Medium,2,2023,45114.82,37502.25,0,0,1,0,1,0,0,0,14142
+DIST009,Manufacturing,PetSafe Drinkwell Water Fountain,Pet Supplies,1899.91,2523.22,Fast Moving,3,2023,1899.91,1661.05,0,1,0,1,0,1,1,0,6275
+DIST036,Healthcare,Ensure Protein Powder,Health,13652.69,6692.47,Fast Moving,4,2022,13652.69,10940.39,1,0,0,0,0,1,0,1,26400
+DIST035,Education,Xbox Series X,Toys,11173.8,9659.16,Fast Moving,3,2020,11173.8,10339.43,0,1,0,0,0,1,1,0,26165
+DIST044,Healthcare,Funskool Monopoly,Toys,4715.89,3982.36,Slow Moving,3,2020,4715.89,3393.06,0,1,0,0,0,1,1,0,32779
+DIST012,Retail,Zara Slim Fit Blazer,Apparel,9374.46,8387.38,Fast Moving,3,2025,9374.46,6685.24,0,1,0,0,0,1,1,0,8893
+DIST021,Healthcare,Pepsi 330ml Can Pack,Beverages,15391.96,21367.23,Slow Moving,1,2020,15391.96,13852.76,0,0,1,0,0,0,0,0,14957
+DIST007,E-commerce,Red Bull Energy Drink,Beverages,6006.39,7460.29,Slow Moving,2,2020,6006.39,4781.94,0,0,1,1,1,0,0,0,5097
+DIST024,Hospitality,Sprite 2.25L Bottle,Beverages,4399.84,7729.18,Medium,1,2021,4399.84,9105.3,0,0,1,0,0,0,0,0,16947
+DIST015,Retail,Reynolds Trimax Pen Pack,Office Supplies,640.88,1408.82,Medium,1,2023,640.88,1297.92,0,0,1,1,0,0,0,0,10705
+DIST050,Wholesale,Bournvita 1kg,Food,19803.65,29034.11,Slow Moving,2,2022,19803.65,20492.53,0,0,1,0,1,0,0,0,37636
+DIST046,Manufacturing,Real Mixed Fruit Juice,Beverages,2871.29,3092.51,Fast Moving,2,2022,2871.29,2859.99,0,0,1,0,1,0,0,0,34569
+DIST017,Retail,Speedo Swimming Goggles,Sports,2797.01,2407.12,Slow Moving,4,2020,2797.01,1584.52,1,0,0,1,0,1,0,1,12313
+DIST016,E-commerce,Asian Paints Tractor Emulsion,Paint and ancillaries,13102.18,22882.43,Slow Moving,3,2020,13102.18,19144.71,0,1,0,0,0,1,1,0,11378
+DIST001,Manufacturing,Berger Silk Luxury Emulsion,Paint and ancillaries,8499.68,6173.7,Medium,3,2023,8499.68,9577.16,0,1,0,1,0,1,1,0,746
+DIST031,Education,Xbox Series X,Toys,6982.21,9659.16,Medium,1,2022,6982.21,12932.21,0,0,1,1,0,0,0,0,22543
+DIST038,Education,Morphy Richards Toaster,Home Goods,10508.5,7381.4,Fast Moving,4,2025,10508.5,6965.86,1,0,0,0,0,1,0,1,28436
+DIST011,Healthcare,Bajaj Mixer Grinder,Home Goods,10250.54,7816.7,Medium,4,2022,10250.54,8793.35,1,0,0,0,0,1,0,1,7922
+DIST036,Healthcare,Cadbury Dairy Milk Chocolate,Food,13986.16,12480.74,Slow Moving,2,2025,13986.16,12855.27,0,0,1,1,1,0,0,0,26930
+DIST013,Manufacturing,Vans Old Skool Sneakers,Apparel,4673.68,13401.03,Slow Moving,2,2022,4673.68,4577.86,0,0,1,0,1,0,0,0,9379
+DIST043,Education,Fluval Aquarium Filter,Pet Supplies,7845.33,3819.25,Fast Moving,4,2025,7845.33,5698.72,1,0,0,0,0,1,0,1,32708
+DIST034,E-commerce,Saffola Active Oil 5L,Food,1851.34,1329.98,Slow Moving,4,2022,1851.34,2630.9,1,0,0,0,0,1,0,1,25146
+DIST025,Financial Services,Classmate Notebook Set,Office Supplies,5459.77,5049.67,Slow Moving,2,2024,5459.77,4502.95,0,0,1,1,1,0,0,0,17798
+DIST031,Education,Cosco Volleyball,Sports,1201.8,838.75,Medium,3,2025,1201.8,1077.58,0,1,0,0,0,1,1,0,22351
+DIST046,Manufacturing,Nerolac Beauty Gold Washable,Paint and ancillaries,1621.18,2630.98,Slow Moving,1,2020,1621.18,1459.06,0,0,1,0,0,0,0,0,33939
+DIST039,Financial Services,Mattel Barbie Dreamhouse,Toys,12535.71,12981.66,Slow Moving,1,2022,12535.71,23596.68,0,0,1,1,0,0,0,0,29018
+DIST017,Retail,JK Tyre 185/65 R15,Automotive,3855.52,3179.2,Slow Moving,2,2022,3855.52,2593.88,0,0,1,0,1,0,0,0,12275
+DIST010,E-commerce,Philips Headlight Bulbs,Automotive,1018.08,856.36,Medium,4,2020,1018.08,833.61,1,0,0,1,0,1,0,1,7275
+DIST016,E-commerce,Fluval Aquarium Filter,Pet Supplies,2965.56,3819.25,Slow Moving,1,2022,2965.56,4030.55,0,0,1,1,0,0,0,0,11225
+DIST018,Manufacturing,MTR Breakfast Mix,Food,240.99,640.46,Fast Moving,1,2022,240.99,363.73,0,0,1,1,0,0,0,0,13407
+DIST034,E-commerce,Haldiram's Bhujia,Food,8986.59,22105.21,Fast Moving,2,2023,8986.59,8660.97,0,0,1,0,1,0,0,0,25306
+DIST005,Financial Services,Pepsi 330ml Can Pack,Beverages,11208.75,21367.23,Fast Moving,1,2025,11208.75,18323.52,0,0,1,1,0,0,0,0,3743
+DIST013,Manufacturing,Nerf Elite Blaster,Toys,1478.75,1725.61,Slow Moving,2,2023,1478.75,1371.51,0,0,1,0,1,0,0,0,9089
+DIST038,Education,Ray-Ban Wayfarer Sunglasses,Apparel,1995.93,2462.16,Fast Moving,1,2020,1995.93,1796.34,0,0,1,0,0,0,0,0,28053
+DIST015,Retail,JBL Flip 6 Speaker,Electronics,2123.17,3363.02,Slow Moving,2,2020,2123.17,1744.3,0,0,1,1,1,0,0,0,10602
+DIST015,Retail,Nivia Basketball,Sports,11281.17,5532.88,Fast Moving,4,2022,11281.17,7078.16,1,0,0,0,0,1,0,1,10728
+DIST033,E-commerce,AccuCheck Sugar Test Strips,Health,2988.72,6422.28,Slow Moving,1,2021,2988.72,7634.43,0,0,1,0,0,0,0,0,23888
+DIST031,Education,Dulux Velvet Touch Diamond Glo,Paint and ancillaries,3584.09,2159.99,Fast Moving,2,2024,3584.09,3559.69,0,0,1,1,1,0,0,0,22482
+DIST030,Financial Services,Neelgagan Stamp Pad,Office Supplies,184.36,365.18,Slow Moving,1,2021,184.36,406.53,0,0,1,0,0,0,0,0,21559
+DIST031,Education,Nerolac Excel Anti-Peel Exterior,Paint and ancillaries,3902.15,3593.19,Slow Moving,4,2024,3902.15,3858.22,1,0,0,0,0,1,0,1,22077
+DIST005,Financial Services,VLCC Sunscreen Gel,Beauty,3605.02,9014.05,Medium,1,2021,3605.02,6820.67,0,0,1,0,0,0,0,0,3548
+DIST046,Manufacturing,Maybelline Fit Me Foundation,Beauty,2095.88,1223.47,Slow Moving,4,2023,2095.88,1922.84,1,0,0,0,0,1,0,1,34092
+DIST003,Education,Mobil Super Mileage 15W-40,Automotive,1976.14,2485.01,Fast Moving,4,2022,1976.14,1752.61,1,0,0,0,0,1,0,1,1820
+DIST002,Hospitality,3M Car Care Kit,Automotive,40653.67,33045.78,Fast Moving,3,2020,40653.67,27771.08,0,1,0,0,0,1,1,0,1405
+DIST047,Manufacturing,Asian Paints Royale Luxury Emulsion,Paint and ancillaries,3162.07,7547.97,Fast Moving,1,2021,3162.07,4455.23,0,0,1,0,0,0,0,0,35025
+DIST035,Education,Xbox Series X,Toys,13873.1,9659.16,Slow Moving,3,2024,13873.1,11680.95,0,1,0,0,0,1,1,0,26178
+DIST012,Retail,PlayStation 5 Digital Edition,Toys,14921.68,13593.1,Medium,2,2025,14921.68,12275.07,0,0,1,1,1,0,0,0,8687
+DIST033,E-commerce,Bosch Spark Plug Set,Automotive,10286.8,5780.38,Medium,3,2024,10286.8,8482.07,0,1,0,0,0,1,1,0,24709
+DIST009,Manufacturing,Amaron Battery 45Ah,Automotive,21136.12,15903.38,Slow Moving,2,2024,21136.12,16666.64,0,0,1,1,1,0,0,0,6646
+DIST024,Hospitality,Exide Battery 65Ah,Automotive,31952.55,36472.36,Fast Moving,3,2025,31952.55,28630.58,0,1,0,0,0,1,1,0,17550
+DIST045,E-commerce,Zandu Balm,Health,8539.98,10870.3,Fast Moving,2,2024,8539.98,6591.18,0,0,1,1,1,0,0,0,33685
+DIST014,Manufacturing,Vaseline Body Lotion,Beauty,3553.73,3547.06,Slow Moving,4,2020,3553.73,2532.8,1,0,0,1,0,1,0,1,10490
+DIST037,Education,Asian Paints Tractor Emulsion,Paint and ancillaries,27342.47,22882.43,Fast Moving,4,2023,27342.47,31096.16,1,0,0,0,0,1,0,1,27592
+DIST042,Retail,Milton Thermosteel Flask,Home Goods,21076.12,21658.67,Fast Moving,2,2024,21076.12,14629.32,0,0,1,1,1,0,0,0,31380
+DIST024,Hospitality,H&M Basic T-Shirt Pack,Apparel,2044.77,2242.81,Medium,1,2023,2044.77,3775.68,0,0,1,1,0,0,0,0,17471
+DIST002,Hospitality,Garmin Forerunner Watch,Sports,7106.03,4715.79,Medium,4,2023,7106.03,6233.23,1,0,0,0,0,1,0,1,1643
+DIST031,Education,Dr. Morepen Glucometer,Health,18599.45,14827.33,Fast Moving,2,2025,18599.45,15007.21,0,0,1,1,1,0,0,0,22509
+DIST030,Financial Services,Dove Moisturizing Cream,Beauty,2332.12,3468.33,Slow Moving,1,2023,2332.12,4726.5,0,0,1,1,0,0,0,0,21497
+DIST037,Education,Scotch Magic Tape,Office Supplies,3171.86,4473.52,Fast Moving,4,2023,3171.86,3362.47,1,0,0,0,0,1,0,1,27657
+DIST019,E-commerce,Garmin Forerunner Watch,Sports,2554.64,4715.79,Fast Moving,1,2021,2554.64,5361.25,0,0,1,0,0,0,0,0,13905
+DIST020,Retail,Funskool Monopoly,Toys,5272.2,3982.36,Slow Moving,4,2025,5272.2,3524.37,1,0,0,0,0,1,0,1,14798
+DIST030,Financial Services,Fevicol Marine Waterproof,Paint and ancillaries,2092.08,3298.47,Slow Moving,1,2021,2092.08,2463.17,0,0,1,0,0,0,0,0,21856
+DIST018,Manufacturing,Havells Table Fan,Home Goods,790.06,956.25,Fast Moving,4,2024,790.06,592.11,1,0,0,0,0,1,0,1,13351
+DIST048,Manufacturing,Neelgagan Stamp Pad,Office Supplies,440.24,365.18,Medium,4,2022,440.24,429.81,1,0,0,0,0,1,0,1,35688
+DIST048,Manufacturing,Me-O Cat Food Seafood 7kg,Pet Supplies,31058.26,21784.25,Slow Moving,2,2025,31058.26,22717.65,0,0,1,1,1,0,0,0,35566
+DIST011,Healthcare,AccuCheck Sugar Test Strips,Health,4239.03,6422.28,Medium,2,2025,4239.03,4009.67,0,0,1,1,1,0,0,0,7885
+DIST046,Manufacturing,Neelgagan Stamp Pad,Office Supplies,269.68,365.18,Medium,1,2021,269.68,415.09,0,0,1,0,0,0,0,0,34910
+DIST044,Healthcare,Mountain Dew 750ml,Beverages,2045.9,3155.51,Fast Moving,1,2023,2045.9,4383.13,0,0,1,1,0,0,0,0,32855
+DIST030,Financial Services,Tata Tea Premium 1kg,Beverages,1868.69,1121.9,Slow Moving,4,2020,1868.69,1763.61,1,0,0,1,0,1,0,1,21898
+DIST046,Manufacturing,Nestle Maggi Noodles,Food,4087.73,3119.14,Slow Moving,3,2025,4087.73,2788.07,0,1,0,0,0,1,1,0,34284
+DIST050,Wholesale,Mattel Barbie Dreamhouse,Toys,29503.06,12981.66,Medium,4,2024,29503.06,21142.73,1,0,0,0,0,1,0,1,37834
+DIST020,Retail,DJI Mavic 3 Drone,Electronics,31270.34,22239.75,Fast Moving,3,2022,31270.34,24217.62,0,1,0,1,0,1,1,0,14670
+DIST046,Manufacturing,Kissan Mixed Fruit Jam,Food,7451.74,8738.38,Medium,4,2024,7451.74,6515.34,1,0,0,0,0,1,0,1,34004
+DIST026,Manufacturing,Mobil Super Mileage 15W-40,Automotive,2782.28,2485.01,Slow Moving,1,2024,2782.28,4118.8,0,0,1,1,0,0,0,0,19127
+DIST042,Retail,Sprite 2.25L Bottle,Beverages,11871.39,7729.18,Medium,3,2025,11871.39,7981.44,0,1,0,0,0,1,1,0,31962
+DIST039,Financial Services,Voltas 2 Ton Window AC,Electronics,2565.11,4366.23,Fast Moving,2,2025,2565.11,2287.71,0,0,1,1,1,0,0,0,29052
+DIST007,E-commerce,iPhone 15 Pro 256GB,Electronics,11974.88,10013.21,Slow Moving,3,2022,11974.88,9272.48,0,1,0,1,0,1,1,0,4876
+DIST008,Manufacturing,Volini Spray,Health,3393.12,4947.15,Fast Moving,2,2020,3393.12,2235.71,0,0,1,1,1,0,0,0,5756
+DIST009,Manufacturing,Wilson Tennis Racket,Sports,1297.68,1333.02,Slow Moving,4,2023,1297.68,928.46,1,0,0,0,0,1,0,1,6508
+DIST041,E-commerce,Bosch Wiper Blades,Automotive,6202.45,6474.21,Slow Moving,3,2025,6202.45,6209.95,0,1,0,0,0,1,1,0,30951
+DIST029,Manufacturing,Red Bull Energy Drink,Beverages,3790.52,7460.29,Slow Moving,1,2025,3790.52,5994.69,0,0,1,1,0,0,0,0,21141
+DIST005,Financial Services,Savic Dog Carrier,Pet Supplies,2667.78,3801.62,Slow Moving,2,2023,2667.78,1670.68,0,0,1,0,1,0,0,0,3627
+DIST017,Retail,Kellogg's Corn Flakes,Food,13140.85,11517.95,Medium,1,2022,13140.85,19794.47,0,0,1,1,0,0,0,0,11999
+DIST023,Manufacturing,Berger WeatherCoat All Guard,Paint and ancillaries,6697.1,13104.57,Medium,4,2024,6697.1,8497.64,1,0,0,0,0,1,0,1,16165
+DIST031,Education,Zara Slim Fit Blazer,Apparel,5324.62,8387.38,Medium,1,2020,5324.62,4792.16,0,0,1,0,0,0,0,0,22559
+DIST002,Hospitality,Pepsi 330ml Can Pack,Beverages,15397.12,21367.23,Medium,2,2024,15397.12,14450.85,0,0,1,1,1,0,0,0,1163
+DIST050,Wholesale,Faber-Castell Highlighters,Office Supplies,5580.35,6957.07,Fast Moving,1,2021,5580.35,8872.81,0,0,1,0,0,0,0,0,37679
+DIST031,Education,Michelin P215/65R16 Tires,Automotive,1281.32,2763.1,Fast Moving,1,2024,1281.32,2292.98,0,0,1,1,0,0,0,0,22185
+DIST026,Manufacturing,Me-O Cat Food Seafood 7kg,Pet Supplies,22285.75,21784.25,Fast Moving,2,2022,22285.75,17295.34,0,0,1,0,1,0,0,0,19141
+DIST013,Manufacturing,Maybelline Fit Me Foundation,Beauty,2166.18,1223.47,Medium,3,2023,2166.18,1739.92,0,1,0,1,0,1,1,0,9653
+DIST006,Financial Services,Vans Old Skool Sneakers,Apparel,6933.23,13401.03,Medium,3,2021,6933.23,6595.63,0,1,0,1,0,1,1,0,4054
+DIST018,Manufacturing,Maybelline Fit Me Foundation,Beauty,1017.88,1223.47,Medium,1,2024,1017.88,1505.99,0,0,1,1,0,0,0,0,13236
+DIST013,Manufacturing,Lakme Absolute Lipstick,Beauty,5433.16,5131.26,Fast Moving,2,2020,5433.16,4259.31,0,0,1,1,1,0,0,0,9916
+DIST016,E-commerce,Milton Thermosteel Flask,Home Goods,21662.4,21658.67,Fast Moving,1,2021,21662.4,47881.29,0,0,1,0,0,0,0,0,11495
+DIST004,Healthcare,Milton Thermosteel Flask,Home Goods,31182.31,21658.67,Fast Moving,4,2023,31182.31,19151.67,1,0,0,0,0,1,0,1,2264
+DIST029,Manufacturing,Neelgagan Stamp Pad,Office Supplies,342.23,365.18,Slow Moving,4,2023,342.23,252.24,1,0,0,0,0,1,0,1,21158
+DIST026,Manufacturing,Asian Paints Apcolite Premium Enamel,Paint and ancillaries,2508.58,6108.35,Slow Moving,1,2020,2508.58,2257.72,0,0,1,0,0,0,0,0,18560
+DIST005,Financial Services,Philips Air Purifier 3000i,Electronics,2674.95,2898.74,Fast Moving,3,2024,2674.95,2535.4,0,1,0,0,0,1,1,0,3857
+DIST032,Manufacturing,Fevicol Marine Waterproof,Paint and ancillaries,2258.03,3298.47,Medium,3,2022,2258.03,2353.3,0,1,0,1,0,1,1,0,23254
+DIST021,Healthcare,PlayStation 5 Digital Edition,Toys,14925.6,13593.1,Medium,4,2021,14925.6,10694.51,1,0,0,0,0,1,0,1,14827
+DIST048,Manufacturing,Me-O Cat Food Seafood 7kg,Pet Supplies,22717.65,21784.25,Fast Moving,1,2025,22717.65,38710.33,0,0,1,1,0,0,0,0,35565
+DIST024,Hospitality,Kissan Mixed Fruit Jam,Food,8022.13,8738.38,Medium,3,2021,8022.13,4742.57,0,1,0,1,0,1,1,0,17084
+DIST039,Financial Services,Cosco Volleyball,Sports,1401.09,838.75,Slow Moving,4,2023,1401.09,1160.18,1,0,0,0,0,1,0,1,28935
+DIST028,Financial Services,IFB Microwave Oven,Home Goods,18575.2,11621.95,Medium,4,2023,18575.2,13667.72,1,0,0,0,0,1,0,1,19922
+DIST049,Financial Services,Tata Salt 1kg,Food,3105.0,2968.99,Medium,2,2023,3105.0,3120.39,0,0,1,0,1,0,0,0,36495
+DIST033,E-commerce,VLCC Sunscreen Gel,Beauty,6236.81,9014.05,Fast Moving,2,2023,6236.81,5820.88,0,0,1,0,1,0,0,0,24503
+DIST019,E-commerce,Gulf Pride 4T Plus 10W-30,Automotive,3612.99,2446.05,Medium,2,2025,3612.99,2663.07,0,0,1,1,1,0,0,0,13442
+DIST046,Manufacturing,Sony WH-1000XM5 Headphones,Electronics,6528.56,9515.13,Fast Moving,1,2025,6528.56,18485.8,0,0,1,1,0,0,0,0,34327
+DIST021,Healthcare,Fevicol Adhesive 200g,Office Supplies,2763.28,5737.77,Medium,1,2024,2763.28,4337.31,0,0,1,1,0,0,0,0,15509
+DIST017,Retail,Puma Running Shorts,Apparel,14478.19,9210.96,Fast Moving,4,2022,14478.19,7716.57,1,0,0,0,0,1,0,1,12477
+DIST024,Hospitality,Patanjali Honey 500g,Food,6666.0,11020.67,Fast Moving,2,2021,6666.0,4758.47,0,0,1,1,1,0,0,0,17399
+DIST026,Manufacturing,JK Tyre 185/65 R15,Automotive,3133.82,3179.2,Medium,2,2024,3133.82,3127.27,0,0,1,1,1,0,0,0,18901
+DIST050,Wholesale,Nike Football,Sports,1061.6,1785.87,Medium,1,2022,1061.6,1529.7,0,0,1,1,0,0,0,0,37868
+DIST003,Education,PetSafe Drinkwell Water Fountain,Pet Supplies,1698.76,2523.22,Slow Moving,3,2020,1698.76,1565.9,0,1,0,0,0,1,1,0,1927
+DIST021,Healthcare,Bombay Dyeing Bedsheet Set,Home Goods,6990.76,6567.88,Slow Moving,4,2021,6990.76,5389.38,1,0,0,0,0,1,0,1,14851
+DIST045,E-commerce,Lenovo ThinkPad X1,Electronics,11700.93,16091.06,Medium,3,2024,11700.93,8098.82,0,1,0,0,0,1,1,0,33362
+DIST038,Education,Slazenger Tennis Balls,Sports,4389.74,3804.0,Medium,4,2023,4389.74,3792.51,1,0,0,0,0,1,0,1,28021
+DIST032,Manufacturing,North Face Puffer Jacket,Apparel,6119.12,8039.47,Fast Moving,2,2020,6119.12,3911.33,0,0,1,1,1,0,0,0,23406
+DIST004,Healthcare,Uniqlo AIRism Undershirt,Apparel,6537.7,4630.7,Medium,4,2020,6537.7,4229.72,1,0,0,1,0,1,0,1,2637
+DIST045,E-commerce,Asian Paints Apcolite Premium Enamel,Paint and ancillaries,6024.81,6108.35,Fast Moving,4,2025,6024.81,5969.69,1,0,0,0,0,1,0,1,33344
+DIST010,E-commerce,3M Car Care Kit,Automotive,37939.35,33045.78,Slow Moving,2,2025,37939.35,30926.55,0,0,1,1,1,0,0,0,7748
+DIST022,E-commerce,AccuCheck Sugar Test Strips,Health,6135.98,6422.28,Medium,2,2022,6135.98,5849.03,0,0,1,0,1,0,0,0,15751
+DIST033,E-commerce,Kinley Water 1L Pack,Beverages,11686.34,8863.91,Slow Moving,4,2025,11686.34,13058.74,1,0,0,0,0,1,0,1,24133
+DIST006,Financial Services,Asian Paints Apcolite Premium Enamel,Paint and ancillaries,7243.18,6108.35,Medium,4,2024,7243.18,8492.15,1,0,0,0,0,1,0,1,4227
+DIST042,Retail,Carrom Board Full Size,Toys,10703.71,5188.35,Slow Moving,4,2022,10703.71,7024.85,1,0,0,0,0,1,0,1,31214
+DIST011,Healthcare,"Sony Bravia 55"" OLED TV",Electronics,1421.28,1982.55,Medium,2,2020,1421.28,1127.21,0,0,1,1,1,0,0,0,8436
+DIST026,Manufacturing,Michael Kors Crossbody Bag,Apparel,8835.04,7211.41,Medium,4,2025,8835.04,4058.83,1,0,0,0,0,1,0,1,18424
+DIST036,Healthcare,Supradyn Multivitamin Tablets,Health,4618.41,3263.81,Fast Moving,3,2023,4618.41,3324.94,0,1,0,1,0,1,1,0,27153
+DIST018,Manufacturing,Lego Classic Creative Box,Toys,17230.37,16891.13,Slow Moving,3,2022,17230.37,12852.79,0,1,0,1,0,1,1,0,13004
+DIST048,Manufacturing,Asian Paints Tractor Emulsion,Paint and ancillaries,19742.47,22882.43,Slow Moving,2,2025,19742.47,11708.98,0,0,1,1,1,0,0,0,36387
+DIST020,Retail,Ray-Ban Wayfarer Sunglasses,Apparel,2253.77,2462.16,Slow Moving,1,2024,2253.77,5285.21,0,0,1,1,0,0,0,0,14745
+DIST009,Manufacturing,Berger Silk Luxury Emulsion,Paint and ancillaries,5010.06,6173.7,Medium,3,2021,5010.06,7583.08,0,1,0,1,0,1,1,0,6523
+DIST022,E-commerce,H&M Basic T-Shirt Pack,Apparel,1355.1,2242.81,Fast Moving,2,2023,1355.1,1683.59,0,0,1,0,1,0,0,0,15977
+DIST016,E-commerce,Michelin P215/65R16 Tires,Automotive,3311.83,2763.1,Fast Moving,2,2022,3311.83,2662.54,0,0,1,0,1,0,0,0,11911
+DIST026,Manufacturing,Dell XPS 15 Laptop,Electronics,4444.12,6356.26,Fast Moving,3,2022,4444.12,2838.7,0,1,0,1,0,1,1,0,18317
+DIST013,Manufacturing,Vans Old Skool Sneakers,Apparel,6602.98,13401.03,Medium,3,2021,6602.98,5508.52,0,1,0,1,0,1,1,0,9376
+DIST017,Retail,VLCC Sunscreen Gel,Beauty,15484.81,9014.05,Medium,3,2025,15484.81,14044.91,0,1,0,0,0,1,1,0,12034
+DIST050,Wholesale,Callaway Golf Club Set,Sports,1519.43,3719.5,Fast Moving,1,2023,1519.43,3208.46,0,0,1,1,0,0,0,0,37615
+DIST005,Financial Services,Savic Dog Carrier,Pet Supplies,2958.93,3801.62,Medium,2,2022,2958.93,2131.02,0,0,1,0,1,0,0,0,3624
+DIST031,Education,Bosch Spark Plug Set,Automotive,3643.16,5780.38,Fast Moving,1,2020,3643.16,3278.84,0,0,1,0,0,0,0,0,22512
+DIST040,Retail,Nerolac Excel Anti-Peel Exterior,Paint and ancillaries,2189.46,3593.19,Medium,1,2025,2189.46,3343.33,0,0,1,1,0,0,0,0,30126
+DIST048,Manufacturing,IFB Microwave Oven,Home Goods,15035.01,11621.95,Medium,4,2021,15035.01,12200.96,1,0,0,0,0,1,0,1,36166
+DIST006,Financial Services,"Sony Bravia 55"" OLED TV",Electronics,3042.35,1982.55,Medium,4,2020,3042.35,1895.4,1,0,0,1,0,1,0,1,4321
+DIST007,E-commerce,MAC Ruby Woo Lipstick,Beauty,3549.61,5146.8,Medium,1,2020,3549.61,3194.65,0,0,1,0,0,0,0,0,5527
+DIST046,Manufacturing,Spaces Cotton Towel Set,Home Goods,1905.63,2129.66,Fast Moving,1,2023,1905.63,3891.34,0,0,1,1,0,0,0,0,33974
+DIST006,Financial Services,AutoStark Car Cover,Automotive,1412.38,2929.06,Fast Moving,1,2023,1412.38,3014.47,0,0,1,1,0,0,0,0,4266
+DIST049,Financial Services,Uniqlo AIRism Undershirt,Apparel,6326.03,4630.7,Slow Moving,1,2025,6326.03,13547.25,0,0,1,1,0,0,0,0,36687
+DIST046,Manufacturing,PetSafe Gentle Leader Collar,Pet Supplies,963.35,1265.77,Medium,1,2021,963.35,1778.17,0,0,1,0,0,0,0,0,34378
+DIST045,E-commerce,Lenovo ThinkPad X1,Electronics,6776.14,16091.06,Fast Moving,1,2022,6776.14,14033.71,0,0,1,1,0,0,0,0,33352
+DIST042,Retail,Vaseline Body Lotion,Beauty,1623.23,3547.06,Medium,3,2020,1623.23,1976.14,0,1,0,0,0,1,1,0,32056
+DIST015,Retail,Basil Rubber Chew Toy,Pet Supplies,14074.62,10800.74,Slow Moving,2,2024,14074.62,10096.4,0,0,1,1,1,0,0,0,10777
+DIST045,E-commerce,Saffola Active Oil 5L,Food,1239.06,1329.98,Slow Moving,2,2021,1239.06,730.68,0,0,1,1,1,0,0,0,33718
+DIST024,Hospitality,OnePlus 12 5G,Electronics,1142.63,2251.76,Slow Moving,1,2021,1142.63,3245.18,0,0,1,0,0,0,0,0,17763
+DIST040,Retail,Maybelline Fit Me Foundation,Beauty,965.7,1223.47,Slow Moving,1,2022,965.7,1270.71,0,0,1,1,0,0,0,0,29977
+DIST042,Retail,Zandu Balm,Health,20091.88,10870.3,Fast Moving,4,2024,20091.88,14287.94,1,0,0,0,0,1,0,1,32161
+DIST038,Education,Whiskas Cat Food Tuna 7kg,Pet Supplies,2186.26,1685.14,Fast Moving,4,2025,2186.26,1218.01,1,0,0,0,0,1,0,1,28167
+DIST009,Manufacturing,Wilson Tennis Racket,Sports,1248.9,1333.02,Slow Moving,4,2024,1248.9,990.04,1,0,0,0,0,1,0,1,6512
+DIST002,Hospitality,Bombay Dyeing Bedsheet Set,Home Goods,6486.36,6567.88,Medium,1,2023,6486.36,15366.17,0,0,1,1,0,0,0,0,1573
+DIST036,Healthcare,Bosch Wiper Blades,Automotive,11084.39,6474.21,Slow Moving,4,2023,11084.39,7702.03,1,0,0,0,0,1,0,1,27132
+DIST016,E-commerce,Baidyanath Chyawanprash,Health,3074.03,6209.52,Fast Moving,2,2020,3074.03,2012.87,0,0,1,1,1,0,0,0,11422
+DIST022,E-commerce,Nike Football,Sports,2312.07,1785.87,Slow Moving,2,2024,2312.07,2827.32,0,0,1,1,1,0,0,0,15646
+DIST021,Healthcare,Ensure Protein Powder,Health,8228.74,6692.47,Slow Moving,3,2023,8228.74,5324.26,0,1,0,1,0,1,1,0,15416
+DIST019,E-commerce,Louis Vuitton Neverfull Bag,Apparel,72890.17,68246.14,Slow Moving,2,2025,72890.17,154396.01,0,0,1,1,1,0,0,0,13850
+DIST005,Financial Services,Pedigree Adult Dog Food 10kg,Pet Supplies,3759.0,4920.06,Fast Moving,4,2025,3759.0,3043.59,1,0,0,0,0,1,0,1,3497
+DIST017,Retail,Britannia Good Day Cookies,Food,1960.39,4600.58,Medium,2,2020,1960.39,1285.5,0,0,1,1,1,0,0,0,12243
+DIST045,E-commerce,Mattel Barbie Dreamhouse,Toys,13817.28,12981.66,Medium,3,2023,13817.28,11137.83,0,1,0,1,0,1,1,0,33635
+DIST026,Manufacturing,Calvin Klein Boxer Brief Set,Apparel,1067.15,1485.3,Medium,1,2025,1067.15,1708.85,0,0,1,1,0,0,0,0,18509
+DIST008,Manufacturing,Xbox Series X,Toys,6629.02,9659.16,Fast Moving,2,2023,6629.02,5422.16,0,0,1,0,1,0,0,0,6022
+DIST007,E-commerce,Fluval Aquarium Filter,Pet Supplies,3093.83,3819.25,Slow Moving,4,2023,3093.83,2929.3,1,0,0,0,0,1,0,1,5471
+DIST016,E-commerce,Parle-G Biscuits Value Pack,Food,3398.9,5909.6,Fast Moving,3,2024,3398.9,2692.23,0,1,0,0,0,1,1,0,11783
+DIST048,Manufacturing,Parker Vector Fountain Pen,Office Supplies,12043.61,13816.22,Fast Moving,2,2020,12043.61,10145.24,0,0,1,1,1,0,0,0,36298
+DIST037,Education,Mattel Barbie Dreamhouse,Toys,12717.21,12981.66,Slow Moving,2,2023,12717.21,21925.01,0,0,1,0,1,0,0,0,27518
+DIST015,Retail,Reynolds Trimax Pen Pack,Office Supplies,565.69,1408.82,Fast Moving,1,2020,565.69,509.12,0,0,1,0,0,0,0,0,10694
+DIST042,Retail,Milton Thermosteel Flask,Home Goods,19125.02,21658.67,Fast Moving,3,2021,19125.02,19461.65,0,1,0,1,0,1,1,0,31371
+DIST042,Retail,Vans Old Skool Sneakers,Apparel,22187.34,13401.03,Fast Moving,4,2024,22187.34,13791.38,1,0,0,0,0,1,0,1,31750
+DIST031,Education,Strauss Yoga Mat,Sports,17452.1,18825.74,Medium,2,2024,17452.1,21848.55,0,0,1,1,1,0,0,0,22368
+DIST005,Financial Services,Bombay Dyeing Bedsheet Set,Home Goods,2655.51,6567.88,Slow Moving,1,2020,2655.51,2389.96,0,0,1,0,0,0,0,0,3591
+DIST005,Financial Services,Canon EOS R6 Camera,Electronics,10027.37,4083.36,Fast Moving,4,2021,10027.37,6315.57,1,0,0,0,0,1,0,1,3505
+DIST033,E-commerce,Kissan Mixed Fruit Jam,Food,8700.74,8738.38,Slow Moving,3,2025,8700.74,5138.6,0,1,0,0,0,1,1,0,24087
+DIST029,Manufacturing,Vans Old Skool Sneakers,Apparel,10813.87,13401.03,Slow Moving,1,2023,10813.87,20021.79,0,0,1,1,0,0,0,0,20743
+DIST037,Education,Zara Slim Fit Blazer,Apparel,10516.0,8387.38,Medium,4,2020,10516.0,6339.38,1,0,0,1,0,1,0,1,27852
+DIST003,Education,Samsung Galaxy S24 Ultra,Electronics,2472.46,8209.01,Fast Moving,1,2022,2472.46,8048.61,0,0,1,1,0,0,0,0,2069
+DIST029,Manufacturing,Patanjali Honey 500g,Food,17482.11,11020.67,Slow Moving,4,2020,17482.11,18328.27,1,0,0,1,0,1,0,1,20993
+DIST035,Education,JK Easy Copier Paper,Office Supplies,724.09,846.22,Medium,4,2020,724.09,606.73,1,0,0,1,0,1,0,1,25983
+DIST023,Manufacturing,Nerolac Impressions HD Paint,Paint and ancillaries,817.86,930.34,Slow Moving,4,2021,817.86,1112.54,1,0,0,0,0,1,0,1,16659
+DIST050,Wholesale,Parle-G Biscuits Value Pack,Food,3199.04,5909.6,Slow Moving,1,2022,3199.04,5116.17,0,0,1,1,0,0,0,0,37406
+DIST004,Healthcare,Nike Football,Sports,947.21,1785.87,Slow Moving,2,2024,947.21,821.6,0,0,1,1,1,0,0,0,2903
+DIST026,Manufacturing,Exide Battery 65Ah,Automotive,83409.22,36472.36,Slow Moving,4,2024,83409.22,75367.14,1,0,0,0,0,1,0,1,18555
+DIST039,Financial Services,JBL Flip 6 Speaker,Electronics,9409.53,3363.02,Fast Moving,4,2023,9409.53,4588.1,1,0,0,0,0,1,0,1,29068
+DIST010,E-commerce,Cetaphil Gentle Skin Cleanser,Health,5137.89,4301.95,Slow Moving,4,2024,5137.89,3304.67,1,0,0,0,0,1,0,1,7244
+DIST023,Manufacturing,Fossil Chronograph Watch,Apparel,898.46,1148.1,Slow Moving,2,2024,898.46,559.18,0,0,1,1,1,0,0,0,16553
+DIST046,Manufacturing,MacBook Air M3,Electronics,18398.93,10338.66,Fast Moving,4,2025,18398.93,13791.4,1,0,0,0,0,1,0,1,34789
+DIST032,Manufacturing,MTR Breakfast Mix,Food,571.98,640.46,Fast Moving,4,2020,571.98,574.2,1,0,0,1,0,1,0,1,23754
+DIST005,Financial Services,Kissan Mixed Fruit Jam,Food,9658.67,8738.38,Slow Moving,2,2021,9658.67,5945.74,0,0,1,1,1,0,0,0,2962
+DIST040,Retail,Sony WH-1000XM5 Headphones,Electronics,6173.54,9515.13,Slow Moving,1,2022,6173.54,16736.75,0,0,1,1,0,0,0,0,29518
+DIST034,E-commerce,Dove Moisturizing Cream,Beauty,4349.82,3468.33,Medium,4,2024,4349.82,2625.25,1,0,0,0,0,1,0,1,24994
+DIST007,E-commerce,Patanjali Ashwagandha,Health,2458.72,3786.83,Fast Moving,3,2024,2458.72,2280.16,0,1,0,0,0,1,1,0,4836
+DIST002,Hospitality,Himalaya Purifying Neem Face Wash,Beauty,3902.16,9807.82,Slow Moving,2,2022,3902.16,4546.24,0,0,1,0,1,0,0,0,1066
+DIST033,E-commerce,Patanjali Honey 500g,Food,15557.86,11020.67,Slow Moving,3,2020,15557.86,11101.34,0,1,0,0,0,1,1,0,24801
+DIST010,E-commerce,Puma Running Shorts,Apparel,4491.29,9210.96,Fast Moving,3,2020,4491.29,4756.79,0,1,0,0,0,1,1,0,7365
+DIST040,Retail,Nivea Men Face Wash,Beauty,829.63,1370.86,Slow Moving,1,2020,829.63,746.67,0,0,1,0,0,0,0,0,30085
+DIST037,Education,Remote Control Car,Toys,2115.28,2551.44,Fast Moving,3,2025,2115.28,1527.2,0,1,0,0,0,1,1,0,27938
+DIST005,Financial Services,Supreme Plastic Chair Set,Home Goods,3739.61,2453.24,Fast Moving,4,2021,3739.61,3513.04,1,0,0,0,0,1,0,1,3436
+DIST048,Manufacturing,Whiskas Cat Food Tuna 7kg,Pet Supplies,1539.34,1685.14,Slow Moving,3,2023,1539.34,1099.52,0,1,0,1,0,1,1,0,35876
+DIST036,Healthcare,Tata Salt 1kg,Food,1983.12,2968.99,Slow Moving,1,2022,1983.12,2869.59,0,0,1,1,0,0,0,0,26420
+DIST017,Retail,Tata Tea Premium 1kg,Beverages,1006.73,1121.9,Slow Moving,3,2021,1006.73,802.13,0,1,0,1,0,1,1,0,12156
+DIST011,Healthcare,Me-O Cat Food Seafood 7kg,Pet Supplies,10154.22,21784.25,Medium,1,2020,10154.22,9138.8,0,0,1,0,0,0,0,0,7980
+DIST020,Retail,Mountain Dew 750ml,Beverages,4271.53,3155.51,Fast Moving,4,2020,4271.53,4354.38,1,0,0,1,0,1,0,1,14756
+DIST041,E-commerce,Farmina N&D Dog Food 12kg,Pet Supplies,2842.68,2546.34,Slow Moving,4,2021,2842.68,2352.09,1,0,0,0,0,1,0,1,30593
+DIST006,Financial Services,Ensure Protein Powder,Health,5216.54,6692.47,Fast Moving,3,2023,5216.54,4192.1,0,1,0,1,0,1,1,0,4672
+DIST039,Financial Services,Reebok Dumbbells Set,Sports,801.8,1200.72,Slow Moving,1,2022,801.8,1449.69,0,0,1,1,0,0,0,0,28859
+DIST018,Manufacturing,Paper Boat Aam Panna,Beverages,1814.1,6158.53,Slow Moving,1,2020,1814.1,1632.69,0,0,1,0,0,0,0,0,13355
+DIST048,Manufacturing,Maybelline Fit Me Foundation,Beauty,1144.13,1223.47,Medium,3,2022,1144.13,813.42,0,1,0,1,0,1,1,0,36124
+DIST019,E-commerce,Wilson Tennis Racket,Sports,1700.13,1333.02,Medium,4,2021,1700.13,1326.52,1,0,0,0,0,1,0,1,13932
+DIST032,Manufacturing,Vaseline Body Lotion,Beauty,4364.18,3547.06,Fast Moving,2,2023,4364.18,3446.97,0,0,1,0,1,0,0,0,23556
+DIST031,Education,Fisher-Price Learning Toys,Toys,4848.52,4397.48,Medium,3,2021,4848.52,4153.44,0,1,0,1,0,1,1,0,22864
+DIST032,Manufacturing,Nerf Elite Blaster,Toys,1228.35,1725.61,Fast Moving,1,2020,1228.35,1105.51,0,0,1,0,0,0,0,0,23085
+DIST050,Wholesale,IFB Microwave Oven,Home Goods,7475.08,11621.95,Slow Moving,4,2024,7475.08,3980.94,1,0,0,0,0,1,0,1,37207
+DIST027,Wholesale,"Sony Bravia 55"" OLED TV",Electronics,3698.44,1982.55,Fast Moving,4,2022,3698.44,2508.64,1,0,0,0,0,1,0,1,19323
+DIST042,Retail,Thums Up 1.25L,Beverages,23812.45,17644.64,Medium,2,2020,23812.45,14829.64,0,0,1,1,1,0,0,0,31502
+DIST038,Education,Strauss Yoga Mat,Sports,23700.71,18825.74,Medium,3,2022,23700.71,22081.63,0,1,0,1,0,1,1,0,28447
+DIST002,Hospitality,Neutrogena Sunscreen SPF 50,Beauty,9457.7,9695.03,Slow Moving,3,2024,9457.7,7082.04,0,1,0,0,0,1,1,0,1188
+DIST047,Manufacturing,Bose QuietComfort Earbuds,Electronics,2949.2,3486.49,Medium,3,2024,2949.2,2135.79,0,1,0,0,0,1,1,0,35176
+DIST038,Education,Nerolac Beauty Gold Washable,Paint and ancillaries,1873.66,2630.98,Medium,2,2021,1873.66,861.25,0,0,1,1,1,0,0,0,28105
+DIST048,Manufacturing,Whiskas Cat Food Tuna 7kg,Pet Supplies,1681.84,1685.14,Medium,3,2021,1681.84,1353.31,0,1,0,1,0,1,1,0,35868
+DIST029,Manufacturing,Solo Document Bag,Office Supplies,1160.87,1429.9,Fast Moving,3,2020,1160.87,982.11,0,1,0,0,0,1,1,0,21101
+DIST049,Financial Services,Bournvita 1kg,Food,58618.14,29034.11,Medium,3,2023,58618.14,40632.58,0,1,0,1,0,1,1,0,36541
+DIST050,Wholesale,Parle-G Biscuits Value Pack,Food,5948.32,5909.6,Medium,3,2024,5948.32,5135.18,0,1,0,0,0,1,1,0,37415
+DIST046,Manufacturing,Sony WH-1000XM5 Headphones,Electronics,8586.38,9515.13,Medium,3,2024,8586.38,8101.7,0,1,0,0,0,1,1,0,34325
+DIST009,Manufacturing,Nerolac Impressions HD Paint,Paint and ancillaries,523.06,930.34,Medium,4,2021,523.06,534.91,1,0,0,0,0,1,0,1,6591
+DIST041,E-commerce,Cello Finesse Dinner Set,Home Goods,1959.74,2944.2,Slow Moving,2,2023,1959.74,1313.18,0,0,1,0,1,0,0,0,30552
+DIST007,E-commerce,Vaseline Body Lotion,Beauty,5683.09,3547.06,Medium,3,2024,5683.09,3570.82,0,1,0,0,0,1,1,0,5001
+DIST029,Manufacturing,Calvin Klein Boxer Brief Set,Apparel,891.15,1485.3,Fast Moving,1,2022,891.15,1787.16,0,0,1,1,0,0,0,0,20437
+DIST023,Manufacturing,Pawzone Cat Scratch Post,Pet Supplies,1421.03,2378.99,Medium,3,2020,1421.03,1184.5,0,1,0,0,0,1,1,0,16608
+DIST011,Healthcare,Kong Classic Dog Toy,Pet Supplies,10553.57,7035.35,Slow Moving,2,2025,10553.57,6651.94,0,0,1,1,1,0,0,0,7908
+DIST001,Manufacturing,Asian Paints Apcolite Premium Enamel,Paint and ancillaries,2986.61,6108.35,Slow Moving,1,2025,2986.61,2948.13,0,0,1,1,0,0,0,0,660
+DIST001,Manufacturing,Zandu Balm,Health,6377.87,10870.3,Fast Moving,1,2023,6377.87,15582.81,0,0,1,1,0,0,0,0,426
+DIST020,Retail,VLCC Sunscreen Gel,Beauty,7138.1,9014.05,Slow Moving,4,2024,7138.1,4820.91,1,0,0,0,0,1,0,1,14357
+DIST029,Manufacturing,Dr. Fixit Raincoat Waterproofing,Paint and ancillaries,987.16,1123.28,Slow Moving,1,2025,987.16,1762.02,0,0,1,1,0,0,0,0,21185
+DIST019,E-commerce,Calvin Klein Boxer Brief Set,Apparel,1794.73,1485.3,Medium,3,2022,1794.73,1327.32,0,1,0,1,0,1,1,0,13568
+DIST012,Retail,H&M Basic T-Shirt Pack,Apparel,2348.79,2242.81,Medium,2,2020,2348.79,1664.89,0,0,1,1,1,0,0,0,8644
+DIST040,Retail,Slazenger Tennis Balls,Sports,6509.33,3804.0,Slow Moving,4,2022,6509.33,5493.48,1,0,0,0,0,1,0,1,29590
+DIST040,Retail,Maybelline Fit Me Foundation,Beauty,1017.01,1223.47,Medium,2,2022,1017.01,965.7,0,0,1,0,1,0,0,0,29978
+DIST041,E-commerce,Sprite 2.25L Bottle,Beverages,10876.5,7729.18,Fast Moving,4,2025,10876.5,13183.19,1,0,0,0,0,1,0,1,30885
+DIST034,E-commerce,Cadbury Dairy Milk Chocolate,Food,4907.92,12480.74,Slow Moving,2,2023,4907.92,3947.86,0,0,1,0,1,0,0,0,25060
+DIST030,Financial Services,Biotique Morning Nectar Lotion,Beauty,4483.4,2458.76,Fast Moving,3,2025,4483.4,3111.44,0,1,0,0,0,1,1,0,21645
+DIST035,Education,Dulux Velvet Touch Diamond Glo,Paint and ancillaries,1348.5,2159.99,Fast Moving,1,2023,1348.5,1761.31,0,0,1,1,0,0,0,0,25422
+DIST046,Manufacturing,Bosch Wiper Blades,Automotive,3273.93,6474.21,Fast Moving,1,2022,3273.93,7907.04,0,0,1,1,0,0,0,0,34614
+DIST028,Financial Services,Mountain Dew 750ml,Beverages,3183.7,3155.51,Fast Moving,3,2021,3183.7,2159.54,0,1,0,1,0,1,1,0,20168
+DIST004,Healthcare,Fluval Aquarium Filter,Pet Supplies,3678.52,3819.25,Slow Moving,4,2024,3678.52,3193.3,1,0,0,0,0,1,0,1,2291
+DIST048,Manufacturing,Cadbury Dairy Milk Chocolate,Food,20885.87,12480.74,Slow Moving,4,2020,20885.87,16129.15,1,0,0,1,0,1,0,1,35726
+DIST046,Manufacturing,Dulux Velvet Touch Diamond Glo,Paint and ancillaries,2779.14,2159.99,Medium,4,2023,2779.14,2757.01,1,0,0,0,0,1,0,1,34481
+DIST049,Financial Services,JK Tyre 185/65 R15,Automotive,6142.04,3179.2,Slow Moving,4,2025,6142.04,5134.37,1,0,0,0,0,1,0,1,36823
+DIST042,Retail,Lego Classic Creative Box,Toys,13448.06,16891.13,Slow Moving,1,2020,13448.06,12103.25,0,0,1,0,0,0,0,0,31319
+DIST019,E-commerce,Garmin Forerunner Watch,Sports,3913.04,4715.79,Fast Moving,3,2023,3913.04,3536.55,0,1,0,1,0,1,1,0,13915
+DIST035,Education,Ponds Face Powder,Beauty,1425.09,2244.92,Medium,2,2025,1425.09,1228.43,0,0,1,1,1,0,0,0,26228
+DIST032,Manufacturing,Asian Paints Royale Luxury Emulsion,Paint and ancillaries,7697.86,7547.97,Medium,3,2024,7697.86,9999.46,0,1,0,0,0,1,1,0,23214
+DIST050,Wholesale,Nike Football,Sports,1971.73,1785.87,Medium,4,2020,1971.73,1592.93,1,0,0,1,0,1,0,1,37864
+DIST043,Education,Nivea Men Face Wash,Beauty,1187.57,1370.86,Slow Moving,1,2024,1187.57,1913.82,0,0,1,1,0,0,0,0,32515
+DIST009,Manufacturing,Faber Chimney Hood,Home Goods,2106.98,1179.46,Fast Moving,4,2024,2106.98,1295.96,1,0,0,0,0,1,0,1,6303
+DIST038,Education,DJI Mavic 3 Drone,Electronics,24547.43,22239.75,Fast Moving,4,2024,24547.43,17897.1,1,0,0,0,0,1,0,1,28526
+DIST008,Manufacturing,Everest Chicken Masala,Food,808.66,1251.2,Slow Moving,1,2022,808.66,1105.19,0,0,1,1,0,0,0,0,6134
+DIST040,Retail,Nerolac Beauty Gold Washable,Paint and ancillaries,1684.42,2630.98,Fast Moving,1,2022,1684.42,2573.41,0,0,1,1,0,0,0,0,29610
+DIST040,Retail,Coca-Cola 2L Bottle,Beverages,32450.84,22796.18,Medium,4,2023,32450.84,28235.81,1,0,0,0,0,1,0,1,29343
+DIST021,Healthcare,"Sony Bravia 55"" OLED TV",Electronics,1389.73,1982.55,Slow Moving,1,2020,1389.73,1250.76,0,0,1,0,0,0,0,0,15002
+DIST050,Wholesale,Lakme Absolute Lipstick,Beauty,3992.71,5131.26,Medium,1,2022,3992.71,7073.57,0,0,1,1,0,0,0,0,37267
+DIST031,Education,Dove Moisturizing Cream,Beauty,4419.66,3468.33,Medium,4,2023,4419.66,3920.31,1,0,0,0,0,1,0,1,22252
+DIST033,E-commerce,Vans Old Skool Sneakers,Apparel,21631.31,13401.03,Slow Moving,3,2022,21631.31,11805.31,0,1,0,1,0,1,1,0,24767
+DIST041,E-commerce,Faber Chimney Hood,Home Goods,512.99,1179.46,Medium,1,2023,512.99,1232.32,0,0,1,1,0,0,0,0,30646
+DIST031,Education,Supreme Plastic Chair Set,Home Goods,1149.06,2453.24,Fast Moving,1,2022,1149.06,1867.33,0,0,1,1,0,0,0,0,22935
+DIST008,Manufacturing,Xbox Series X,Toys,12364.42,9659.16,Slow Moving,4,2022,12364.42,8091.34,1,0,0,0,0,1,0,1,6020
+DIST024,Hospitality,Classmate Notebook Set,Office Supplies,3577.9,5049.67,Fast Moving,2,2021,3577.9,2668.9,0,0,1,1,1,0,0,0,16970
+DIST007,E-commerce,Asian Paints Premium Emulsion,Paint and ancillaries,5878.77,11871.07,Fast Moving,1,2020,5878.77,5290.89,0,0,1,0,0,0,0,0,4890
+DIST002,Hospitality,PetSafe Gentle Leader Collar,Pet Supplies,892.95,1265.77,Fast Moving,1,2021,892.95,1745.45,0,0,1,0,0,0,0,0,920
+DIST038,Education,Drools Focus Puppy Super Premium 4kg,Pet Supplies,879.3,1410.32,Fast Moving,2,2024,879.3,781.96,0,0,1,1,1,0,0,0,28664
+DIST049,Financial Services,Marvel Action Figure Set,Toys,9036.49,4753.94,Medium,4,2025,9036.49,6225.62,1,0,0,0,0,1,0,1,36573
+DIST022,E-commerce,Ponds Face Powder,Beauty,2691.13,2244.92,Fast Moving,2,2024,2691.13,2060.59,0,0,1,1,1,0,0,0,16004
+DIST048,Manufacturing,Wilson Tennis Racket,Sports,1381.58,1333.02,Medium,2,2024,1381.58,1136.83,0,0,1,1,1,0,0,0,35786
+DIST044,Healthcare,Exide Battery 65Ah,Automotive,44003.14,36472.36,Fast Moving,3,2020,44003.14,37578.15,0,1,0,0,0,1,1,0,33185
+DIST034,E-commerce,Louis Vuitton Neverfull Bag,Apparel,34179.93,68246.14,Fast Moving,3,2020,34179.93,34821.85,0,1,0,0,0,1,1,0,25116
+DIST007,E-commerce,Pawzone Cat Scratch Post,Pet Supplies,1631.33,2378.99,Slow Moving,2,2020,1631.33,1424.06,0,0,1,1,1,0,0,0,5297
+DIST004,Healthcare,Reebok Dumbbells Set,Sports,868.93,1200.72,Medium,2,2025,868.93,717.61,0,0,1,1,1,0,0,0,2478
+DIST016,E-commerce,Dr. Morepen Glucometer,Health,10920.31,14827.33,Fast Moving,1,2021,10920.31,14765.31,0,0,1,0,0,0,0,0,11130
+DIST002,Hospitality,Bose QuietComfort Earbuds,Electronics,2114.64,3486.49,Fast Moving,2,2023,2114.64,1766.37,0,0,1,0,1,0,0,0,999
+DIST006,Financial Services,Coca-Cola 2L Bottle,Beverages,23123.21,22796.18,Medium,1,2024,23123.21,45644.87,0,0,1,1,0,0,0,0,4424
+DIST047,Manufacturing,Reynolds Trimax Pen Pack,Office Supplies,1634.27,1408.82,Medium,2,2023,1634.27,1237.85,0,0,1,0,1,0,0,0,35288
+DIST045,E-commerce,Mattel Barbie Dreamhouse,Toys,11239.96,12981.66,Medium,2,2020,11239.96,8318.37,0,0,1,1,1,0,0,0,33623
+DIST019,E-commerce,Levi's 501 Original Jeans,Apparel,6667.15,7288.33,Slow Moving,4,2023,6667.15,4693.23,1,0,0,0,0,1,0,1,13706
+DIST002,Hospitality,Bose QuietComfort Earbuds,Electronics,2904.25,3486.49,Fast Moving,3,2023,2904.25,2114.64,0,1,0,1,0,1,1,0,1000
+DIST033,E-commerce,OnePlus 12 5G,Electronics,1968.85,2251.76,Fast Moving,2,2023,1968.85,1712.62,0,0,1,0,1,0,0,0,24748
+DIST007,E-commerce,Olay Total Effects Day Cream,Beauty,2802.21,2151.41,Fast Moving,4,2024,2802.21,1985.71,1,0,0,0,0,1,0,1,5250
+DIST039,Financial Services,Garmin Forerunner Watch,Sports,6112.88,4715.79,Slow Moving,2,2025,6112.88,5065.05,0,0,1,1,1,0,0,0,29119
+DIST025,Financial Services,Fisher-Price Learning Toys,Toys,6287.5,4397.48,Slow Moving,4,2021,6287.5,3501.81,1,0,0,0,0,1,0,1,17811
+DIST006,Financial Services,Supradyn Multivitamin Tablets,Health,3686.48,3263.81,Fast Moving,3,2020,3686.48,2644.53,0,1,0,0,0,1,1,0,4499
+DIST020,Retail,Fluval Aquarium Filter,Pet Supplies,3238.18,3819.25,Medium,1,2023,3238.18,7162.05,0,0,1,1,0,0,0,0,14165
+DIST029,Manufacturing,Red Bull Energy Drink,Beverages,3191.76,7460.29,Fast Moving,2,2020,3191.76,2292.89,0,0,1,1,1,0,0,0,21124
+DIST038,Education,Mattel Barbie Dreamhouse,Toys,8090.43,12981.66,Fast Moving,3,2020,8090.43,5486.58,0,1,0,0,0,1,1,0,28031
+DIST025,Financial Services,MRF Cricket Bat,Sports,51254.55,62431.54,Medium,3,2020,51254.55,57452.27,0,1,0,0,0,1,1,0,18240
+DIST037,Education,Asian Paints Tractor Emulsion,Paint and ancillaries,23290.41,22882.43,Medium,4,2021,23290.41,32346.88,1,0,0,0,0,1,0,1,27584
+DIST010,E-commerce,Nerolac Impressions HD Paint,Paint and ancillaries,1290.05,930.34,Fast Moving,2,2024,1290.05,658.22,0,0,1,1,1,0,0,0,7128
+DIST048,Manufacturing,Bosch Wiper Blades,Automotive,8786.57,6474.21,Slow Moving,2,2024,8786.57,7260.55,0,0,1,1,1,0,0,0,35994
+DIST036,Healthcare,Hot Wheels 5-Car Pack,Toys,3165.34,5502.54,Medium,2,2021,3165.34,2571.86,0,0,1,1,1,0,0,0,27378
+DIST033,E-commerce,AccuCheck Sugar Test Strips,Health,5101.36,6422.28,Fast Moving,3,2020,5101.36,4033.31,0,1,0,0,0,1,1,0,23886
+DIST049,Financial Services,JK Tyre 185/65 R15,Automotive,4584.55,3179.2,Slow Moving,3,2021,4584.55,4118.24,0,1,0,1,0,1,1,0,36807
+DIST037,Education,Tommy Hilfiger Classic Shirt,Apparel,3232.02,4766.13,Fast Moving,1,2020,3232.02,2908.82,0,0,1,0,0,0,0,0,27484
+DIST019,E-commerce,Parker Vector Fountain Pen,Office Supplies,10092.66,13816.22,Fast Moving,2,2020,10092.66,9094.74,0,0,1,1,1,0,0,0,13739
+DIST026,Manufacturing,Asian Paints Dynamo Adhesive,Paint and ancillaries,7471.06,5602.99,Fast Moving,3,2020,7471.06,5378.4,0,1,0,0,0,1,1,0,18379
+DIST038,Education,Strauss Yoga Mat,Sports,34312.81,18825.74,Slow Moving,4,2020,34312.81,20491.38,1,0,0,1,0,1,0,1,28440
+DIST013,Manufacturing,Asian Paints Tractor Emulsion,Paint and ancillaries,27723.05,22882.43,Medium,3,2021,27723.05,35978.11,0,1,0,1,0,1,1,0,9807
+DIST021,Healthcare,Pedigree Adult Dog Food 10kg,Pet Supplies,8074.51,4920.06,Medium,4,2020,8074.51,5791.07,1,0,0,1,0,1,0,1,15385
+DIST006,Financial Services,Kong Classic Dog Toy,Pet Supplies,6817.49,7035.35,Slow Moving,3,2024,6817.49,5139.91,0,1,0,0,0,1,1,0,4381
+DIST006,Financial Services,Asian Paints Ultima Protek Exterior,Paint and ancillaries,796.47,1521.83,Slow Moving,1,2021,796.47,1189.97,0,0,1,0,0,0,0,0,4344
+DIST005,Financial Services,Ensure Protein Powder,Health,10137.81,6692.47,Medium,4,2022,10137.81,10183.45,1,0,0,0,0,1,0,1,2990
+DIST035,Education,Berger Silk Luxury Emulsion,Paint and ancillaries,2978.53,6173.7,Medium,4,2020,2978.53,2559.68,1,0,0,1,0,1,0,1,26279
+DIST040,Retail,Whiskas Cat Food Tuna 7kg,Pet Supplies,1321.04,1685.14,Fast Moving,2,2021,1321.04,1014.33,0,0,1,1,1,0,0,0,29562
+DIST016,E-commerce,Asian Paints Premium Emulsion,Paint and ancillaries,9609.41,11871.07,Fast Moving,4,2020,9609.41,9661.93,1,0,0,1,0,1,0,1,11676
+DIST041,E-commerce,Lakme Absolute Lipstick,Beauty,6923.66,5131.26,Medium,4,2020,6923.66,4821.14,1,0,0,1,0,1,0,1,30912
+DIST030,Financial Services,Dove Moisturizing Cream,Beauty,2303.0,3468.33,Medium,1,2021,2303.0,4285.58,0,0,1,0,0,0,0,0,21489
+DIST023,Manufacturing,Cosco Volleyball,Sports,820.33,838.75,Slow Moving,2,2024,820.33,855.02,0,0,1,1,1,0,0,0,16117
+DIST002,Hospitality,LG 1 Ton Split AC,Electronics,1429.42,1437.94,Medium,2,2025,1429.42,957.12,0,0,1,1,1,0,0,0,960
+DIST036,Healthcare,Patanjali Ashwagandha,Health,3714.79,3786.83,Fast Moving,4,2021,3714.79,3400.08,1,0,0,0,0,1,0,1,27101
+DIST029,Manufacturing,Honda Engine Oil 10W-30,Automotive,6669.28,4770.42,Medium,4,2022,6669.28,4651.82,1,0,0,0,0,1,0,1,20766
+DIST013,Manufacturing,Ponds Face Powder,Beauty,3639.56,2244.92,Medium,4,2023,3639.56,2495.21,1,0,0,0,0,1,0,1,9453
+DIST032,Manufacturing,Philips Headlight Bulbs,Automotive,586.05,856.36,Fast Moving,2,2023,586.05,432.28,0,0,1,0,1,0,0,0,23649
+DIST047,Manufacturing,Vaseline Body Lotion,Beauty,3559.51,3547.06,Medium,3,2025,3559.51,2189.31,0,1,0,0,0,1,1,0,35019
+DIST030,Financial Services,Nivea Men Face Wash,Beauty,987.18,1370.86,Medium,2,2021,987.18,762.78,0,0,1,1,1,0,0,0,21787
+DIST024,Hospitality,Exide Battery 65Ah,Automotive,28228.01,36472.36,Medium,3,2023,28228.01,22828.59,0,1,0,1,0,1,1,0,17542
+DIST020,Retail,Pigeon Favorite Electric Kettle,Home Goods,4449.76,6581.96,Medium,1,2025,4449.76,10399.31,0,0,1,1,0,0,0,0,14265
+DIST008,Manufacturing,Patanjali Honey 500g,Food,7061.41,11020.67,Slow Moving,4,2025,7061.41,9904.41,1,0,0,0,0,1,0,1,6125
+DIST042,Retail,Zandu Balm,Health,10272.68,10870.3,Fast Moving,2,2023,10272.68,9896.29,0,0,1,0,1,0,0,0,32155
+DIST019,E-commerce,Garmin Forerunner Watch,Sports,7238.51,4715.79,Slow Moving,4,2023,7238.51,3913.04,1,0,0,0,0,1,0,1,13916
+DIST043,Education,Whiskas Cat Food Tuna 7kg,Pet Supplies,1173.78,1685.14,Fast Moving,2,2021,1173.78,878.48,0,0,1,1,1,0,0,0,32329
+DIST009,Manufacturing,Nerolac Impressions HD Paint,Paint and ancillaries,494.28,930.34,Fast Moving,4,2020,494.28,628.22,1,0,0,1,0,1,0,1,6587
+DIST042,Retail,Exide Battery 65Ah,Automotive,21497.84,36472.36,Medium,2,2022,21497.84,17537.46,0,0,1,0,1,0,0,0,31764
+DIST029,Manufacturing,Dulux Velvet Touch Diamond Glo,Paint and ancillaries,2097.13,2159.99,Slow Moving,3,2024,2097.13,3372.95,0,1,0,0,0,1,1,0,21050
+DIST023,Manufacturing,Fossil Chronograph Watch,Apparel,656.16,1148.1,Medium,2,2020,656.16,466.84,0,0,1,1,1,0,0,0,16537
+DIST005,Financial Services,Baidyanath Chyawanprash,Health,6678.83,6209.52,Medium,4,2024,6678.83,5402.66,1,0,0,0,0,1,0,1,3653
+DIST038,Education,Berger Silk Luxury Emulsion,Paint and ancillaries,6662.58,6173.7,Fast Moving,1,2025,6662.58,9520.11,0,0,1,1,0,0,0,0,28599
+DIST001,Manufacturing,Ponds Face Powder,Beauty,2392.35,2244.92,Slow Moving,3,2024,2392.35,2132.63,0,1,0,0,0,1,1,0,476
+DIST017,Retail,Kangaro Stapler HS-10D,Office Supplies,2592.82,2122.68,Slow Moving,4,2025,2592.82,1969.39,1,0,0,0,0,1,0,1,12059
+DIST026,Manufacturing,PetSafe Gentle Leader Collar,Pet Supplies,1531.16,1265.77,Fast Moving,1,2024,1531.16,2202.09,0,0,1,1,0,0,0,0,18970
+DIST029,Manufacturing,IFB Microwave Oven,Home Goods,13500.25,11621.95,Slow Moving,2,2021,13500.25,7976.14,0,0,1,1,1,0,0,0,20949
+DIST031,Education,Amul Butter 500g,Food,1487.11,1674.57,Medium,2,2025,1487.11,1405.39,0,0,1,1,1,0,0,0,22902
+DIST013,Manufacturing,Asian Paints Apcolite Premium Enamel,Paint and ancillaries,7462.36,6108.35,Medium,3,2023,7462.36,12817.59,0,1,0,1,0,1,1,0,9066
+DIST013,Manufacturing,PetSafe Drinkwell Water Fountain,Pet Supplies,2587.45,2523.22,Medium,3,2023,2587.45,2136.58,0,1,0,1,0,1,1,0,9951
+DIST040,Retail,Sony WH-1000XM5 Headphones,Electronics,7264.33,9515.13,Medium,1,2024,7264.33,20789.18,0,0,1,1,0,0,0,0,29525
+DIST008,Manufacturing,Cosco Volleyball,Sports,778.58,838.75,Slow Moving,2,2020,778.58,475.38,0,0,1,1,1,0,0,0,5802
+DIST042,Retail,Carrom Board Full Size,Toys,7561.31,5188.35,Fast Moving,2,2025,7561.31,5573.07,0,0,1,1,1,0,0,0,31223
+DIST011,Healthcare,Ray-Ban Wayfarer Sunglasses,Apparel,2283.14,2462.16,Medium,2,2024,2283.14,1587.81,0,0,1,1,1,0,0,0,8474
+DIST045,E-commerce,Pigeon Favorite Electric Kettle,Home Goods,4125.76,6581.96,Fast Moving,2,2020,4125.76,3769.84,0,0,1,1,1,0,0,0,33461
+DIST046,Manufacturing,Sony WH-1000XM5 Headphones,Electronics,10725.0,9515.13,Slow Moving,3,2023,10725.0,6554.77,0,1,0,1,0,1,1,0,34321
+DIST005,Financial Services,Bombay Dyeing Bedsheet Set,Home Goods,4709.78,6567.88,Slow Moving,2,2024,4709.78,3671.17,0,0,1,1,1,0,0,0,3608
+DIST033,E-commerce,Funskool Monopoly,Toys,3577.46,3982.36,Slow Moving,2,2020,3577.46,2434.54,0,0,1,1,1,0,0,0,24583
+DIST029,Manufacturing,Michael Kors Crossbody Bag,Apparel,4906.42,7211.41,Medium,1,2024,4906.42,7357.51,0,0,1,1,0,0,0,0,21294
+DIST017,Retail,Classmate Notebook Set,Office Supplies,3309.38,5049.67,Fast Moving,1,2022,3309.38,4804.81,0,0,1,1,0,0,0,0,12408
+DIST023,Manufacturing,Play-Doh Modeling Compound,Toys,2783.21,3242.42,Slow Moving,1,2023,2783.21,4249.95,0,0,1,1,0,0,0,0,16203
+DIST030,Financial Services,Dove Moisturizing Cream,Beauty,3752.04,3468.33,Fast Moving,3,2024,3752.04,2791.86,0,1,0,0,0,1,1,0,21503
+DIST042,Retail,Real Mixed Fruit Juice,Beverages,2469.15,3092.51,Medium,1,2024,2469.15,4172.64,0,0,1,1,0,0,0,0,31242
+DIST021,Healthcare,Nestle Maggi Noodles,Food,2632.14,3119.14,Fast Moving,4,2022,2632.14,2153.4,1,0,0,0,0,1,0,1,15056
+DIST013,Manufacturing,Berger Easy Clean,Paint and ancillaries,9187.21,8913.79,Fast Moving,3,2020,9187.21,14524.05,0,1,0,0,0,1,1,0,9395
+DIST010,E-commerce,Farmina N&D Dog Food 12kg,Pet Supplies,1940.51,2546.34,Medium,2,2021,1940.51,1586.92,0,0,1,1,1,0,0,0,6911
+DIST025,Financial Services,Disney Princess Doll,Toys,3092.1,3623.32,Medium,3,2022,3092.1,2934.73,0,1,0,1,0,1,1,0,17836
+DIST029,Manufacturing,Sony WH-1000XM5 Headphones,Electronics,4027.1,9515.13,Slow Moving,2,2023,4027.1,3079.74,0,0,1,0,1,0,0,0,20933
+DIST006,Financial Services,Ajanta Wall Clock,Home Goods,687.64,538.67,Fast Moving,4,2024,687.64,550.3,1,0,0,0,0,1,0,1,3904
+DIST025,Financial Services,Milton Thermosteel Flask,Home Goods,23041.72,21658.67,Fast Moving,2,2024,23041.72,19612.38,0,0,1,1,1,0,0,0,18184
+DIST036,Healthcare,MTR Breakfast Mix,Food,802.16,640.46,Fast Moving,2,2021,802.16,1355.4,0,0,1,1,1,0,0,0,26937
+DIST006,Financial Services,Himalaya Purifying Neem Face Wash,Beauty,17293.1,9807.82,Slow Moving,4,2023,17293.1,14661.75,1,0,0,0,0,1,0,1,4467
+DIST031,Education,Bosch Spark Plug Set,Automotive,5920.25,5780.38,Slow Moving,3,2020,5920.25,5376.91,0,1,0,0,0,1,1,0,22514
+DIST050,Wholesale,Minute Maid Pulpy Orange,Beverages,6129.73,8939.18,Fast Moving,4,2021,6129.73,8662.02,1,0,0,0,0,1,0,1,37520
+DIST027,Wholesale,Supradyn Multivitamin Tablets,Health,4890.7,3263.81,Fast Moving,4,2020,4890.7,3942.53,1,0,0,1,0,1,0,1,19291
+DIST046,Manufacturing,MacBook Air M3,Electronics,8685.63,10338.66,Fast Moving,2,2024,8685.63,7114.63,0,0,1,1,1,0,0,0,34783
+DIST009,Manufacturing,Kellogg's Corn Flakes,Food,8588.3,11517.95,Fast Moving,2,2023,8588.3,8556.44,0,0,1,0,1,0,0,0,6735
+DIST043,Education,Nerolac Excel Anti-Peel Exterior,Paint and ancillaries,2872.38,3593.19,Slow Moving,4,2025,2872.38,3358.04,1,0,0,0,0,1,0,1,32435
+DIST040,Retail,Parle-G Biscuits Value Pack,Food,5851.29,5909.6,Slow Moving,1,2025,5851.29,7670.15,0,0,1,1,0,0,0,0,30306
+DIST005,Financial Services,Kellogg's Corn Flakes,Food,8052.06,11517.95,Fast Moving,4,2024,8052.06,9155.58,1,0,0,0,0,1,0,1,3152

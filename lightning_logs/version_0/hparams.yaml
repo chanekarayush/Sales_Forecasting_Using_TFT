@@ -1074,14 +1074,14 @@ dataset_parameters:
   group_ids:
   - sku
   lags: null
-  max_encoder_length: 8
-  max_prediction_length: 4
-  min_encoder_length: 8
+  max_encoder_length: 7
+  max_prediction_length: 24
+  min_encoder_length: 7
   min_prediction_idx: !!python/object/apply:numpy._core.multiarray.scalar
   - *id001
   - !!binary |
     BgAAAAAAAAA=
-  min_prediction_length: 4
+  min_prediction_length: 24
   predict_mode: false
   randomize_length: null
   scalers:
@@ -2162,7 +2162,7 @@ log_gradient_flow: false
 log_interval: -1
 log_val_interval: null
 lstm_layers: 1
-max_encoder_length: 8
+max_encoder_length: 7
 monotone_constaints: {}
 monotone_constraints: {}
 optimizer: adam
