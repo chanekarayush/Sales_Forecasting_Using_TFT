@@ -1,6 +1,5 @@
 import torch
 import torch.nn as nn
-import pandas as pd
 
 class TransformerModel(nn.Module):
     def __init__(self, input_dim, model_dim, n_heads, n_layers, output_dim):
@@ -14,12 +13,3 @@ class TransformerModel(nn.Module):
         x = self.transformer(x)
         x = self.fc(x)
         return x
-
-# Hyperparameters
-input_dim = 10  # Number of input features
-model_dim = 64  # Dimension of the model
-n_heads = 4     # Number of attention heads
-n_layers = 2    # Number of transformer layers
-output_dim = 1  # Output dimension (e.g., predicted sales)
-
-model = TransformerModel(input_dim, model_dim, n_heads, n_layers, output_dim)
