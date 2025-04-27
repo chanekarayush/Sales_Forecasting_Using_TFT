@@ -37,6 +37,14 @@ The architecture includes:
 ---
 Here’s a high-level architecture overview:
 
+<!-- ![Architecture Diagram](./images/diagram.png) -->
+<center>
+
+<img src="./images/diagram.png" title="Architecture Diagram" height="1080px"></img>
+
+</center>
+
+
 ```plaintext
 RAW SALES DATA
 (distributor_id, sku, category, sales, quarter, year, festivals, etc.)
@@ -70,33 +78,10 @@ RAW SALES DATA
 
 
 
-## Dataset Overview
-
-flowchart LR
-    A[Raw Sales Data] --> B[Preprocessing]
-    B --> C[TimeSeriesDataSet]
-    C --> D[Temporal Fusion Transformer (TFT)]
-    D --> E[Predictions]
-
-    A --> |"distributor_id, sku, category, sales, quarter, year, festivals, etc."| B
-    B --> |"Fill missing values, encode categorical, normalize real features"| C
-    C --> |"time_idx, target = sales, group_ids = distributor_id, known/observed/static features"| D
-    D --> |"Variable Selection Networks, LSTM Encoder-Decoder, Multi-Head Attention, Gated Residual Networks, Quantile Loss"| E
-    E --> |"Forecast next quarters, visualize quantiles, sales trend analysis"| F[Final Sales Forecast]
-
-    style A fill:#f9f,stroke:#333,stroke-width:2px;
-    style B fill:#ccf,stroke:#333,stroke-width:2px;
-    style C fill:#cfc,stroke:#333,stroke-width:2px;
-    style D fill:#fcf,stroke:#333,stroke-width:2px;
-    style E fill:#ff9,stroke:#333,stroke-width:2px;
-    style F fill:#9f9,stroke:#333,stroke-width:2px;
-
-
-
 ## Model Metrics
 The model achieves high accuracy in predicting quarterly trends based on previous distributor sales records.
 
-![Prediction Metrics](./output/prediction-metrics1.png)
+![Prediction Metrics](./images/prediction-metrics1.png)
 
 
 *Prediction Metrics display values on x-axis in ₹ and the frequency on the y-axis*
