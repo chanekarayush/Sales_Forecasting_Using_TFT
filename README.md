@@ -22,51 +22,81 @@ This is part of a larger project with separate components for the frontend and b
 The core model is based on the **Temporal Fusion Transformer (TFT)**, a powerful deep learning model for time series forecasting.  
 The architecture includes:
 
-- **Gated Residual Networks (GRN)** for feature processing
-- **Variable Selection Networks** for dynamic feature selection
-- **LSTM Encoder-Decoder** for capturing temporal relationships
-- **Multi-Head Attention** for long-term dependency learning
-- **Static Covariates Encoder** for embedding constant features
+- **Variable Selection Networks**: Dynamically select the most relevant input variables.
+- **Gated Residual Networks (GRN)**: Process information with skip connections.
+- **LSTM Encoder-Decoder**: Capture sequential dependencies in time series.
+- **Multi-Head Attention**: Focus on the most relevant past time steps.
+- **Static Covariates Encoder**: (optional) Handle features that don't change over time.
+- **Quantile Regression Loss**: Predict multiple quantiles (for probabilistic forecasting).
 
 ### Model Diagram
+---
 Here’s a high-level architecture overview:
 
 ```plaintext
-Input Features (Static + Time-Varying)
-            ↓
-    Variable Selection Networks
-            ↓
-    Gated Residual Networks (GRN)
-            ↓
-        LSTM Encoder
-            ↓
-        LSTM Decoder
-            ↓
-    Multi-Head Attention Mechanism
-            ↓
-    Prediction Layer (Sales Forecast)
+RAW SALES DATA
+(distributor_id, sku, category, sales, quarter, year, festivals, etc.)
+      ↓
+⮕ Preprocessing
+- Fill missing values
+- Encode categorical variables
+- Normalize real-valued features
+      ↓
+⮕ TimeSeriesDataSet (PyTorch Forecasting)
+- time_idx = time index (quarter/year)
+- target = sales
+- group_ids = distributor_id
+- known/observed/static features
+      ↓
+⮕ Temporal Fusion Transformer (TFT)
+- Variable Selection Networks
+- LSTM Encoder-Decoder
+- Multi-Head Attention
+- Gated Residual Networks
+- Quantile Loss (probabilistic forecasts)
+      ↓
+⮕ Predictions
+- Forecast next quarters
+- Visualize quantiles
+- Sales trend analysis
 ```
 
+---
 *Note: A detailed visualization of TFT is available in the [original TFT paper](https://arxiv.org/abs/1912.09363).*
 
----
 
-## Example Prediction
 
-Here’s an example of how the model predicts sales:
+## Dataset Overview
 
-| Quarter        | Actual Sales | Predicted Sales |
-|----------------|--------------|-----------------|
-| Q1 2023        |  1,250,000   |   1,240,500     |
-| Q2 2023        |  1,300,000   |   1,295,200     |
-| Q3 2023        |  1,400,000   |   1,390,800     |
-| Q4 2023        |  1,450,000   |   1,445,300     |
+flowchart TD
+    A[Raw Sales Data] --> B[Preprocessing]
+    B --> C[TimeSeriesDataSet]
+    C --> D[Temporal Fusion Transformer]
+    D --> E[Predictions]
 
+    A --> |"distributor_id, sku, category, sales, quarter, year, festivals, etc."| B
+    B --> |"Fill missing values, encode categorical, normalize real features"| C
+    C --> |"time_idx = time index, target = sales, group_ids = distributor_id, known/observed/static features"| D
+    D --> |"Variable Selection Networks, LSTM Encoder-Decoder, Multi-Head Attention, Gated Residual Networks, Quantile Loss"| E
+    E --> |"Forecast next quarters, visualize quantiles, sales trend analysis"| F[Final Sales Forecast]
+
+
+## Model Metrics
 The model achieves high accuracy in predicting quarterly trends based on previous distributor sales records.
+
+![Prediction Metrics](./output/prediction-metrics1.png)
+
+
+*Prediction Metrics display values on x-axis in ₹ and the frequency on the y-axis*
 
 ---
 
 ## Future Improvements
 - Hyperparameter tuning for even better prediction accuracy
 - Incorporating additional external covariates (e.g., economic indicators)
+- Using web scraping to predict unforseen economic events
 - Deploying an auto-retraining pipeline based on new sales data
+
+Awesome! 🎯 Since you already made the graphs, let’s make a **professional diagram** for your README that shows your full pipeline clearly.
+
+---
