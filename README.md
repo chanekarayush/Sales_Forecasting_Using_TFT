@@ -1,1 +1,3 @@
-# INC_Sales_Forecasting_Project
+# Sales Forecasting using Temporal Fusion Transformer
+This repository contains the Machine Learning Model for the Sales Prediction Application built for INC 2025. 
+
