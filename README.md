@@ -44,7 +44,7 @@ Here’s a high-level architecture overview:
 
 </center>
 
-
+<!--
 ```plaintext
 RAW SALES DATA
 (distributor_id, sku, category, sales, quarter, year, festivals, etc.)
@@ -72,6 +72,7 @@ RAW SALES DATA
 - Visualize quantiles
 - Sales trend analysis
 ```
+-->
 
 ---
 *Note: A detailed visualization of TFT is available in the [original TFT paper](https://arxiv.org/abs/1912.09363).*
